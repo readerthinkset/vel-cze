@@ -174,7 +174,42 @@
       "transliteration": "Neh, dye-koo-yee.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-16T20:13:28.281935"
+    },
+    {
+      "english": "Let's go, shall we?",
+      "czech": "Jdeme, ne?",
+      "transliteration": "Jdem-eh, neh?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T22:12:29.767678"
+    },
+    {
+      "english": "It's not that simple.",
+      "czech": "Není to tak jednoduché.",
+      "transliteration": "Ne-nyee to tak jed-no-doo-kheh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T22:12:29.767690"
+    },
+    {
+      "english": "Take your time, please.",
+      "czech": "Vezměte si čas, prosím.",
+      "transliteration": "Vez-meh-teh see chahs, pro-seem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T22:12:29.767691"
+    },
+    {
+      "english": "Don't worry about it.",
+      "czech": "Nedělej si starosti.",
+      "transliteration": "Ne-deh-lay see star-ost-ee.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T22:12:29.767693"
+    },
+    {
+      "english": "What do you think?",
+      "czech": "Co si myslíš?",
+      "transliteration": "Tso see mys-leesh?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-16T22:12:29.767694"
     }
   ],
-  "last_updated": "2026-06-16T20:13:28.281937"
+  "last_updated": "2026-06-16T22:12:29.767696"
 }
