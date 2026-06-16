@@ -139,7 +139,42 @@
       "transliteration": "Prijmi vyzvu, rostni.",
       "category": "Strength",
       "generated_at": "2026-06-16T18:26:50.154961"
+    },
+    {
+      "english": "Hello, how are you?",
+      "czech": "Dobrý den, jak se máte?",
+      "transliteration": "Dob-ree den, yak se mah-teh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T20:13:28.281921"
+    },
+    {
+      "english": "Thank you, very much.",
+      "czech": "Děkuji, moc.",
+      "transliteration": "Dye-koo-yee, mots.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T20:13:28.281932"
+    },
+    {
+      "english": "Excuse me, please.",
+      "czech": "Promiňte, prosím.",
+      "transliteration": "Pro-meen-teh, pro-seem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T20:13:28.281933"
+    },
+    {
+      "english": "Yes, please.",
+      "czech": "Ano, prosím.",
+      "transliteration": "Ah-no, pro-seem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T20:13:28.281934"
+    },
+    {
+      "english": "No, thank you.",
+      "czech": "Ne, děkuji.",
+      "transliteration": "Neh, dye-koo-yee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-16T20:13:28.281935"
     }
   ],
-  "last_updated": "2026-06-16T18:26:50.154962"
+  "last_updated": "2026-06-16T20:13:28.281937"
 }
