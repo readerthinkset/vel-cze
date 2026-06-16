@@ -34,7 +34,42 @@
       "transliteration": "Delash me, shchastnym.",
       "category": "Love",
       "generated_at": "2026-06-16T13:11:23.325899"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "czech": "Děkuji, za všechno.",
+      "transliteration": "Dye-koo-yi, za vsheh-ko.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-16T13:15:37.012528"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "czech": "Cením si, tvé pomoci.",
+      "transliteration": "Tsen-im si, tveh po-mo-tsi.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-16T13:15:37.012537"
+    },
+    {
+      "english": "That's very kind, of you.",
+      "czech": "To je od tebe, velmi milé.",
+      "transliteration": "To ye od teh-beh, vel-mi mi-leh.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-16T13:15:37.012539"
+    },
+    {
+      "english": "I'm grateful, for this moment.",
+      "czech": "Jsem vděčný, za tento okamžik.",
+      "transliteration": "Sem vdyetsh-ny, za ten-to o-kam-zhik.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-16T13:15:37.012540"
+    },
+    {
+      "english": "Thanks a lot, my friend.",
+      "czech": "Díky moc, příteli.",
+      "transliteration": "Dee-ky mots, prshi-teh-li.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-16T13:15:37.012542"
     }
   ],
-  "last_updated": "2026-06-16T13:11:23.325900"
+  "last_updated": "2026-06-16T13:15:37.012543"
 }
