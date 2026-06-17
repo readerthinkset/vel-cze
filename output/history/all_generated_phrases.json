@@ -244,7 +244,42 @@
       "transliteration": "Naydi svoye shtesti.",
       "category": "Positive Life",
       "generated_at": "2026-06-17T02:54:15.090045"
+    },
+    {
+      "english": "Your effort, is amazing.",
+      "czech": "Tvoje úsilí, je úžasné.",
+      "transliteration": "Tvoyeh oosili, yeh oozhashneh.",
+      "category": "Success",
+      "generated_at": "2026-06-17T14:51:07.738405"
+    },
+    {
+      "english": "Keep pushing, you're close.",
+      "czech": "Pokračuj, jsi blízko.",
+      "transliteration": "Pokrachoy, yees bleezko.",
+      "category": "Success",
+      "generated_at": "2026-06-17T14:51:07.738416"
+    },
+    {
+      "english": "You learned that, fast!",
+      "czech": "Naučil ses to, rychle!",
+      "transliteration": "Nauchil ses toh, rykhleh!",
+      "category": "Success",
+      "generated_at": "2026-06-17T14:51:07.738418"
+    },
+    {
+      "english": "That's perfect, well done.",
+      "czech": "To je perfektní, dobře.",
+      "transliteration": "Toh yeh perfekhtnee, dobreh.",
+      "category": "Success",
+      "generated_at": "2026-06-17T14:51:07.738419"
+    },
+    {
+      "english": "You're understanding, great!",
+      "czech": "Chápeš to, skvěle!",
+      "transliteration": "Khapesh toh, skveleh!",
+      "category": "Success",
+      "generated_at": "2026-06-17T14:51:07.738420"
     }
   ],
-  "last_updated": "2026-06-17T02:54:15.090047"
+  "last_updated": "2026-06-17T14:51:07.738422"
 }
