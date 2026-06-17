@@ -314,7 +314,42 @@
       "transliteration": "Nas-lou-chei sve-mu te-lu, ci-tish proud.",
       "category": "Balance",
       "generated_at": "2026-06-17T19:26:07.784570"
+    },
+    {
+      "english": "Good morning, friend.",
+      "czech": "Dobré ráno, příteli.",
+      "transliteration": "Dob-reh raa-no, pree-te-li.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T22:01:11.258851"
+    },
+    {
+      "english": "Nice to meet you.",
+      "czech": "Těší mě, poznat tě.",
+      "transliteration": "Tyeshee myeh, poz-nat tyeh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T22:01:11.258862"
+    },
+    {
+      "english": "Welcome to Prague.",
+      "czech": "Vítejte v Praze.",
+      "transliteration": "Vee-tay-teh v Pra-zeh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T22:01:11.258864"
+    },
+    {
+      "english": "Hello, sir.",
+      "czech": "Dobrý den, pane.",
+      "transliteration": "Dob-ree den, pa-neh.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T22:01:11.258866"
+    },
+    {
+      "english": "Good day, madam.",
+      "czech": "Dobrý den, paní.",
+      "transliteration": "Dob-ree den, paa-nee.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T22:01:11.258867"
     }
   ],
-  "last_updated": "2026-06-17T19:26:07.784572"
+  "last_updated": "2026-06-17T22:01:11.258869"
 }
