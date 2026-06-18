@@ -419,7 +419,42 @@
       "transliteration": "Dob-reh poti-tsi, rostou pshi-ro-zen-yeh.",
       "category": "Happiness",
       "generated_at": "2026-06-18T14:50:59.487945"
+    },
+    {
+      "english": "You've got this, keep going.",
+      "czech": "Zvládneš to, pokračuj.",
+      "transliteration": "Zvahd-nesh toh, pok-ra-chuy.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:00:26.172896"
+    },
+    {
+      "english": "Little by little, you learn.",
+      "czech": "Postupně, učíš se.",
+      "transliteration": "Pos-tup-nye, oo-cheesh se.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:00:26.172907"
+    },
+    {
+      "english": "Speak slowly, clearly.",
+      "czech": "Mluv pomalu, jasně.",
+      "transliteration": "Mluv po-ma-loo, yas-nye.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:00:26.172908"
+    },
+    {
+      "english": "Mistakes happen, that's okay.",
+      "czech": "Chyby se stávají, to je v pořádku.",
+      "transliteration": "Khi-by se stah-va-yee, toh yeh v po-zhaht-koo.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:00:26.172910"
+    },
+    {
+      "english": "Each word, a step forward.",
+      "czech": "Každé slovo, krok vpřed.",
+      "transliteration": "Kazh-de slo-vo, krok vpred.",
+      "category": "Confidence",
+      "generated_at": "2026-06-18T17:00:26.172911"
     }
   ],
-  "last_updated": "2026-06-18T14:50:59.487947"
+  "last_updated": "2026-06-18T17:00:26.172913"
 }
