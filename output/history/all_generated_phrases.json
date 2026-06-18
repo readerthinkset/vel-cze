@@ -454,7 +454,42 @@
       "transliteration": "Kazh-de slo-vo, krok vpred.",
       "category": "Confidence",
       "generated_at": "2026-06-18T17:00:26.172911"
+    },
+    {
+      "english": "Be brave, and go.",
+      "czech": "Buď statečný, a jdi.",
+      "transliteration": "Boodch stah-yet-ny, ah ydee.",
+      "category": "Courage",
+      "generated_at": "2026-06-18T19:39:34.362756"
+    },
+    {
+      "english": "Face your fears, head on.",
+      "czech": "Čel svým strachům, čelem.",
+      "transliteration": "Chyel svim stra-hoom, chyeh-lem.",
+      "category": "Courage",
+      "generated_at": "2026-06-18T19:39:34.362766"
+    },
+    {
+      "english": "Daring is your strength.",
+      "czech": "Odvážnost je tvá síla.",
+      "transliteration": "Od-vahzh-nost yey tvah see-lah.",
+      "category": "Courage",
+      "generated_at": "2026-06-18T19:39:34.362767"
+    },
+    {
+      "english": "Find courage, deep inside.",
+      "czech": "Najdi odvahu, hluboko v sobě.",
+      "transliteration": "Nai-dee od-vah-hoo, hloo-boh-ko v soh-byeh.",
+      "category": "Courage",
+      "generated_at": "2026-06-18T19:39:34.362769"
+    },
+    {
+      "english": "Rise up, and try again.",
+      "czech": "Vstaň, a zkus to znovu.",
+      "transliteration": "Vstahn, ah zkoos toh zno-voo.",
+      "category": "Courage",
+      "generated_at": "2026-06-18T19:39:34.362770"
     }
   ],
-  "last_updated": "2026-06-18T17:00:26.172913"
+  "last_updated": "2026-06-18T19:39:34.362772"
 }
