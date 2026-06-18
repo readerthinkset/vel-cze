@@ -349,7 +349,42 @@
       "transliteration": "Dob-ree den, paa-nee.",
       "category": "Greetings",
       "generated_at": "2026-06-17T22:01:11.258867"
+    },
+    {
+      "english": "Hello, may I have a menu?",
+      "czech": "Dobrý den, můžu poprosit o jídelní lístek?",
+      "transliteration": "Dob-ree den, moo-zhoo pop-roh-seet oh yee-del-nee leest-ek?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T02:49:25.362595"
+    },
+    {
+      "english": "Where is the nearest train station?",
+      "czech": "Kde je, prosím, nejbližší nádraží?",
+      "transliteration": "Gde yeh, pro-seem, nay-blee-shee nah-dra-zhee?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T02:49:25.362606"
+    },
+    {
+      "english": "How much does this cost?",
+      "czech": "Kolik, prosím, tohle stojí?",
+      "transliteration": "Koh-leek, pro-seem, toh-leh stoh-yee?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T02:49:25.362607"
+    },
+    {
+      "english": "A ticket to Prague, please.",
+      "czech": "Jízdenka do Prahy, prosím.",
+      "transliteration": "Yeez-den-kah doh Pra-hy, pro-seem.",
+      "category": "Travel",
+      "generated_at": "2026-06-18T02:49:25.362609"
+    },
+    {
+      "english": "Can you recommend something?",
+      "czech": "Můžete mi, prosím, něco doporučit?",
+      "transliteration": "Moo-zheh-teh mee, pro-seem, ne-tsoh doh-po-roo-cheet?",
+      "category": "Travel",
+      "generated_at": "2026-06-18T02:49:25.362610"
     }
   ],
-  "last_updated": "2026-06-17T22:01:11.258869"
+  "last_updated": "2026-06-18T02:49:25.362612"
 }
