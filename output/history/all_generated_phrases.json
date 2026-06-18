@@ -489,7 +489,42 @@
       "transliteration": "Vstahn, ah zkoos toh zno-voo.",
       "category": "Courage",
       "generated_at": "2026-06-18T19:39:34.362770"
+    },
+    {
+      "english": "I'm sorry, please forgive me.",
+      "czech": "Promiň, odpusť mi prosím.",
+      "transliteration": "Promin, odpusť mi prosím.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:27:25.573041"
+    },
+    {
+      "english": "It was my mistake, I apologize.",
+      "czech": "Byla to moje chyba, omlouvám se.",
+      "transliteration": "Byla to moje chyba, omlouvám se.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:27:25.573049"
+    },
+    {
+      "english": "I regret what happened.",
+      "czech": "Lituji toho, co se stalo.",
+      "transliteration": "Lituji toho, co se stalo.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:27:25.573051"
+    },
+    {
+      "english": "Can you forgive me, please?",
+      "czech": "Můžeš mi odpustit, prosím?",
+      "transliteration": "Můžeš mi odpustit, prosím?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:27:25.573052"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "czech": "Doufám, že mi odpustíš.",
+      "transliteration": "Doufám, že mi odpustíš.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T22:27:25.573053"
     }
   ],
-  "last_updated": "2026-06-18T19:39:34.362772"
+  "last_updated": "2026-06-18T22:27:25.573058"
 }
