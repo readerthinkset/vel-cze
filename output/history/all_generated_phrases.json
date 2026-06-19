@@ -594,7 +594,42 @@
       "transliteration": "Bah-bee-chkoh, mahm tyah rahd.",
       "category": "Family Terms",
       "generated_at": "2026-06-19T14:43:36.948543"
+    },
+    {
+      "english": "You are, a great friend.",
+      "czech": "Jsi, skvělý přítel.",
+      "transliteration": "Ysi, skveliy preetell.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T16:30:53.783392"
+    },
+    {
+      "english": "Let's hang out, soon.",
+      "czech": "Sejdeme se, brzy.",
+      "transliteration": "Sejdeme se, brzy.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T16:30:53.783401"
+    },
+    {
+      "english": "Thanks for, everything.",
+      "czech": "Děkuji za, všechno.",
+      "transliteration": "Dyekiyi za, vsyechno.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T16:30:53.783403"
+    },
+    {
+      "english": "You always, make me laugh.",
+      "czech": "Vždycky, mě rozesměješ.",
+      "transliteration": "Vzdycky, mye rozezmyeyesh.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T16:30:53.783404"
+    },
+    {
+      "english": "I'm glad, we are friends.",
+      "czech": "Jsem rád, že jsme přátelé.",
+      "transliteration": "Ysem raad, zhe smye preyatele.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T16:30:53.783405"
     }
   ],
-  "last_updated": "2026-06-19T14:43:36.948545"
+  "last_updated": "2026-06-19T16:30:53.783410"
 }
