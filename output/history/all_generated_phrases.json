@@ -559,7 +559,42 @@
       "transliteration": "Cista radost, wow.",
       "category": "Joy",
       "generated_at": "2026-06-19T03:34:41.023710"
+    },
+    {
+      "english": "My dear mother, hello.",
+      "czech": "Moje milá maminko, ahoj.",
+      "transliteration": "Moy-eh mee-lah mah-meen-koh, ah-hoy.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:43:36.948528"
+    },
+    {
+      "english": "Father, how are you?",
+      "czech": "Tati, jak se máš?",
+      "transliteration": "Tah-tee, yahk seh mahsh?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:43:36.948538"
+    },
+    {
+      "english": "My brother, my friend.",
+      "czech": "Můj bratr, můj kamarád.",
+      "transliteration": "Moo-y brahtr, moo-y kah-mah-rahd.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:43:36.948540"
+    },
+    {
+      "english": "Sister, can you help?",
+      "czech": "Sestro, můžeš pomoct?",
+      "transliteration": "Sehs-troh, moo-zhesh poh-mohct?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:43:36.948541"
+    },
+    {
+      "english": "Grandma, I love you.",
+      "czech": "Babičko, mám tě rád.",
+      "transliteration": "Bah-bee-chkoh, mahm tyah rahd.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:43:36.948543"
     }
   ],
-  "last_updated": "2026-06-19T03:34:41.023712"
+  "last_updated": "2026-06-19T14:43:36.948545"
 }
