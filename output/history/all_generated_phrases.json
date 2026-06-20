@@ -699,7 +699,42 @@
       "transliteration": "Vyery-v se-beh, to do-kah-zhesh.",
       "category": "Self Improvement",
       "generated_at": "2026-06-19T21:11:48.244713"
+    },
+    {
+      "english": "One, two, three, go!",
+      "czech": "Jedna, dvě, tři, jedem!",
+      "transliteration": "Jedna, dve, tri, jedem!",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T02:38:56.007795"
+    },
+    {
+      "english": "How many, please?",
+      "czech": "Kolik, prosím?",
+      "transliteration": "Kolik, prosim?",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T02:38:56.007804"
+    },
+    {
+      "english": "It costs ten crowns.",
+      "czech": "Stojí to deset korun.",
+      "transliteration": "Stoji to deset korun.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T02:38:56.007806"
+    },
+    {
+      "english": "Just one, thank you.",
+      "czech": "Jen jeden, děkuji.",
+      "transliteration": "Jen jeden, dekuji.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T02:38:56.007807"
+    },
+    {
+      "english": "We need two more.",
+      "czech": "Potřebujeme ještě dva.",
+      "transliteration": "Potrebujeme jeste dva.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T02:38:56.007807"
     }
   ],
-  "last_updated": "2026-06-19T21:11:48.244715"
+  "last_updated": "2026-06-20T02:38:56.007809"
 }
