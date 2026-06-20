@@ -734,7 +734,42 @@
       "transliteration": "Potrebujeme jeste dva.",
       "category": "Numbers",
       "generated_at": "2026-06-20T02:38:56.007807"
+    },
+    {
+      "english": "Learn Czech, step by step.",
+      "czech": "Učte se česky, krok za krokem.",
+      "transliteration": "Uch-teh se ches-ky, kroke za kroh-kem.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T13:27:52.825871"
+    },
+    {
+      "english": "Speak clearly, listen well.",
+      "czech": "Mluvte jasně, poslouchejte dobře.",
+      "transliteration": "Mluv-teh yahs-nyeh, poh-slo-u-ych-teh doh-breh.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T13:27:52.825878"
+    },
+    {
+      "english": "Practice daily, improve faster.",
+      "czech": "Trénujte denně, zlepšujte se rychleji.",
+      "transliteration": "Treh-nu-ych-teh den-nyeh, zleh-shoo-ych-teh seh zlehp-sheh-yee.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T13:27:52.825880"
+    },
+    {
+      "english": "Ask questions, get answers.",
+      "czech": "Ptejte se, dostanete odpovědi.",
+      "transliteration": "Pteh-y-teh seh, doh-stah-neh-teh ot-poh-vyeh-d-ee.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T13:27:52.825881"
+    },
+    {
+      "english": "Read books, expand mind.",
+      "czech": "Čtěte knihy, rozšiřte mysl.",
+      "transliteration": "Ch-teh-teh k-nee-hy, roh-shir-teh mysl.",
+      "category": "Purpose",
+      "generated_at": "2026-06-20T13:27:52.825885"
     }
   ],
-  "last_updated": "2026-06-20T02:38:56.007809"
+  "last_updated": "2026-06-20T13:27:52.825887"
 }
