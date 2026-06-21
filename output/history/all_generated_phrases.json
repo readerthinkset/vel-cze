@@ -909,7 +909,42 @@
       "transliteration": "Ko-leek to stoy-ee?",
       "category": "Common Expressions",
       "generated_at": "2026-06-21T02:54:56.131062"
+    },
+    {
+      "english": "You made my day, thank you.",
+      "czech": "Zlepšil jsi mi den, děkuji.",
+      "transliteration": "Zlep-shil si mi den, dye-koo-yi.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T13:48:03.281136"
+    },
+    {
+      "english": "This means, a lot to me.",
+      "czech": "To pro mě, hodně znamená.",
+      "transliteration": "To pro mnye, hod-nye zma-neh-na.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T13:48:03.281146"
+    },
+    {
+      "english": "I'm so thankful, truly.",
+      "czech": "Jsem tak vděčný, opravdu.",
+      "transliteration": "Sem tak vdyetsh-ny, o-prav-doo.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T13:48:03.281148"
+    },
+    {
+      "english": "Bless you, for your kindness.",
+      "czech": "Požehnej ti, za tvou laskavost.",
+      "transliteration": "Po-zheh-ney ti, za tvou las-ka-vost.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T13:48:03.281150"
+    },
+    {
+      "english": "You're the best, thank you.",
+      "czech": "Jsi nejlepší, děkuji.",
+      "transliteration": "Si ney-lep-shi, dye-koo-yi.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-21T13:48:03.281151"
     }
   ],
-  "last_updated": "2026-06-21T02:54:56.131064"
+  "last_updated": "2026-06-21T13:48:03.281153"
 }
