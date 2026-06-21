@@ -944,7 +944,42 @@
       "transliteration": "Si ney-lep-shi, dye-koo-yi.",
       "category": "Gratitude",
       "generated_at": "2026-06-21T13:48:03.281151"
+    },
+    {
+      "english": "How much is this, please?",
+      "czech": "Kolik to stojí, prosím?",
+      "transliteration": "Kolik to sto-yi, pro-seem?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:49:19.087643"
+    },
+    {
+      "english": "I'm looking for, a gift.",
+      "czech": "Hledám, dárek.",
+      "transliteration": "Hle-dam, daa-rek.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:49:19.087651"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "czech": "Můžu si to vyzkoušet, prosím?",
+      "transliteration": "Moo-zhoo si to vy-skou-shet, pro-seem?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:49:19.087653"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "czech": "Kde je zkušební kabinka?",
+      "transliteration": "Gde ye zkush-eb-nee kab-in-ka?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:49:19.087654"
+    },
+    {
+      "english": "Do you have this, in blue?",
+      "czech": "Máte to, v modré barvě?",
+      "transliteration": "Maa-te to, v mod-ray bar-vye?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T15:49:19.087656"
     }
   ],
-  "last_updated": "2026-06-21T13:48:03.281153"
+  "last_updated": "2026-06-21T15:49:19.087657"
 }
