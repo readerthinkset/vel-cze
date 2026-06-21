@@ -874,7 +874,42 @@
       "transliteration": "Stuj vzprimene, bud hrdy/hrda.",
       "category": "Strength",
       "generated_at": "2026-06-20T21:18:44.100868"
+    },
+    {
+      "english": "It's all the same.",
+      "czech": "Je to všechno jedno.",
+      "transliteration": "Yeh to vsh-ek-hno yed-no.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T02:54:56.131048"
+    },
+    {
+      "english": "Can I help you?",
+      "czech": "Mohu vám pomoci?",
+      "transliteration": "Mo-hoo vahm po-mo-tsee?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T02:54:56.131058"
+    },
+    {
+      "english": "Just a moment, please.",
+      "czech": "Moment, prosím.",
+      "transliteration": "Mo-ment, pro-seem.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T02:54:56.131060"
+    },
+    {
+      "english": "I don't understand, sorry.",
+      "czech": "Nerozumím, promiňte.",
+      "transliteration": "Ne-ro-zoo-meem, pro-meen-teh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T02:54:56.131061"
+    },
+    {
+      "english": "How much is it?",
+      "czech": "Kolik to stojí?",
+      "transliteration": "Ko-leek to stoy-ee?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T02:54:56.131062"
     }
   ],
-  "last_updated": "2026-06-20T21:18:44.100870"
+  "last_updated": "2026-06-21T02:54:56.131064"
 }
