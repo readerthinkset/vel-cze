@@ -1084,7 +1084,42 @@
       "transliteration": "Nevzdavej se, nikdy.",
       "category": "Hope",
       "generated_at": "2026-06-22T16:28:58.796751"
+    },
+    {
+      "english": "Breathe in, breathe out, peace.",
+      "czech": "Nádech, výdech, klid.",
+      "transliteration": "Nadékh, výdékh, klid.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-22T18:12:22.219876"
+    },
+    {
+      "english": "Be here, now, fully.",
+      "czech": "Buď tady, teď, naplno.",
+      "transliteration": "Bud' tadý, ted', naplno.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-22T18:12:22.219884"
+    },
+    {
+      "english": "Feel the moment, gently.",
+      "czech": "Cítíš moment, jemně.",
+      "transliteration": "Cítíš moment, jemně.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-22T18:12:22.219886"
+    },
+    {
+      "english": "Listen close, to yourself.",
+      "czech": "Poslouchej pozorně, sebe.",
+      "transliteration": "Poslouchey pozorně, sebe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-22T18:12:22.219887"
+    },
+    {
+      "english": "Let thoughts drift, away.",
+      "czech": "Nech myšlenky plout, pryč.",
+      "transliteration": "Nech myšlenky plout, pryč.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-22T18:12:22.219888"
     }
   ],
-  "last_updated": "2026-06-22T16:28:58.796753"
+  "last_updated": "2026-06-22T18:12:22.219890"
 }
