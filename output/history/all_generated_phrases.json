@@ -1294,7 +1294,42 @@
       "transliteration": "Vážím si našeho přátelství, odpusť mi.",
       "category": "Forgiveness",
       "generated_at": "2026-06-23T16:25:43.382528"
+    },
+    {
+      "english": "Help me, please. I'm lost.",
+      "czech": "Pomozte mi, prosím. Jsem ztracen.",
+      "transliteration": "Pomozte mi, prosím. Jsem ztracen.",
+      "category": "Emergency",
+      "generated_at": "2026-06-23T19:12:49.579851"
+    },
+    {
+      "english": "Call for help, quickly!",
+      "czech": "Zavolejte pomoc, rychle!",
+      "transliteration": "Zavolejte pomoc, rychle!",
+      "category": "Emergency",
+      "generated_at": "2026-06-23T19:12:49.579860"
+    },
+    {
+      "english": "I need a doctor, now.",
+      "czech": "Potřebuji doktora, hned.",
+      "transliteration": "Potřebuji doktora, hned.",
+      "category": "Emergency",
+      "generated_at": "2026-06-23T19:12:49.579861"
+    },
+    {
+      "english": "Where is the nearest hospital?",
+      "czech": "Kde je nejbližší nemocnice?",
+      "transliteration": "Kde je nejbližší nemocnice?",
+      "category": "Emergency",
+      "generated_at": "2026-06-23T19:12:49.579863"
+    },
+    {
+      "english": "I am injured, badly.",
+      "czech": "Jsem zraněn, vážně.",
+      "transliteration": "Jsem zraněn, vážně.",
+      "category": "Emergency",
+      "generated_at": "2026-06-23T19:12:49.579864"
     }
   ],
-  "last_updated": "2026-06-23T16:25:43.382530"
+  "last_updated": "2026-06-23T19:12:49.579869"
 }
