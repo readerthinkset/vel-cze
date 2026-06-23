@@ -1189,7 +1189,42 @@
       "transliteration": "Hvaal, oop-zhzhee-mnye.",
       "category": "Kindness",
       "generated_at": "2026-06-22T22:02:46.212768"
+    },
+    {
+      "english": "Listen carefully, you'll get it.",
+      "czech": "Poslouchej pozorně, zvládneš to.",
+      "transliteration": "Posloukhey pozorne, zvladnesh toh.",
+      "category": "Success",
+      "generated_at": "2026-06-23T02:33:10.981390"
+    },
+    {
+      "english": "Try again, with confidence.",
+      "czech": "Zkus to znovu, s jistotou.",
+      "transliteration": "Tskoh toh zgohnvooh, s yee-stotoh.",
+      "category": "Success",
+      "generated_at": "2026-06-23T02:33:10.981399"
+    },
+    {
+      "english": "Your pronunciation, is improving.",
+      "czech": "Tvoje výslovnost, se zlepšuje.",
+      "transliteration": "Tvoyeh veeslovnost, seh zlep-shoo-yeh.",
+      "category": "Success",
+      "generated_at": "2026-06-23T02:33:10.981401"
+    },
+    {
+      "english": "This is progress, excellent.",
+      "czech": "Tohle je pokrok, výborně.",
+      "transliteration": "Tohleh yeh pokrok, veeborneh.",
+      "category": "Success",
+      "generated_at": "2026-06-23T02:33:10.981403"
+    },
+    {
+      "english": "You're speaking, Czech!",
+      "czech": "Mluvíš, česky!",
+      "transliteration": "Mlooveesh, cheh-skee!",
+      "category": "Success",
+      "generated_at": "2026-06-23T02:33:10.981404"
     }
   ],
-  "last_updated": "2026-06-22T22:02:46.212773"
+  "last_updated": "2026-06-23T02:33:10.981406"
 }
