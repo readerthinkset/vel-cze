@@ -1224,7 +1224,42 @@
       "transliteration": "Mlooveesh, cheh-skee!",
       "category": "Success",
       "generated_at": "2026-06-23T02:33:10.981404"
+    },
+    {
+      "english": "Now, or never.",
+      "czech": "Teď, nebo nikdy.",
+      "transliteration": "Tsed, nebo nikdy.",
+      "category": "Time",
+      "generated_at": "2026-06-23T14:28:02.058292"
+    },
+    {
+      "english": "Later, perhaps.",
+      "czech": "Později, možná.",
+      "transliteration": "Pozh-dye-yi, mozh-na.",
+      "category": "Time",
+      "generated_at": "2026-06-23T14:28:02.058302"
+    },
+    {
+      "english": "In time, we learn.",
+      "czech": "Časem se učíme.",
+      "transliteration": "Chah-sem se oo-chee-meh.",
+      "category": "Time",
+      "generated_at": "2026-06-23T14:28:02.058304"
+    },
+    {
+      "english": "Soon, very soon.",
+      "czech": "Brzy, velmi brzy.",
+      "transliteration": "Br-zee, vel-mee br-zee.",
+      "category": "Time",
+      "generated_at": "2026-06-23T14:28:02.058305"
+    },
+    {
+      "english": "Once upon a time...",
+      "czech": "Jednou, dávno.",
+      "transliteration": "Yed-nou, dahv-no.",
+      "category": "Time",
+      "generated_at": "2026-06-23T14:28:02.058306"
     }
   ],
-  "last_updated": "2026-06-23T02:33:10.981406"
+  "last_updated": "2026-06-23T14:28:02.058308"
 }
