@@ -1259,7 +1259,42 @@
       "transliteration": "Yed-nou, dahv-no.",
       "category": "Time",
       "generated_at": "2026-06-23T14:28:02.058306"
+    },
+    {
+      "english": "I truly apologize.",
+      "czech": "Opravdu se omlouvám.",
+      "transliteration": "Opravdu se omlouvám.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T16:25:43.382512"
+    },
+    {
+      "english": "Please accept my apology.",
+      "czech": "Přijmi mou omluvu, prosím.",
+      "transliteration": "Přijmi mou omluvu, prosím.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T16:25:43.382523"
+    },
+    {
+      "english": "I messed up, I'm so sorry.",
+      "czech": "Zkazil jsem to, moc mě to mrzí.",
+      "transliteration": "Zkazil jsem to, moc mě to mrzí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T16:25:43.382525"
+    },
+    {
+      "english": "Let's move past this, okay?",
+      "czech": "Pojďme to nechat za sebou, dobře?",
+      "transliteration": "Pojďme to nechat za sebou, dobře?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T16:25:43.382527"
+    },
+    {
+      "english": "I value our friendship, forgive me.",
+      "czech": "Vážím si našeho přátelství, odpusť mi.",
+      "transliteration": "Vážím si našeho přátelství, odpusť mi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T16:25:43.382528"
     }
   ],
-  "last_updated": "2026-06-23T14:28:02.058308"
+  "last_updated": "2026-06-23T16:25:43.382530"
 }
