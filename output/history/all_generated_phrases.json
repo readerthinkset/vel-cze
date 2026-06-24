@@ -1434,7 +1434,42 @@
       "transliteration": "Moo-zhoo pla-tit, kar-tow?",
       "category": "Shopping",
       "generated_at": "2026-06-24T18:52:44.527711"
+    },
+    {
+      "english": "We have, fun together.",
+      "czech": "Spolu, se bavíme.",
+      "transliteration": "Spolu, se baveeme.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T21:23:08.850607"
+    },
+    {
+      "english": "You are, my best friend.",
+      "czech": "Jsi, můj nejlepší kamarád.",
+      "transliteration": "Ysi, muy neylepshi kamaraad.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T21:23:08.850616"
+    },
+    {
+      "english": "I can, count on you.",
+      "czech": "Můžu, se na tebe spolehnout.",
+      "transliteration": "Moozhoo, se na tebe spolehnoot.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T21:23:08.850617"
+    },
+    {
+      "english": "Let's share, our secrets.",
+      "czech": "Podělme se, o tajemství.",
+      "transliteration": "Podelyme se, o tayemstvii.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T21:23:08.850618"
+    },
+    {
+      "english": "Friendship is, important.",
+      "czech": "Přátelství je, důležité.",
+      "transliteration": "Preyatelstvii ye, doolezhite.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T21:23:08.850620"
     }
   ],
-  "last_updated": "2026-06-24T18:52:44.527713"
+  "last_updated": "2026-06-24T21:23:08.850621"
 }
