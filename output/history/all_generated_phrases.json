@@ -1399,7 +1399,42 @@
       "transliteration": "Sem hr-dy na tvooy po-krok, ano.",
       "category": "Confidence",
       "generated_at": "2026-06-24T14:06:34.411894"
+    },
+    {
+      "english": "I'll take this one, thank you.",
+      "czech": "Vezmu si tohle, děkuji.",
+      "transliteration": "Vez-moo si toh-leh, dye-koo-yee.",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T18:52:44.527699"
+    },
+    {
+      "english": "Is there a discount, perhaps?",
+      "czech": "Je možná sleva?",
+      "transliteration": "Ye moz-hna slev-a?",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T18:52:44.527707"
+    },
+    {
+      "english": "I need a bag, please.",
+      "czech": "Potřebuji tašku, prosím.",
+      "transliteration": "Pot-shre-boo-yoo tash-koo, pro-seem.",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T18:52:44.527709"
+    },
+    {
+      "english": "I'm just browsing, thanks.",
+      "czech": "Jen se dívám, děkuji.",
+      "transliteration": "Yen se dee-vam, dye-koo-yee.",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T18:52:44.527710"
+    },
+    {
+      "english": "Can I pay, by card?",
+      "czech": "Můžu platit, kartou?",
+      "transliteration": "Moo-zhoo pla-tit, kar-tow?",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T18:52:44.527711"
     }
   ],
-  "last_updated": "2026-06-24T14:06:34.411896"
+  "last_updated": "2026-06-24T18:52:44.527713"
 }
