@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Pozdravy",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "cs-CZ-AntoninNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Czech.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Czech.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Czech text should be CLEAN - use standard Czech script
 7. Do NOT include multiple versions or slashes - just ONE clean Czech translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Czech text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Czech teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Czech teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Czech text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Czech text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "czech": "[CS] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "czech": "[CS] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "czech": "[CS] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "czech": "[CS] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "czech": "[CS] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "czech": "[CS] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "czech": "[CS] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "czech": "[CS] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "czech": "[CS] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "czech": "[CS] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "czech": "Dobr\u00fd den, t\u011b\u0161\u00ed m\u011b.", "transliteration": "Dobry den, teshi me."},
+        {"english": "Thank you very much.", "czech": "D\u011bkuji mnohokr\u00e1t.", "transliteration": "Dekuji mnohokrat."},
+        {"english": "Good morning, have a great day.", "czech": "Dobr\u00e9 r\u00e1no, p\u0159eji kr\u00e1sn\u00fd den.", "transliteration": "Dobre rano, preji krasny den."},
+        {"english": "I love learning new languages.", "czech": "Miluji u\u010den\u00ed se nov\u00fdm jazyk\u016fm.", "transliteration": "Miluji uceni se novym jazykum."},
+        {"english": "Never give up on your dreams.", "czech": "Nikdy se nevzd\u00e1vejte sv\u00fdch sn\u016f.", "transliteration": "Nikdy se nevzdavejte svych snu."},
+        {"english": "Every day is a fresh start.", "czech": "Ka\u017ed\u00fd den je nov\u00fd za\u010d\u00e1tek.", "transliteration": "Kazdy den je novy zacatek."},
+        {"english": "Believe in yourself always.", "czech": "V\u017edy v\u011b\u0159te v sebe.", "transliteration": "Vzdy verte v sebe."},
+        {"english": "Small steps lead to big changes.", "czech": "Mal\u00e9 kroky vedou k velk\u00fdm zm\u011bn\u00e1m.", "transliteration": "Male kroky vedou k velkym zmenam."},
+        {"english": "You are stronger than you think.", "czech": "Jste siln\u011bj\u0161\u00ed, ne\u017e si mysl\u00edte.", "transliteration": "Jste silnejsi, nez si myslite."},
+        {"english": "Happiness is a choice, choose it.", "czech": "\u0160t\u011bst\u00ed je volba, zvolte si ho.", "transliteration": "Stesti je volba, zvolte si ho."},
+        {"english": "What time is it please.", "czech": "Kolik je hodin, pros\u00edm?", "transliteration": "Kolik je hodin, prosim?"},
+        {"english": "Where is the train station.", "czech": "Kde je n\u00e1dra\u017e\u00ed?", "transliteration": "Kde je nadrazi?"},
+        {"english": "How much does this cost.", "czech": "Kolik to stoj\u00ed?", "transliteration": "Kolik to stoji?"},
+        {"english": "Can you help me please.", "czech": "M\u016f\u017eete mi pros\u00edm pomoci?", "transliteration": "Muzete mi prosim pomoci?"},
+        {"english": "I would like a coffee please.", "czech": "Dal bych si k\u00e1vu, pros\u00edm.", "transliteration": "Dal bych si kavu, prosim."},
+        {"english": "The food is delicious today.", "czech": "J\u00eddlo je dnes vynikaj\u00edc\u00ed.", "transliteration": "Jidlo je dnes vynikajici."},
+        {"english": "Have a wonderful weekend.", "czech": "P\u0159eji V\u00e1m kr\u00e1sn\u00fd v\u00edkend.", "transliteration": "Preji Vam krasny vikend."},
+        {"english": "Take care of yourself.", "czech": "Pe\u010dujte o sebe.", "transliteration": "Pecujte o sebe."},
+        {"english": "See you tomorrow my friend.", "czech": "Uvid\u00edme se z\u00edtra, p\u0159\u00edteli.", "transliteration": "Uvidime se zitra, pr\u00edteli."},
+        {"english": "The weather is beautiful outside.", "czech": "Venku je kr\u00e1sn\u00e9 po\u010das\u00ed.", "transliteration": "Venku je krasne pocasi."},
+        {"english": "I am very happy today.", "czech": "Dnes m\u00e1m velkou radost.", "transliteration": "Dnes mam velkou radost."},
+        {"english": "Learning a language opens new doors.", "czech": "U\u010den\u00ed jazyk\u016f otev\u00edr\u00e1 nov\u00e9 dve\u0159e.", "transliteration": "Uceni jazyku otevira nove dvere."},
+        {"english": "Keep practicing every single day.", "czech": "Procvi\u010dujte se ka\u017ed\u00fd den.", "transliteration": "Procvi\u010dujte se kazdy den."},
+        {"english": "You can achieve anything you want.", "czech": "M\u016f\u017eete dos\u00e1hnout \u010dehokoli, co si p\u0159ejete.", "transliteration": "Muzete dosahnout cehokoli, co si prejete."},
+        {"english": "Rest when you are tired.", "czech": "Odpo\u010d\u00edvejte, kdy\u017e jste unaven\u00ed.", "transliteration": "Odpo\u010d\u00edvejte, kdyz jste unaveni."},
+        {"english": "Focus on the positive things.", "czech": "Soust\u0159e\u010fte se na pozitivn\u00ed v\u011bci.", "transliteration": "Soust\u0159e\u010fte se na pozitivn\u00ed v\u011bci."},
+        {"english": "Learn from your mistakes.", "czech": "U\u010dte se ze sv\u00fdch chyb.", "transliteration": "U\u010dte se ze sv\u00fdch chyb."},
+        {"english": "Trust the process completely.", "czech": "Pln\u011b d\u016fv\u011b\u0159ujte procesu.", "transliteration": "Pln\u011b d\u016fv\u011b\u0159ujte procesu."},
+        {"english": "Breathe deeply and stay calm.", "czech": "Zhluboka se nadechn\u011bte a z\u016fsta\u0148te klidn\u00ed.", "transliteration": "Zhluboka se nadechn\u011bte a z\u016fsta\u0148te klidn\u00ed."},
+        {"english": "Enjoy the little moments in life.", "czech": "U\u017e\u00edvejte si mal\u00e9 okam\u017eiky v \u017eivot\u011b.", "transliteration": "U\u017e\u00edvejte si mal\u00e9 okam\u017eiky v \u017eivot\u011b."},
+        {"english": "Smile more, worry less.", "czech": "V\u00edce se usm\u00edvejte, m\u00e9n\u011b se ob\u00e1vejte.", "transliteration": "V\u00edce se usm\u00edvejte, m\u00e9n\u011b se ob\u00e1vejte."},
+        {"english": "Be kind to everyone you meet.", "czech": "Bu\u010fte laskav\u00ed ke v\u0161em, kter\u00e9 potk\u00e1te.", "transliteration": "Bu\u010fte laskav\u00ed ke v\u0161em, kter\u00e9 potk\u00e1te."},
+        {"english": "Help others without expecting anything back.", "czech": "Pom\u00e1hejte druh\u00fdm bez o\u010dek\u00e1v\u00e1n\u00ed n\u011b\u010deho zp\u011bt.", "transliteration": "Pom\u00e1hejte druh\u00fdm bez o\u010dek\u00e1v\u00e1n\u00ed n\u011b\u010deho zp\u011bt."},
+        {"english": "Forgive yourself and move forward.", "czech": "Odpus\u0165te si a jd\u011bte d\u00e1l.", "transliteration": "Odpus\u0165te si a jd\u011bte d\u00e1l."},
+        {"english": "Stay strong in difficult times.", "czech": "Z\u016fsta\u0148te siln\u00ed v t\u011b\u017ek\u00fdch \u010dasech.", "transliteration": "Z\u016fsta\u0148te siln\u00ed v t\u011b\u017ek\u00fdch \u010dasech."},
+        {"english": "Every moment is a new beginning.", "czech": "Ka\u017ed\u00fd okam\u017eik je nov\u00fd za\u010d\u00e1tek.", "transliteration": "Ka\u017ed\u00fd okam\u017eik je nov\u00fd za\u010d\u00e1tek."},
+        {"english": "Listen to your heart always.", "czech": "V\u017edy poslouchejte sv\u00e9 srdce.", "transliteration": "V\u017edy poslouchejte sv\u00e9 srdce."},
+        {"english": "Do what makes you happy.", "czech": "D\u011blejte to, co v\u00e1s d\u011bl\u00e1 \u0161\u0165astn\u00fdmi.", "transliteration": "D\u011blejte to, co v\u00e1s d\u011bl\u00e1 \u0161\u0165astn\u00fdmi."},
+        {"english": "Your potential is unlimited.", "czech": "V\u00e1\u0161 potenci\u00e1l je neomezen\u00fd.", "transliteration": "V\u00e1\u0161 potenci\u00e1l je neomezen\u00fd."},
+        {"english": "Be brave and take risks.", "czech": "Bu\u010fte odv\u00e1\u017en\u00ed a podstupujte rizika.", "transliteration": "Bu\u010fte odv\u00e1\u017en\u00ed a podstupujte rizika."},
+        {"english": "Celebrate your progress every day.", "czech": "Oslavujte sv\u016fj pokrok ka\u017ed\u00fd den.", "transliteration": "Oslavujte sv\u016fj pokrok ka\u017ed\u00fd den."},
+        {"english": "Surround yourself with good people.", "czech": "Obklopte se dobr\u00fdmi lidmi.", "transliteration": "Obklopte se dobr\u00fdmi lidmi."},
+        {"english": "Read books and grow your mind.", "czech": "\u010ct\u011bte knihy a roz\u0161i\u0159ujte svou mysl.", "transliteration": "\u010ct\u011bte knihy a roz\u0161i\u0159ujte svou mysl."},
+        {"english": "Travel and discover new places.", "czech": "Cestujte a objevujte nov\u00e1 m\u00edsta.", "transliteration": "Cestujte a objevujte nov\u00e1 m\u00edsta."},
+        {"english": "Appreciate what you already have.", "czech": "Oce\u0148te to, co u\u017e m\u00e1te.", "transliteration": "Oce\u0148te to, co u\u017e m\u00e1te."},
+        {"english": "Dance like nobody is watching.", "czech": "Tancujte, jako by se nikdo ned\u00edval.", "transliteration": "Tancujte, jako by se nikdo ned\u00edval."},
+        {"english": "Sing from your heart out loud.", "czech": "Zp\u00edvejte z cel\u00e9ho srdce nahlas.", "transliteration": "Zp\u00edvejte z cel\u00e9ho srdce nahlas."},
+        {"english": "Plant seeds of kindness everywhere.", "czech": "Zas\u00e9vejte sem\u00ednka laskavosti v\u0161ude.", "transliteration": "Zas\u00e9vejte sem\u00ednka laskavosti v\u0161ude."},
+        {"english": "Let go of what you cannot control.", "czech": "Pus\u0165te to, co nem\u016f\u017eete ovl\u00e1dat.", "transliteration": "Pus\u0165te to, co nem\u016f\u017eete ovl\u00e1dat."},
+        {"english": "Be present in the here and now.", "czech": "Bu\u010fte p\u0159\u00edtomni v tady a te\u010f.", "transliteration": "Bu\u010fte p\u0159\u00edtomni v tady a te\u010f."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "czech"
-    for p in fresh:
-        p[lang_key] = p.pop("czech")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
@@ -1389,7 +1459,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         b = draw.textbbox((0, 0), "Ag", font=font)
         return b[3] - b[1]
 
-    max_text_w = VIDEO_WIDTH - 180
+    max_text_w = VIDEO_WIDTH - 140
     cat_native = CATEGORIES_NATIVE.get(category_english, category_english)
 
     nat_font, nat_lines = pick_native_font(native, max_text_w - 40)
@@ -1426,7 +1496,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy = start_y
 
     # Category bar (rounded)
-    cat_text = cat_native
+    cat_text = category_english
     cat_bb = draw.textbbox((0, 0), cat_text, font=font_category)
     cat_tw = cat_bb[2] - cat_bb[0]
     cat_th = cat_bb[3] - cat_bb[1]
@@ -1446,7 +1516,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += gap_cat_nat
 
     # English phrase (top)
-    en_margin = 50
+    en_margin = 60
     rounded_rect(draw, (en_margin, cy, VIDEO_WIDTH - en_margin, cy + en_box_h), 28,
                  fill=(20, 40, 100, 220))
     for i, line in enumerate(en_lines):
@@ -1458,7 +1528,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     cy += en_box_h + gap_nat_en
 
     # Native phrase (below English)
-    nat_margin = 70
+    nat_margin = 50
     rounded_rect(draw, (nat_margin, cy, VIDEO_WIDTH - nat_margin, cy + nat_box_h), 24,
                  fill=(139, 0, 0, 220))
     for i, line in enumerate(nat_lines):
@@ -1471,7 +1541,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     # Transliteration
     if trans_lines:
-        trans_margin = 90
+        trans_margin = 70
         rounded_rect(draw, (trans_margin, cy, VIDEO_WIDTH - trans_margin, cy + trans_box_h), 18,
                      fill=(40, 40, 40, 220))
         for i, line in enumerate(trans_lines):
