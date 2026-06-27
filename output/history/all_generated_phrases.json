@@ -1539,7 +1539,42 @@
       "transliteration": "Ak-tu-ah-liz-u-ye-tye svu-y see-stem, prah-vee-del-nye.",
       "category": "Technology",
       "generated_at": "2026-06-27T13:10:11.218460"
+    },
+    {
+      "english": "This view, is breathtaking.",
+      "czech": "Tenhle výhled, je dechberoucí.",
+      "transliteration": "Ten-hleh vee-hled, yeh dekh-ber-oo-tsee.",
+      "category": "Travel",
+      "generated_at": "2026-06-27T15:13:41.658822"
+    },
+    {
+      "english": "Could I have, some water, please?",
+      "czech": "Mohl bych dostat, trochu vody, prosím?",
+      "transliteration": "Mol bych dos-tat, tro-khu vo-dy, pro-seem?",
+      "category": "Travel",
+      "generated_at": "2026-06-27T15:13:41.658834"
+    },
+    {
+      "english": "Where can I find, a good coffee?",
+      "czech": "Kde najdu, dobrou kávu?",
+      "transliteration": "Gdeh naj-doo, dob-roo ka-voo?",
+      "category": "Travel",
+      "generated_at": "2026-06-27T15:13:41.658836"
+    },
+    {
+      "english": "I’d like to try, local specialties.",
+      "czech": "Chtěl bych ochutnat, místní speciality.",
+      "transliteration": "Chtel bych oh-khut-nat, mees-tnee spe-tsi-al-i-ty.",
+      "category": "Travel",
+      "generated_at": "2026-06-27T15:13:41.658837"
+    },
+    {
+      "english": "Is this bus, going downtown?",
+      "czech": "Jede tenhle autobus, do centra?",
+      "transliteration": "Yeh-deh ten-hleh ow-to-boos, doh tsen-tra?",
+      "category": "Travel",
+      "generated_at": "2026-06-27T15:13:41.658839"
     }
   ],
-  "last_updated": "2026-06-27T13:10:11.218461"
+  "last_updated": "2026-06-27T15:13:41.658840"
 }
