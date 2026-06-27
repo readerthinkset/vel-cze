@@ -77,8 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
-
+    "Mindfulness",
     "Daily Routine",
     "Weather",
     "Feelings",
@@ -135,7 +134,27 @@ CATEGORIES_NATIVE = {
     "Balance": "Rovnováha",
     "Growth": "Růst",
     "Purpose": "Smysl",
-    "Mindfulness": "Všímavost"
+    "Mindfulness": "Všímavost",
+    "Daily Routine": "Denní rutina",
+    "Weather": "Počasí",
+    "Feelings": "Pocity",
+    "Food": "Jídlo",
+    "Health": "Zdraví",
+    "Work": "Práce",
+    "Technology": "Technologie",
+    "Nature": "Příroda",
+    "Animals": "Zvířata",
+    "Colors": "Barvy",
+    "Directions": "Směry",
+    "Body Parts": "Části těla",
+    "Clothes": "Oblečení",
+    "Music": "Hudba",
+    "Sports": "Sport",
+    "Holidays": "Svátky",
+    "Education": "Vzdělávání",
+    "Culture": "Kultura",
+    "Finance": "Finance",
+    "Relationships": "Vztahy"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
