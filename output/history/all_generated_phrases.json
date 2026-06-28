@@ -1714,7 +1714,42 @@
       "transliteration": "Každá věta, malý krok.",
       "category": "Education",
       "generated_at": "2026-06-28T13:16:25.122515"
+    },
+    {
+      "english": "The cat purrs, softly.",
+      "czech": "Kočka vrní, tiše.",
+      "transliteration": "Kocka vrni, tishe.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:15:16.827033"
+    },
+    {
+      "english": "A dog barks, loudly.",
+      "czech": "Pes štěká, hlasitě.",
+      "transliteration": "Pes shteka, hlasite.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:15:16.827043"
+    },
+    {
+      "english": "Birds sing, in trees.",
+      "czech": "Ptáci zpívají, na stromech.",
+      "transliteration": "Ptatsi zpivaji, na stromech.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:15:16.827044"
+    },
+    {
+      "english": "Fish swim, in water.",
+      "czech": "Ryby plavou, ve vodě.",
+      "transliteration": "Ryby plavou, ve vode.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:15:16.827046"
+    },
+    {
+      "english": "A bee buzzes, by flowers.",
+      "czech": "Včela bzučí, u květin.",
+      "transliteration": "Vchela bzuci, u kvetin.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:15:16.827047"
     }
   ],
-  "last_updated": "2026-06-28T13:16:25.122517"
+  "last_updated": "2026-06-28T15:15:16.827049"
 }
