@@ -1854,7 +1854,42 @@
       "transliteration": "Tsee-teem se do-tsa-la spo-ko-yen-y, op-rav-du.",
       "category": "Feelings",
       "generated_at": "2026-06-29T02:43:46.870863"
+    },
+    {
+      "english": "Sunny day, perfect for a walk.",
+      "czech": "Slunečný den, ideální na procházku.",
+      "transliteration": "Slunecny den, idealni na prochazku.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:31:05.839047"
+    },
+    {
+      "english": "It's raining, take an umbrella.",
+      "czech": "Prší, vezmi si deštník.",
+      "transliteration": "Prsi, vezmi si destnik.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:31:05.839059"
+    },
+    {
+      "english": "Wind is blowing, hold on tight.",
+      "czech": "Vítr fouká, drž se pevně.",
+      "transliteration": "Vitrr fouka, drz se pevne.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:31:05.839061"
+    },
+    {
+      "english": "Cloudy skies, maybe snow soon.",
+      "czech": "Zataženo, možná brzy sníh.",
+      "transliteration": "Zatazeno, mozna brzy snih.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:31:05.839062"
+    },
+    {
+      "english": "Thunder rumbled, it's getting dark.",
+      "czech": "Hřmělo, stmívá se.",
+      "transliteration": "Hrmelo, stmiva se.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T15:31:05.839064"
     }
   ],
-  "last_updated": "2026-06-29T02:43:46.870864"
+  "last_updated": "2026-06-29T15:31:05.839067"
 }
