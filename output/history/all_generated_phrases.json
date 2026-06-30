@@ -2064,7 +2064,42 @@
       "transliteration": "Tva vule, je tvuj kompas.",
       "category": "Strength",
       "generated_at": "2026-06-30T13:55:47.888912"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "czech": "Pomalu, ale jistě, vyhraješ závod.",
+      "transliteration": "Pomalu, ale jiste, vyhrajes zavod.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T16:22:37.509172"
+    },
+    {
+      "english": "Take your time, good things come.",
+      "czech": "Dej si čas, dobré věci přijdou.",
+      "transliteration": "Dej si cas, dobre veci prijdou.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T16:22:37.509183"
+    },
+    {
+      "english": "Don't rush it, let it bloom.",
+      "czech": "Nespěchej, nech to rozkvést.",
+      "transliteration": "Nespchej, nech to rozkvest.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T16:22:37.509184"
+    },
+    {
+      "english": "Breathe deeply, stay calm now.",
+      "czech": "Zhluboka dýchej, zůstaň klidný.",
+      "transliteration": "Zhluboka dychej, zustan klidny.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T16:22:37.509185"
+    },
+    {
+      "english": "Each step matters, forward move.",
+      "czech": "Každý krok se počítá, vpřed.",
+      "transliteration": "Kazdy krok se pockita, vpred.",
+      "category": "Patience",
+      "generated_at": "2026-06-30T16:22:37.509186"
     }
   ],
-  "last_updated": "2026-06-30T13:55:47.888914"
+  "last_updated": "2026-06-30T16:22:37.509188"
 }
