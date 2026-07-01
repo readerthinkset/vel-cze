@@ -2204,7 +2204,42 @@
       "transliteration": "Loutky tančí, na provázcích.",
       "category": "Culture",
       "generated_at": "2026-07-01T02:44:04.757790"
+    },
+    {
+      "english": "The moment passes, quickly.",
+      "czech": "Okamžik pomine, rychle.",
+      "transliteration": "Okamzhik pomine, rychle.",
+      "category": "Time",
+      "generated_at": "2026-07-01T14:08:05.310693"
+    },
+    {
+      "english": "Every second, counts.",
+      "czech": "Každá vteřina, se počítá.",
+      "transliteration": "Kazhda vterina, se pocita.",
+      "category": "Time",
+      "generated_at": "2026-07-01T14:08:05.310703"
+    },
+    {
+      "english": "Tomorrow, brings new chances.",
+      "czech": "Zítra, přinese nové šance.",
+      "transliteration": "Zitra, prinse nove sance.",
+      "category": "Time",
+      "generated_at": "2026-07-01T14:08:05.310705"
+    },
+    {
+      "english": "The clock ticks, relentlessly.",
+      "czech": "Hodiny tikají, neúprosně.",
+      "transliteration": "Hodiny tikaji, neuprosne.",
+      "category": "Time",
+      "generated_at": "2026-07-01T14:08:05.310706"
+    },
+    {
+      "english": "Past is gone, future awaits.",
+      "czech": "Minulost je pryč, budoucnost čeká.",
+      "transliteration": "Minulost je pryc, budoucnost ceka.",
+      "category": "Time",
+      "generated_at": "2026-07-01T14:08:05.310707"
     }
   ],
-  "last_updated": "2026-07-01T02:44:04.757792"
+  "last_updated": "2026-07-01T14:08:05.310709"
 }
