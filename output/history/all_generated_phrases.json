@@ -2344,7 +2344,42 @@
       "transliteration": "Uvidime se brzy, zlato.",
       "category": "Holidays",
       "generated_at": "2026-07-01T21:28:47.847014"
+    },
+    {
+      "english": "Good evening, table for two?",
+      "czech": "Dobrý večer, stůl pro dva?",
+      "transliteration": "Dob-reeh veh-cher, stoohl pro dvah?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T02:33:40.132214"
+    },
+    {
+      "english": "Can I see, the menu please?",
+      "czech": "Můžu vidět, jídelní lístek prosím?",
+      "transliteration": "Moo-zhoo vee-djet, yee-del-nee leest-ek pro-seem?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T02:33:40.132226"
+    },
+    {
+      "english": "What do you recommend, today?",
+      "czech": "Co doporučujete, dnes?",
+      "transliteration": "Tso do-po-roo-choo-yeh-teh, dnes?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T02:33:40.132228"
+    },
+    {
+      "english": "This dish smells, amazing!",
+      "czech": "Toto jídlo voní, úžasně!",
+      "transliteration": "To-to yee-dloh vo-nee, oo-zhah-s-neh!",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T02:33:40.132229"
+    },
+    {
+      "english": "Is this, spicy?",
+      "czech": "Je to, pálivé?",
+      "transliteration": "Yeh toh, pah-lee-veh?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-02T02:33:40.132230"
     }
   ],
-  "last_updated": "2026-07-01T21:28:47.847016"
+  "last_updated": "2026-07-02T02:33:40.132232"
 }
