@@ -2379,7 +2379,42 @@
       "transliteration": "Yeh toh, pah-lee-veh?",
       "category": "Restaurant",
       "generated_at": "2026-07-02T02:33:40.132230"
+    },
+    {
+      "english": "The sky, a deep blue.",
+      "czech": "Obloha, sytě modrá.",
+      "transliteration": "Obloha, sytě modrá.",
+      "category": "Colors",
+      "generated_at": "2026-07-02T13:29:55.562220"
+    },
+    {
+      "english": "Her dress, vibrant red.",
+      "czech": "Její šaty, zářivě červené.",
+      "transliteration": "Yeyí šaty, zářivě červené.",
+      "category": "Colors",
+      "generated_at": "2026-07-02T13:29:55.562230"
+    },
+    {
+      "english": "Green grass, fresh cut.",
+      "czech": "Zelená tráva, čerstvě posekaná.",
+      "transliteration": "Zelená tráva, čerstvě posekaná.",
+      "category": "Colors",
+      "generated_at": "2026-07-02T13:29:55.562232"
+    },
+    {
+      "english": "A golden sun, setting low.",
+      "czech": "Zlaté slunce, zapadá nízko.",
+      "transliteration": "Zlaté slunce, zapadá nízko.",
+      "category": "Colors",
+      "generated_at": "2026-07-02T13:29:55.562233"
+    },
+    {
+      "english": "His eyes, like dark chocolate.",
+      "czech": "Jeho oči, jako tmavá čokoláda.",
+      "transliteration": "Yeyo oči, jako tmavá čokoláda.",
+      "category": "Colors",
+      "generated_at": "2026-07-02T13:29:55.562235"
     }
   ],
-  "last_updated": "2026-07-02T02:33:40.132232"
+  "last_updated": "2026-07-02T13:29:55.562236"
 }
