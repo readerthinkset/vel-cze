@@ -2554,7 +2554,42 @@
       "transliteration": "Procházejte městem, svou češtinou.",
       "category": "Purpose",
       "generated_at": "2026-07-03T02:09:21.206379"
+    },
+    {
+      "english": "Good morning, sunshine.",
+      "czech": "Dobré ráno, sluníčko.",
+      "transliteration": "Dobreh rahno, sluneechko.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T13:44:28.698864"
+    },
+    {
+      "english": "That looks tasty.",
+      "czech": "To vypadá chutně.",
+      "transliteration": "To vypada khootnye.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T13:44:28.698876"
+    },
+    {
+      "english": "Where is the station?",
+      "czech": "Kde je nádraží?",
+      "transliteration": "Gdeh yeh nadrazhee?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T13:44:28.698878"
+    },
+    {
+      "english": "I need a moment.",
+      "czech": "Potřebuji chvilku.",
+      "transliteration": "Potrzheb-oo-ee chveelk-oo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T13:44:28.698879"
+    },
+    {
+      "english": "This is beautiful.",
+      "czech": "To je nádherné.",
+      "transliteration": "To yeh nadherne.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-03T13:44:28.698880"
     }
   ],
-  "last_updated": "2026-07-03T02:09:21.206383"
+  "last_updated": "2026-07-03T13:44:28.698882"
 }
