@@ -2799,7 +2799,42 @@
       "transliteration": "Stavnata hruska, cerstva.",
       "category": "Food",
       "generated_at": "2026-07-04T15:02:17.106958"
+    },
+    {
+      "english": "The melody, it sings to my soul.",
+      "czech": "Ta melodie, ta zpívá mé duši.",
+      "transliteration": "Ta melodie, ta zpiva me dushi.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:02:04.541081"
+    },
+    {
+      "english": "Listen closely, to the rhythm.",
+      "czech": "Poslouchej pozorně, tomu rytmu.",
+      "transliteration": "Poslouchej pozorne, tomu rytmu.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:02:04.541091"
+    },
+    {
+      "english": "This song, makes me happy.",
+      "czech": "Tahle píseň, dělá mě šťastným.",
+      "transliteration": "Tahle pisen, dela me stastnym.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:02:04.541093"
+    },
+    {
+      "english": "Can you play, that guitar?",
+      "czech": "Umíš hrát, na tu kytaru?",
+      "transliteration": "Umis hrat, na tu kytaru?",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:02:04.541094"
+    },
+    {
+      "english": "The piano, sounds so lovely.",
+      "czech": "To piano, zní tak krásně.",
+      "transliteration": "To piano, zni tak krasne.",
+      "category": "Music",
+      "generated_at": "2026-07-04T18:02:04.541095"
     }
   ],
-  "last_updated": "2026-07-04T15:02:17.106960"
+  "last_updated": "2026-07-04T18:02:04.541097"
 }
