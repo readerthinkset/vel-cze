@@ -2834,7 +2834,42 @@
       "transliteration": "To piano, zni tak krasne.",
       "category": "Music",
       "generated_at": "2026-07-04T18:02:04.541095"
+    },
+    {
+      "english": "This color, really suits me.",
+      "czech": "Tahle barva, mi opravdu sluší.",
+      "transliteration": "Takhle bahrva, mi ropraavdu slushi.",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:58:19.936316"
+    },
+    {
+      "english": "Do you have, something similar?",
+      "czech": "Máte, něco podobného?",
+      "transliteration": "Mah-teh, necho podob-ne-ho?",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:58:19.936324"
+    },
+    {
+      "english": "I need, a small size.",
+      "czech": "Potřebuji, menší velikost.",
+      "transliteration": "Pot-rzhe-bu-yi, men-shi vye-li-kost.",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:58:19.936326"
+    },
+    {
+      "english": "Is this, the last piece?",
+      "czech": "Je to, poslední kus?",
+      "transliteration": "Ye toh, pos-led-ni kus?",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:58:19.936327"
+    },
+    {
+      "english": "Could I see, that one too?",
+      "czech": "Mohu vidět, i tamto?",
+      "transliteration": "Moh-hoo vid-yet, ee tam-toh?",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:58:19.936328"
     }
   ],
-  "last_updated": "2026-07-04T18:02:04.541097"
+  "last_updated": "2026-07-04T20:58:19.936330"
 }
