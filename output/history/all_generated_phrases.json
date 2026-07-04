@@ -2764,7 +2764,42 @@
       "transliteration": "Ko-pey hloo-bo-ko, naa-jee see-loo.",
       "category": "Perseverance",
       "generated_at": "2026-07-04T12:59:47.979161"
+    },
+    {
+      "english": "A little bread, please.",
+      "czech": "Malý kousek chleba, prosím.",
+      "transliteration": "Maly kousek chleba, prosim.",
+      "category": "Food",
+      "generated_at": "2026-07-04T15:02:17.106944"
+    },
+    {
+      "english": "Salty soup, hmm.",
+      "czech": "Slaná polévka, mňam.",
+      "transliteration": "Slana polevka, mnam.",
+      "category": "Food",
+      "generated_at": "2026-07-04T15:02:17.106954"
+    },
+    {
+      "english": "Sweet apple, so good.",
+      "czech": "Sladké jablko, tak dobré.",
+      "transliteration": "Sladke jablko, tak dobre.",
+      "category": "Food",
+      "generated_at": "2026-07-04T15:02:17.106955"
+    },
+    {
+      "english": "Spicy pepper, watch out.",
+      "czech": "Pálivá paprika, pozor.",
+      "transliteration": "Paliva paprika, pozor.",
+      "category": "Food",
+      "generated_at": "2026-07-04T15:02:17.106957"
+    },
+    {
+      "english": "Juicy pear, fresh.",
+      "czech": "Šťavnatá hruška, čerstvá.",
+      "transliteration": "Stavnata hruska, cerstva.",
+      "category": "Food",
+      "generated_at": "2026-07-04T15:02:17.106958"
     }
   ],
-  "last_updated": "2026-07-04T12:59:47.979162"
+  "last_updated": "2026-07-04T15:02:17.106960"
 }
