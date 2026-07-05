@@ -3009,7 +3009,42 @@
       "transliteration": "Kazhdý pokus, zhyvý krok.",
       "category": "Confidence",
       "generated_at": "2026-07-05T18:03:22.421161"
+    },
+    {
+      "english": "Please, let's clear the air.",
+      "czech": "Prosím, vyčistěme vzduch.",
+      "transliteration": "Prosim, vycisteme vzduch.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T21:00:10.088516"
+    },
+    {
+      "english": "I wish I could undo that.",
+      "czech": "Kéž bych to mohl vrátit zpět.",
+      "transliteration": "Kež bych to mohl vrátit zpět.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T21:00:10.088523"
+    },
+    {
+      "english": "My intention was never to hurt.",
+      "czech": "Můj úmysl nikdy nebyl ublížit.",
+      "transliteration": "Můj úmysl nikdy nebyl ublížit.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T21:00:10.088525"
+    },
+    {
+      "english": "Can we find a way forward?",
+      "czech": "Najdeme cestu vpřed?",
+      "transliteration": "Najdeme cestu vpřed?",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T21:00:10.088526"
+    },
+    {
+      "english": "I'm not proud of my actions.",
+      "czech": "Na své činy nejsem hrdý/hrdá.",
+      "transliteration": "Na své činy nejsem hrdý/hrdá.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-05T21:00:10.088527"
     }
   ],
-  "last_updated": "2026-07-05T18:03:22.421163"
+  "last_updated": "2026-07-05T21:00:10.088529"
 }
