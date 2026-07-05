@@ -2939,7 +2939,42 @@
       "transliteration": "Spojil jsi, ty myslenky.",
       "category": "Success",
       "generated_at": "2026-07-05T13:08:04.916257"
+    },
+    {
+      "english": "My left hand, feels strange.",
+      "czech": "Moje levá ruka, divně se cítí.",
+      "transliteration": "Moyezh levah rooka, divnye se tzeete.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-05T15:10:07.426712"
+    },
+    {
+      "english": "This little finger, is so small.",
+      "czech": "Tenhle malíček, je tak malý.",
+      "transliteration": "Tenhleh malychek, yeh tak mahlyy.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-05T15:10:07.426722"
+    },
+    {
+      "english": "My right shoulder, is aching.",
+      "czech": "Moje pravé rameno, bolí to.",
+      "transliteration": "Moyezh pravyeh rameno, boly toh.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-05T15:10:07.426723"
+    },
+    {
+      "english": "Her soft skin, feels so nice.",
+      "czech": "Její hebká kůže, je tak příjemná.",
+      "transliteration": "Yeyee hepkah koozhzhah, yeh tak pzhyyehmna.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-05T15:10:07.426725"
+    },
+    {
+      "english": "His strong legs, can run fast.",
+      "czech": "Jeho silné nohy, běží rychle.",
+      "transliteration": "Yehoh sylene nohhy, byezhy rychleh.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-05T15:10:07.426726"
     }
   ],
-  "last_updated": "2026-07-05T13:08:04.916259"
+  "last_updated": "2026-07-05T15:10:07.426727"
 }
