@@ -2904,7 +2904,42 @@
       "transliteration": "Ye to moo-y bra-tr, z jee-ne ma-my.",
       "category": "Relationships",
       "generated_at": "2026-07-05T02:22:34.715568"
+    },
+    {
+      "english": "Every word, a victory.",
+      "czech": "Každé slovo, vítězství.",
+      "transliteration": "Kazhde slovo, vitezstvi.",
+      "category": "Success",
+      "generated_at": "2026-07-05T13:08:04.916238"
+    },
+    {
+      "english": "You built that, sentence.",
+      "czech": "Postavil jsi to, větu.",
+      "transliteration": "Postavil jsi to, vetu.",
+      "category": "Success",
+      "generated_at": "2026-07-05T13:08:04.916249"
+    },
+    {
+      "english": "Czech is flowing, now.",
+      "czech": "Čeština plyne, teď.",
+      "transliteration": "Cestina plyne, ted.",
+      "category": "Success",
+      "generated_at": "2026-07-05T13:08:04.916251"
+    },
+    {
+      "english": "That insight, brilliant!",
+      "czech": "Ten postřeh, skvělý!",
+      "transliteration": "Ten postreh, skvely!",
+      "category": "Success",
+      "generated_at": "2026-07-05T13:08:04.916252"
+    },
+    {
+      "english": "You connected, those ideas.",
+      "czech": "Spojil jsi, ty myšlenky.",
+      "transliteration": "Spojil jsi, ty myslenky.",
+      "category": "Success",
+      "generated_at": "2026-07-05T13:08:04.916257"
     }
   ],
-  "last_updated": "2026-07-05T02:22:34.715570"
+  "last_updated": "2026-07-05T13:08:04.916259"
 }
