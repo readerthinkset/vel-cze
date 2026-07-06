@@ -3184,7 +3184,42 @@
       "transliteration": "Po-zor! Ne-bez-peh-chee vpre-du.",
       "category": "Emergency",
       "generated_at": "2026-07-06T18:55:59.158478"
+    },
+    {
+      "english": "Four friends, met today.",
+      "czech": "Čtyři přátelé, setkali se dnes.",
+      "transliteration": "Chtyri přijatele, setkali se dnes.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:15.715685"
+    },
+    {
+      "english": "I'll take five, minutes.",
+      "czech": "Budu potřebovat pět, minut.",
+      "transliteration": "Budu potřebovat pět, minut.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:15.715694"
+    },
+    {
+      "english": "Six apples, in the basket.",
+      "czech": "Šest jablek, v košíku.",
+      "transliteration": "Šest jablek, v košíku.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:15.715696"
+    },
+    {
+      "english": "Seven days, a busy week.",
+      "czech": "Sedm dní, náročný týden.",
+      "transliteration": "Sedm dní, naročný týden.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:15.715697"
+    },
+    {
+      "english": "He arrived at eight.",
+      "czech": "Přijel v osm.",
+      "transliteration": "Přijel v osm.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:15.715698"
     }
   ],
-  "last_updated": "2026-07-06T18:55:59.158480"
+  "last_updated": "2026-07-06T21:29:15.715700"
 }
