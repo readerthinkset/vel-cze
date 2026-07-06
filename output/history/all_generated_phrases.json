@@ -3149,7 +3149,42 @@
       "transliteration": "Můj svět, je úplný, s tebou.",
       "category": "Love",
       "generated_at": "2026-07-06T16:50:25.310760"
+    },
+    {
+      "english": "Stop, thief! He's running away.",
+      "czech": "Stůj, zloději! Utíká.",
+      "transliteration": "Stoo-y, zlo-dye-ee! Oo-tee-ka.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T18:55:59.158464"
+    },
+    {
+      "english": "My bag, it's gone.",
+      "czech": "Moje taška, je pryč.",
+      "transliteration": "Mo-ye ta-shka, ye preech.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T18:55:59.158475"
+    },
+    {
+      "english": "Is there a police station, nearby?",
+      "czech": "Je tu, policejní stanice?",
+      "transliteration": "Ye too, po-leet-say-nee sta-nit-seh?",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T18:55:59.158476"
+    },
+    {
+      "english": "I need to report, something.",
+      "czech": "Potřebuji nahlásit, něco.",
+      "transliteration": "Pot-shre-boo-yee na-hlaa-sit, nye-tso.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T18:55:59.158477"
+    },
+    {
+      "english": "Watch out! Danger ahead.",
+      "czech": "Pozor! Nebezpečí vpředu.",
+      "transliteration": "Po-zor! Ne-bez-peh-chee vpre-du.",
+      "category": "Emergency",
+      "generated_at": "2026-07-06T18:55:59.158478"
     }
   ],
-  "last_updated": "2026-07-06T16:50:25.310762"
+  "last_updated": "2026-07-06T18:55:59.158480"
 }
