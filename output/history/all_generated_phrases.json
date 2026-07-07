@@ -3254,7 +3254,42 @@
       "transliteration": "Ochutnejte jazyk, ucítíte rytmus.",
       "category": "Education",
       "generated_at": "2026-07-07T02:15:29.307248"
+    },
+    {
+      "english": "Breathe deep, feel alive.",
+      "czech": "Dýchej zhluboka, cítit se živý.",
+      "transliteration": "Dychey zhluboka, citi se zivy.",
+      "category": "Health",
+      "generated_at": "2026-07-07T14:07:38.132698"
+    },
+    {
+      "english": "Move your body, free your mind.",
+      "czech": "Hýbej tělem, osvoboď mysl.",
+      "transliteration": "Hybey telem, osvobod mysl.",
+      "category": "Health",
+      "generated_at": "2026-07-07T14:07:38.132708"
+    },
+    {
+      "english": "Eat well, live longer.",
+      "czech": "Jez dobře, žij déle.",
+      "transliteration": "Jez dobre, ziz dele.",
+      "category": "Health",
+      "generated_at": "2026-07-07T14:07:38.132710"
+    },
+    {
+      "english": "Sleep soundly, wake refreshed.",
+      "czech": "Spěj klidně, probuď se svěží.",
+      "transliteration": "Spey klidne, probud se svezi.",
+      "category": "Health",
+      "generated_at": "2026-07-07T14:07:38.132711"
+    },
+    {
+      "english": "Hydrate often, stay strong.",
+      "czech": "Pij hodně, zůstaň silný.",
+      "transliteration": "Pij hodne, zustan silny.",
+      "category": "Health",
+      "generated_at": "2026-07-07T14:07:38.132712"
     }
   ],
-  "last_updated": "2026-07-07T02:15:29.307250"
+  "last_updated": "2026-07-07T14:07:38.132714"
 }
