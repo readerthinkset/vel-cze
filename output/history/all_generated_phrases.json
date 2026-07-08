@@ -3429,7 +3429,42 @@
       "transliteration": "Vyzvi se, abys rostl.",
       "category": "Courage",
       "generated_at": "2026-07-08T16:01:09.718046"
+    },
+    {
+      "english": "Deep breath, you've got this.",
+      "czech": "Zhluboka dýchej, zvládneš to.",
+      "transliteration": "Zhluboka dychej, zvladnes to.",
+      "category": "Strength",
+      "generated_at": "2026-07-08T18:18:53.533847"
+    },
+    {
+      "english": "Focus now, achieve later.",
+      "czech": "Sou střeď se teď, dosáhni později.",
+      "transliteration": "Soustred se ted, dosahni pozdeji.",
+      "category": "Strength",
+      "generated_at": "2026-07-08T18:18:53.533856"
+    },
+    {
+      "english": "Your effort, counts.",
+      "czech": "Tvoje úsilí, se počítá.",
+      "transliteration": "Tvoje usili, se poci ta.",
+      "category": "Strength",
+      "generated_at": "2026-07-08T18:18:53.533858"
+    },
+    {
+      "english": "Push your limits, gently.",
+      "czech": "Posuň své hranice, jemně.",
+      "transliteration": "Posun sve hranice, jemne.",
+      "category": "Strength",
+      "generated_at": "2026-07-08T18:18:53.533860"
+    },
+    {
+      "english": "Learn from this, grow.",
+      "czech": "Uč se z toho, vzrůstej.",
+      "transliteration": "Uc se z toho vzrustej.",
+      "category": "Strength",
+      "generated_at": "2026-07-08T18:18:53.533861"
     }
   ],
-  "last_updated": "2026-07-08T16:01:09.718048"
+  "last_updated": "2026-07-08T18:18:53.533863"
 }
