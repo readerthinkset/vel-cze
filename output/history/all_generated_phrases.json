@@ -3359,7 +3359,42 @@
       "transliteration": "Nech chestinu, malovat tvoyi mysl.",
       "category": "Inspiration",
       "generated_at": "2026-07-08T01:56:45.601303"
+    },
+    {
+      "english": "A table, by the window?",
+      "czech": "Stůl, u okna?",
+      "transliteration": "Stool, oo ok-na?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T13:30:43.440146"
+    },
+    {
+      "english": "We're ready, to order.",
+      "czech": "Jsme připraveni, objednat.",
+      "transliteration": "Jsme přee-pra-ve-ni, or-dje-nat.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T13:30:43.440158"
+    },
+    {
+      "english": "Just water, for now.",
+      "czech": "Zatím jen vodu.",
+      "transliteration": "Zah-tim jen vo-doo.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T13:30:43.440160"
+    },
+    {
+      "english": "Could we have, the bill?",
+      "czech": "Můžeme dostat, účet?",
+      "transliteration": "Moo-zhe-me dostat, oo-chet?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T13:30:43.440162"
+    },
+    {
+      "english": "This soup, is divine.",
+      "czech": "Tato polévka, je božská.",
+      "transliteration": "Tah-toh po-lev-ka, ye bozh-ska.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T13:30:43.440163"
     }
   ],
-  "last_updated": "2026-07-08T01:56:45.601304"
+  "last_updated": "2026-07-08T13:30:43.440165"
 }
