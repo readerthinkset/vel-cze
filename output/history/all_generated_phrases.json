@@ -3674,7 +3674,42 @@
       "transliteration": "Tve vnitrni svetlo, te vede.",
       "category": "Positive Life",
       "generated_at": "2026-07-09T21:23:59.656584"
+    },
+    {
+      "english": "A slice of cake, perhaps?",
+      "czech": "Řez koláče, možná?",
+      "transliteration": "Rzez ko-lat-cheh, moz-nah?",
+      "category": "Food",
+      "generated_at": "2026-07-10T02:08:47.622962"
+    },
+    {
+      "english": "This cheese, is it aged?",
+      "czech": "Tento sýr, je zralý?",
+      "transliteration": "Ten-toh seer, yeh zra-lee?",
+      "category": "Food",
+      "generated_at": "2026-07-10T02:08:47.622973"
+    },
+    {
+      "english": "More coffee, please, dark.",
+      "czech": "Více kávy, prosím, tmavé.",
+      "transliteration": "Vee-tseh kaa-vee, pro-seem, tma-veh.",
+      "category": "Food",
+      "generated_at": "2026-07-10T02:08:47.622975"
+    },
+    {
+      "english": "A bit of water, still.",
+      "czech": "Trochu vody, neperlivé.",
+      "transliteration": "Tro-choo vo-dee, neh-per-lee-veh.",
+      "category": "Food",
+      "generated_at": "2026-07-10T02:08:47.622977"
+    },
+    {
+      "english": "That stew, smells divine.",
+      "czech": "Ta dušenina, voní skvěle.",
+      "transliteration": "Tah doo-sheh-nee-nah, vo-nee skvyeh-leh.",
+      "category": "Food",
+      "generated_at": "2026-07-10T02:08:47.622978"
     }
   ],
-  "last_updated": "2026-07-09T21:23:59.656585"
+  "last_updated": "2026-07-10T02:08:47.622980"
 }
