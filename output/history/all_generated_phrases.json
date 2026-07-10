@@ -3814,7 +3814,42 @@
       "transliteration": "Můj kotník, je trochu ztuhlý.",
       "category": "Body Parts",
       "generated_at": "2026-07-10T18:23:44.425719"
+    },
+    {
+      "english": "Listen closely, then repeat.",
+      "czech": "Poslouchejte pozorně, pak opakujte.",
+      "transliteration": "Poslouchejte pozornyeh, pak opakuyte.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T21:06:07.570694"
+    },
+    {
+      "english": "Say it again, please.",
+      "czech": "Zopakujte to, prosím.",
+      "transliteration": "Zopakuyte to, prosim.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T21:06:07.570703"
+    },
+    {
+      "english": "Don't worry, it's easy.",
+      "czech": "Nebojte se, je to lehké.",
+      "transliteration": "Neboyteh seh, yeh to lehkeh.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T21:06:07.570705"
+    },
+    {
+      "english": "Think about it, slowly.",
+      "czech": "Přemýšlejte o tom, pomalu.",
+      "transliteration": "Přemysleyteh o tom, pomalu.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T21:06:07.570707"
+    },
+    {
+      "english": "Try to guess, what it means.",
+      "czech": "Zkuste hádat, co to znamená.",
+      "transliteration": "Zkuste hadat, co to znamená.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T21:06:07.570708"
     }
   ],
-  "last_updated": "2026-07-10T18:23:44.425721"
+  "last_updated": "2026-07-10T21:06:07.570709"
 }
