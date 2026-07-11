@@ -3919,7 +3919,42 @@
       "transliteration": "Yeh-shcheh pred hvee-lee, bee-lee smyeh tam.",
       "category": "Time",
       "generated_at": "2026-07-11T12:55:52.853838"
+    },
+    {
+      "english": "Gentle breeze, through leaves. ",
+      "czech": "Jemný vánek, listím.",
+      "transliteration": "Yemny vanek, listim.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T14:48:22.810678"
+    },
+    {
+      "english": "Dewdrops glisten, on grass. ",
+      "czech": "Kapky rosy, na trávě.",
+      "transliteration": "Kapky rosy, na trave.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T14:48:22.810691"
+    },
+    {
+      "english": "Birdsong echoes, in dawn. ",
+      "czech": "Ptačí zpěv, zní za úsvitu.",
+      "transliteration": "Ptachi zpev, zni za usvitu.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T14:48:22.810693"
+    },
+    {
+      "english": "Wildflowers bloom, by path. ",
+      "czech": "Louky kvetou, u cesty.",
+      "transliteration": "Louky kvetou, u cesty.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T14:48:22.810694"
+    },
+    {
+      "english": "Stones rest, in stream. ",
+      "czech": "Kameny leží, v potoce.",
+      "transliteration": "Kameny lezi, v potoce.",
+      "category": "Nature",
+      "generated_at": "2026-07-11T14:48:22.810695"
     }
   ],
-  "last_updated": "2026-07-11T12:55:52.853840"
+  "last_updated": "2026-07-11T14:48:22.810697"
 }
