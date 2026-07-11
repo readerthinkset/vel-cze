@@ -3849,7 +3849,42 @@
       "transliteration": "Zkuste hadat, co to znamená.",
       "category": "Directions",
       "generated_at": "2026-07-10T21:06:07.570708"
+    },
+    {
+      "english": "A new day, Czech way.",
+      "czech": "Nový den, český styl.",
+      "transliteration": "Novy den, český styl.",
+      "category": "Greetings",
+      "generated_at": "2026-07-11T01:54:57.629688"
+    },
+    {
+      "english": "Greetings, fellow traveler.",
+      "czech": "Zdravím, spolucestující.",
+      "transliteration": "Zdravím, spolucestující.",
+      "category": "Greetings",
+      "generated_at": "2026-07-11T01:54:57.629699"
+    },
+    {
+      "english": "Curious about Czech? Hello!",
+      "czech": "Zajímá vás čeština? Ahoj!",
+      "transliteration": "Zajímá vás čeština? Ahoj!",
+      "category": "Greetings",
+      "generated_at": "2026-07-11T01:54:57.629701"
+    },
+    {
+      "english": "May your day sparkle.",
+      "czech": "Ať váš den jiskří.",
+      "transliteration": "Ať váš den jiskří.",
+      "category": "Greetings",
+      "generated_at": "2026-07-11T01:54:57.629702"
+    },
+    {
+      "english": "Czech greetings, from me.",
+      "czech": "České pozdravy, ode mě.",
+      "transliteration": "České pozdravy, ode mě.",
+      "category": "Greetings",
+      "generated_at": "2026-07-11T01:54:57.629704"
     }
   ],
-  "last_updated": "2026-07-10T21:06:07.570709"
+  "last_updated": "2026-07-11T01:54:57.629705"
 }
