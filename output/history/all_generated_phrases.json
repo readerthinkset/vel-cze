@@ -3884,7 +3884,42 @@
       "transliteration": "České pozdravy, ode mě.",
       "category": "Greetings",
       "generated_at": "2026-07-11T01:54:57.629704"
+    },
+    {
+      "english": "Dawn breaks, softly.",
+      "czech": "Úsvit se láme, tiše.",
+      "transliteration": "Oos-veet seh lah-meh, tee-sheh.",
+      "category": "Time",
+      "generated_at": "2026-07-11T12:55:52.853820"
+    },
+    {
+      "english": "Midday sun, shines bright.",
+      "czech": "Polední slunce, svítí jasně.",
+      "transliteration": "Po-led-nee sloon-tseh, svee-tee yas-nyeh.",
+      "category": "Time",
+      "generated_at": "2026-07-11T12:55:52.853833"
+    },
+    {
+      "english": "Evening falls, gently.",
+      "czech": "Večer klesá, zvolna.",
+      "transliteration": "Vyeh-cherh kleh-sah, zvoh-nah.",
+      "category": "Time",
+      "generated_at": "2026-07-11T12:55:52.853835"
+    },
+    {
+      "english": "Midnight hour, whispers secrets.",
+      "czech": "Půlnoční hodina, šeptá tajemství.",
+      "transliteration": "Pool-noht-chee ho-dee-nah, shep-tah tah-yem-stvee.",
+      "category": "Time",
+      "generated_at": "2026-07-11T12:55:52.853836"
+    },
+    {
+      "english": "A moment ago, we were there.",
+      "czech": "Ještě před chvílí, byli jsme tam.",
+      "transliteration": "Yeh-shcheh pred hvee-lee, bee-lee smyeh tam.",
+      "category": "Time",
+      "generated_at": "2026-07-11T12:55:52.853838"
     }
   ],
-  "last_updated": "2026-07-11T01:54:57.629705"
+  "last_updated": "2026-07-11T12:55:52.853840"
 }
