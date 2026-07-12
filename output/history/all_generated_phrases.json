@@ -4094,7 +4094,42 @@
       "transliteration": "Prijmete zvuky, chestiny.",
       "category": "Education",
       "generated_at": "2026-07-12T12:57:08.276827"
+    },
+    {
+      "english": "This catches my eye, you see.",
+      "czech": "Tohle mě zaujalo, víte.",
+      "transliteration": "Tohle mnye zaujalo, veete.",
+      "category": "Shopping",
+      "generated_at": "2026-07-12T14:52:09.347308"
+    },
+    {
+      "english": "Could you show me, other options?",
+      "czech": "Můžete mi ukázat, další možnosti?",
+      "transliteration": "Moozete me ukzaat, dalshee mozhnosti?",
+      "category": "Shopping",
+      "generated_at": "2026-07-12T14:52:09.347318"
+    },
+    {
+      "english": "It's a bit pricey, isn't it?",
+      "czech": "Je to trochu drahé, že ano?",
+      "transliteration": "Ye toh trokhu drahé, zheh ano?",
+      "category": "Shopping",
+      "generated_at": "2026-07-12T14:52:09.347320"
+    },
+    {
+      "english": "I'm after something, unique.",
+      "czech": "Sháním něco, jedinečného.",
+      "transliteration": "Shahnim necheho, yedinechého.",
+      "category": "Shopping",
+      "generated_at": "2026-07-12T14:52:09.347321"
+    },
+    {
+      "english": "Does it come, in a different shade?",
+      "czech": "Je k tomu, jiný odstín?",
+      "transliteration": "Ye k tomu, leeny odsteen?",
+      "category": "Shopping",
+      "generated_at": "2026-07-12T14:52:09.347322"
     }
   ],
-  "last_updated": "2026-07-12T12:57:08.276829"
+  "last_updated": "2026-07-12T14:52:09.347323"
 }
