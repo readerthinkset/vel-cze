@@ -4269,7 +4269,42 @@
       "transliteration": "Pijte pomalu, vychutnejte chut.",
       "category": "Health",
       "generated_at": "2026-07-13T14:06:03.443827"
+    },
+    {
+      "english": "One moment, please.",
+      "czech": "Jeden okamžik, prosím.",
+      "transliteration": "Yedyn okamyzhik, prosym.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T16:27:56.340082"
+    },
+    {
+      "english": "Two paths, diverged.",
+      "czech": "Dvě cesty, se rozdělily.",
+      "transliteration": "Dvyetsehty, se rozdelyly.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T16:27:56.340089"
+    },
+    {
+      "english": "Three cheers, for success!",
+      "czech": "Tři slávy, pro úspěch!",
+      "transliteration": "Tshry slavy, pro uspekh!",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T16:27:56.340091"
+    },
+    {
+      "english": "Round four, begins now.",
+      "czech": "Kolo čtyři, začíná teď.",
+      "transliteration": "Kolo chytiry, zachina tet.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T16:27:56.340092"
+    },
+    {
+      "english": "Half past five, almost.",
+      "czech": "Půl šesté, skoro.",
+      "transliteration": "Pul šesté, skoro.",
+      "category": "Numbers",
+      "generated_at": "2026-07-13T16:27:56.340094"
     }
   ],
-  "last_updated": "2026-07-13T14:06:03.443829"
+  "last_updated": "2026-07-13T16:27:56.340095"
 }
