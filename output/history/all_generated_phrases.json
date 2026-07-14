@@ -4514,7 +4514,42 @@
       "transliteration": "Jemne mrholeni, tiche slzy prirody.",
       "category": "Weather",
       "generated_at": "2026-07-14T18:03:26.563612"
+    },
+    {
+      "english": "My dearest child, come here.",
+      "czech": "Mé milované dítě, pojď sem.",
+      "transliteration": "Me milovane dite, pojd sem.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T21:00:02.117930"
+    },
+    {
+      "english": "Sweetheart, have you eaten?",
+      "czech": "Zlatíčko, už jsi jedl(a)?",
+      "transliteration": "Zlaticko, uz jsi jedl(a)?",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T21:00:02.117942"
+    },
+    {
+      "english": "Beloved wife, my life.",
+      "czech": "Milovaná žena, můj život.",
+      "transliteration": "Milovana zena, muj zivot.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T21:00:02.117944"
+    },
+    {
+      "english": "Darling husband, I missed you.",
+      "czech": "Drahý manžel, chyběl jsi mi.",
+      "transliteration": "Drahy manzel, chybel jsi mi.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T21:00:02.117945"
+    },
+    {
+      "english": "My son, run faster!",
+      "czech": "Můj synu, běž rychleji!",
+      "transliteration": "Muj synu, bez rychleji!",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T21:00:02.117947"
     }
   ],
-  "last_updated": "2026-07-14T18:03:26.563614"
+  "last_updated": "2026-07-14T21:00:02.117949"
 }
