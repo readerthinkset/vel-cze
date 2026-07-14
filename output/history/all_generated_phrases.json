@@ -4409,7 +4409,42 @@
       "transliteration": "Neh-zah-stah-vooy, yen oo-prav plahkh-tee.",
       "category": "Perseverance",
       "generated_at": "2026-07-14T01:46:52.342718"
+    },
+    {
+      "english": "This little street, it's so charming.",
+      "czech": "Tato ulička, je tak kouzelná.",
+      "transliteration": "Tato ulička, ye tak kouzelná.",
+      "category": "Travel",
+      "generated_at": "2026-07-14T13:07:45.454689"
+    },
+    {
+      "english": "Excuse me, where's the restroom?",
+      "czech": "Prosím vás, kde je toaleta?",
+      "transliteration": "Prosím vás, kde ye toaleta?",
+      "category": "Travel",
+      "generated_at": "2026-07-14T13:07:45.454700"
+    },
+    {
+      "english": "I'm looking for, a quiet place.",
+      "czech": "Hledám, klidné místo.",
+      "transliteration": "Hledám, klidné místo.",
+      "category": "Travel",
+      "generated_at": "2026-07-14T13:07:45.454702"
+    },
+    {
+      "english": "What time, does this open?",
+      "czech": "V kolik hodin, se toto otevře?",
+      "transliteration": "V kolik hodin, se toto otevře?",
+      "category": "Travel",
+      "generated_at": "2026-07-14T13:07:45.454703"
+    },
+    {
+      "english": "Can I take, a photo here?",
+      "czech": "Mohu si, udělat fotku?",
+      "transliteration": "Mohu si, udělat fotku?",
+      "category": "Travel",
+      "generated_at": "2026-07-14T13:07:45.454705"
     }
   ],
-  "last_updated": "2026-07-14T01:46:52.342719"
+  "last_updated": "2026-07-14T13:07:45.454706"
 }
