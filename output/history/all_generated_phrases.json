@@ -4479,7 +4479,42 @@
       "transliteration": "Představujte si příběhy, vyprávěné česky.",
       "category": "Purpose",
       "generated_at": "2026-07-14T15:20:42.898114"
+    },
+    {
+      "english": "Dewdrops shimmer, a gentle morning.",
+      "czech": "Kapky rosy se třpytí, jemné ráno.",
+      "transliteration": "Kapky rosy se trepyti, jemne rano.",
+      "category": "Weather",
+      "generated_at": "2026-07-14T18:03:26.563595"
+    },
+    {
+      "english": "Fog is lifting, slowly revealing.",
+      "czech": "Mlha ustupuje, pomalu odhaluje.",
+      "transliteration": "Mlha ustupuje, pomalu odhaluje.",
+      "category": "Weather",
+      "generated_at": "2026-07-14T18:03:26.563607"
+    },
+    {
+      "english": "The air is crisp, a cool breeze.",
+      "czech": "Vzduch je svěží, chladný vánek.",
+      "transliteration": "Vzduch je svezhi, chladny vanek.",
+      "category": "Weather",
+      "generated_at": "2026-07-14T18:03:26.563609"
+    },
+    {
+      "english": "Sunbeams pierce through, warming the earth.",
+      "czech": "Sluneční paprsky pronikají, hřejí zemi.",
+      "transliteration": "Slunecni paprsky pronikaji, hřejí zemi.",
+      "category": "Weather",
+      "generated_at": "2026-07-14T18:03:26.563611"
+    },
+    {
+      "english": "Gentle drizzle, nature's soft tears.",
+      "czech": "Jemné mrholení, tiché slzy přírody.",
+      "transliteration": "Jemne mrholeni, tiche slzy prirody.",
+      "category": "Weather",
+      "generated_at": "2026-07-14T18:03:26.563612"
     }
   ],
-  "last_updated": "2026-07-14T15:20:42.898116"
+  "last_updated": "2026-07-14T18:03:26.563614"
 }
