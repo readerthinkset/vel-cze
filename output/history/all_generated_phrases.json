@@ -4549,7 +4549,42 @@
       "transliteration": "Muj synu, bez rychleji!",
       "category": "Family Terms",
       "generated_at": "2026-07-14T21:00:02.117947"
+    },
+    {
+      "english": "This blue shirt, it fits perfectly.",
+      "czech": "Tato modrá košile, sedí mi skvěle.",
+      "transliteration": "Tato modrá košile, sedí mi skvěle.",
+      "category": "Clothes",
+      "generated_at": "2026-07-15T01:43:23.278838"
+    },
+    {
+      "english": "I need new socks, please.",
+      "czech": "Potřebuji nové ponožky, prosím.",
+      "transliteration": "Potřebuji nové ponožky, prosím.",
+      "category": "Clothes",
+      "generated_at": "2026-07-15T01:43:23.278848"
+    },
+    {
+      "english": "These trousers, are they on sale?",
+      "czech": "Tyto kalhoty, jsou ve slevě?",
+      "transliteration": "Tyto kalhoty, jsou ve slevě?",
+      "category": "Clothes",
+      "generated_at": "2026-07-15T01:43:23.278849"
+    },
+    {
+      "english": "A warm winter coat, I'm looking for.",
+      "czech": "Teplý zimní kabát, hledám.",
+      "transliteration": "Teplý zimní kabát, hledám.",
+      "category": "Clothes",
+      "generated_at": "2026-07-15T01:43:23.278851"
+    },
+    {
+      "english": "Do you have this in red?",
+      "czech": "Máte to v červené barvě?",
+      "transliteration": "Máte to v červené barvě?",
+      "category": "Clothes",
+      "generated_at": "2026-07-15T01:43:23.278852"
     }
   ],
-  "last_updated": "2026-07-14T21:00:02.117949"
+  "last_updated": "2026-07-15T01:43:23.278853"
 }
