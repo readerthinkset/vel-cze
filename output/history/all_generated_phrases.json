@@ -5074,7 +5074,42 @@
       "transliteration": "Otevrete usta vic, tentokrat.",
       "category": "Directions",
       "generated_at": "2026-07-18T17:56:41.599637"
+    },
+    {
+      "english": "Hello there, neighbor.",
+      "czech": "Ahoj, susede.",
+      "transliteration": "Ahoy, soo-seh-deh.",
+      "category": "Greetings",
+      "generated_at": "2026-07-18T20:48:20.063015"
+    },
+    {
+      "english": "A cheerful hello, to you.",
+      "czech": "Vesely pozdrav, tobe.",
+      "transliteration": "Ves-eh-lee poz-drahv, toh-beh.",
+      "category": "Greetings",
+      "generated_at": "2026-07-18T20:48:20.063025"
+    },
+    {
+      "english": "Glad to see you.",
+      "czech": "Rad vas vidim.",
+      "transliteration": "Rahd vahss vee-deem.",
+      "category": "Greetings",
+      "generated_at": "2026-07-18T20:48:20.063027"
+    },
+    {
+      "english": "How are things?",
+      "czech": "Jak se dari?",
+      "transliteration": "Yahk seh dah-ree?",
+      "category": "Greetings",
+      "generated_at": "2026-07-18T20:48:20.063028"
+    },
+    {
+      "english": "A warm welcome.",
+      "czech": "Srdecne vitejte.",
+      "transliteration": "Ser-dech-neh vee-tay-teh.",
+      "category": "Greetings",
+      "generated_at": "2026-07-18T20:48:20.063029"
     }
   ],
-  "last_updated": "2026-07-18T17:56:41.599639"
+  "last_updated": "2026-07-18T20:48:20.063031"
 }
