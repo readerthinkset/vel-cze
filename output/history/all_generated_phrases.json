@@ -5354,7 +5354,42 @@
       "transliteration": "Pshe-y-mee mo-ment, na-pl-no.",
       "category": "Courage",
       "generated_at": "2026-07-20T13:48:28.949507"
+    },
+    {
+      "english": "Savor quiet moments, like tea.",
+      "czech": "Vychutnej klidné chvíle, jako čaj.",
+      "transliteration": "Vychutnej klidne chvile, jako caj.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T15:47:21.043454"
+    },
+    {
+      "english": "Goodness, grows from within.",
+      "czech": "Dobro, roste zevnitř.",
+      "transliteration": "Dobro, roste zevnitr.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T15:47:21.043466"
+    },
+    {
+      "english": "Your spirit, dances freely.",
+      "czech": "Tvůj duch, tančí svobodně.",
+      "transliteration": "Tvy duch, tanci svobodne.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T15:47:21.043468"
+    },
+    {
+      "english": "Laugh often, it heals.",
+      "czech": "Směj se často, to léčí.",
+      "transliteration": "Smej se casto, to leci.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T15:47:21.043469"
+    },
+    {
+      "english": "Listen to the wind, it whispers.",
+      "czech": "Naslouchej větru, šeptá.",
+      "transliteration": "Naslouchej vetru, sepita.",
+      "category": "Positive Life",
+      "generated_at": "2026-07-20T15:47:21.043471"
     }
   ],
-  "last_updated": "2026-07-20T13:48:28.949509"
+  "last_updated": "2026-07-20T15:47:21.043473"
 }
