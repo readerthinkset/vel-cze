@@ -5284,7 +5284,42 @@
       "transliteration": "Toh yeh krahs-ny mah-teh-ree-ahl.",
       "category": "Shopping",
       "generated_at": "2026-07-19T20:47:46.612504"
+    },
+    {
+      "english": "That's a great, start.",
+      "czech": "To je skvělý, začátek.",
+      "transliteration": "To yeh skvye-lee, zaha-tek.",
+      "category": "Success",
+      "generated_at": "2026-07-20T02:12:48.340981"
+    },
+    {
+      "english": "You're catching, on well.",
+      "czech": "Dobře to chápeš, teď.",
+      "transliteration": "Dob-rzheh to khah-pesh, ted.",
+      "category": "Success",
+      "generated_at": "2026-07-20T02:12:48.340991"
+    },
+    {
+      "english": "Little by little, it clicks.",
+      "czech": "Kousek po kousku, to sedí.",
+      "transliteration": "Kou-sek po kou-sku, to seh-dee.",
+      "category": "Success",
+      "generated_at": "2026-07-20T02:12:48.340993"
+    },
+    {
+      "english": "Your ear for Czech, is sharp.",
+      "czech": "Tvůj sluch pro češtinu, je ostrý.",
+      "transliteration": "Tvoo-y slooh pro cheh-sti-nu, yeh os-tree.",
+      "category": "Success",
+      "generated_at": "2026-07-20T02:12:48.340994"
+    },
+    {
+      "english": "You remembered, that word!",
+      "czech": "Vzpomněl sis, na to slovo!",
+      "transliteration": "Vspom-nyel sis, nah to slo-vo!",
+      "category": "Success",
+      "generated_at": "2026-07-20T02:12:48.340995"
     }
   ],
-  "last_updated": "2026-07-19T20:47:46.612506"
+  "last_updated": "2026-07-20T02:12:48.340997"
 }
