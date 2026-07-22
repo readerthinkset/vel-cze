@@ -5704,7 +5704,42 @@
       "transliteration": "Shepoty cheshtiny, stanou se tvým hlasem.",
       "category": "Perseverance",
       "generated_at": "2026-07-22T13:21:35.352945"
+    },
+    {
+      "english": "Do you have, any local specialties?",
+      "czech": "Máte, nějaké místní speciality?",
+      "transliteration": "Maa-tyeh, nyaa-kay-yeh mees-tee-nyeh spay-tsee-yah-lee-ty?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-22T15:29:06.422879"
+    },
+    {
+      "english": "This bread, is so fresh.",
+      "czech": "Tenhle chleba, je tak čerstvý.",
+      "transliteration": "Ten-hleh chleh-bah, yeh tahk cher-stvee.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-22T15:29:06.422888"
+    },
+    {
+      "english": "Could I have, a different side dish?",
+      "czech": "Mohu mít, jinou přílohu?",
+      "transliteration": "Moh-hoo meet, yee-noo pree-loh-hoo?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-22T15:29:06.422890"
+    },
+    {
+      "english": "The atmosphere, is very cozy.",
+      "czech": "Ta atmosféra, je velmi útulná.",
+      "transliteration": "Tah at-mos-feh-rah, yeh vel-mee oo-too-lnaa.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-22T15:29:06.422892"
+    },
+    {
+      "english": "Is that, a vegetarian option?",
+      "czech": "Je to, vegetariánská možnost?",
+      "transliteration": "Yeh toh, veh-geh-tah-ree-ahn-skah mozh-nost?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-22T15:29:06.422893"
     }
   ],
-  "last_updated": "2026-07-22T13:21:35.352947"
+  "last_updated": "2026-07-22T15:29:06.422894"
 }
