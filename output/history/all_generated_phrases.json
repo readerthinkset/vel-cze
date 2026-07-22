@@ -5739,7 +5739,42 @@
       "transliteration": "Yeh toh, veh-geh-tah-ree-ahn-skah mozh-nost?",
       "category": "Restaurant",
       "generated_at": "2026-07-22T15:29:06.422893"
+    },
+    {
+      "english": "This little toe, wiggles playfully.",
+      "czech": "Tenhle malíček, rošťácky se vrtí.",
+      "transliteration": "Tenh-le ma-lee-chek, rot-shart-skee se vrr-tee.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-22T18:07:53.949896"
+    },
+    {
+      "english": "His strong back, carries burdens.",
+      "czech": "Jeho silná záda, nesou břemena.",
+      "transliteration": "Ye-ho sil-na za-da, nes-oo brzeh-meh-na.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-22T18:07:53.949907"
+    },
+    {
+      "english": "Her smooth forehead, glows warmly.",
+      "czech": "Její hladké čelo, září teple.",
+      "transliteration": "Ye-jee hlaht-keh cheh-lo, zha-ree teh-pleh.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-22T18:07:53.949908"
+    },
+    {
+      "english": "My aching hip, needs attention.",
+      "czech": "Moje bolavá kyčel, potřebuje péči.",
+      "transliteration": "Mo-yeh bo-la-va kitch-el, pot-rzheh-oo-yeh peh-chee.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-22T18:07:53.949910"
+    },
+    {
+      "english": "His stubbed toe, really hurts.",
+      "czech": "Jeho naražený palec, opravdu bolí.",
+      "transliteration": "Ye-ho na-ra-zheh-nee pa-lets, op-rav-doo bo-lee.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-22T18:07:53.949911"
     }
   ],
-  "last_updated": "2026-07-22T15:29:06.422894"
+  "last_updated": "2026-07-22T18:07:53.949913"
 }
