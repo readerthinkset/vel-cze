@@ -6054,7 +6054,42 @@
       "transliteration": "Poz-drah ze ser-tse, Ev-ro-py.",
       "category": "Greetings",
       "generated_at": "2026-07-24T07:19:34.476847"
+    },
+    {
+      "english": "The alarm chirps, time to rise.",
+      "czech": "Budík pípá, čas vstávat.",
+      "transliteration": "Budik piipa, cas vstavat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-24T13:17:56.480655"
+    },
+    {
+      "english": "Morning light paints the window.",
+      "czech": "Ranní světlo maluje okno.",
+      "transliteration": "Ranni svetlo maluje okno.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-24T13:17:56.480668"
+    },
+    {
+      "english": "Sip tea slowly, savor the warmth.",
+      "czech": "Pomalu usrkávám čaj, vychutnávám teplo.",
+      "transliteration": "Pomalu usrkavam čaj, vychutnavam teplo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-24T13:17:56.480670"
+    },
+    {
+      "english": "Shower quick, feel refreshed.",
+      "czech": "Rychlá sprcha, cítím se osvěžený.",
+      "transliteration": "Rychla sprcha, citim se osvezeny.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-24T13:17:56.480672"
+    },
+    {
+      "english": "Toast pops up, ready to eat.",
+      "czech": "Toast vyskočí, je připravený k jídlu.",
+      "transliteration": "Toast vyskoči, je připraveny k jidlu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-24T13:17:56.480673"
     }
   ],
-  "last_updated": "2026-07-24T07:19:34.476848"
+  "last_updated": "2026-07-24T13:17:56.480675"
 }
