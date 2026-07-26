@@ -6369,7 +6369,42 @@
       "transliteration": "Pev-nah roo-kah, veh-deh rhe-mes-lo.",
       "category": "Patience",
       "generated_at": "2026-07-26T12:58:01.646414"
+    },
+    {
+      "english": "The owl hoots, at midnight.",
+      "czech": "Sova houká, o půlnoci.",
+      "transliteration": "Sova houka, o pulnoci.",
+      "category": "Animals",
+      "generated_at": "2026-07-26T15:00:57.810364"
+    },
+    {
+      "english": "A fox sneaks, through the woods.",
+      "czech": "Liška se plíží, lesem.",
+      "transliteration": "Liska se plizi, lesem.",
+      "category": "Animals",
+      "generated_at": "2026-07-26T15:00:57.810373"
+    },
+    {
+      "english": "The elephant trumpets, a greeting.",
+      "czech": "Slon troubí, pozdrav.",
+      "transliteration": "Slon troubi, pozdrav.",
+      "category": "Animals",
+      "generated_at": "2026-07-26T15:00:57.810375"
+    },
+    {
+      "english": "A frog croaks, near the pond.",
+      "czech": "Žába kváká, u rybníka.",
+      "transliteration": "Zaba kvaka, u rybnika.",
+      "category": "Animals",
+      "generated_at": "2026-07-26T15:00:57.810377"
+    },
+    {
+      "english": "The lion roars, for his pride.",
+      "czech": "Lev řeve, pro svou smečku.",
+      "transliteration": "Lev reve, pro svou smecku.",
+      "category": "Animals",
+      "generated_at": "2026-07-26T15:00:57.810378"
     }
   ],
-  "last_updated": "2026-07-26T12:58:01.646415"
+  "last_updated": "2026-07-26T15:00:57.810380"
 }
