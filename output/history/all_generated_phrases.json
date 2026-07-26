@@ -6404,7 +6404,42 @@
       "transliteration": "Lev reve, pro svou smecku.",
       "category": "Animals",
       "generated_at": "2026-07-26T15:00:57.810378"
+    },
+    {
+      "english": "Wow, your Czech, is blossoming.",
+      "czech": "Páni, vaše čeština, rozkvétá.",
+      "transliteration": "Paani, vase cestina, rozkveta.",
+      "category": "Success",
+      "generated_at": "2026-07-26T18:02:23.327735"
+    },
+    {
+      "english": "You've nailed, that grammar point.",
+      "czech": "Zvládli jste, tu gramatiku.",
+      "transliteration": "Zvladli jste, tu gramatiku.",
+      "category": "Success",
+      "generated_at": "2026-07-26T18:02:23.327744"
+    },
+    {
+      "english": "Czech words, you're conquering.",
+      "czech": "Česká slova, dobýváte.",
+      "transliteration": "Ceska slova, dobývate.",
+      "category": "Success",
+      "generated_at": "2026-07-26T18:02:23.327746"
+    },
+    {
+      "english": "That sentence, was a beauty.",
+      "czech": "Ta věta, byla nádherná.",
+      "transliteration": "Ta věta, byla nadherna.",
+      "category": "Success",
+      "generated_at": "2026-07-26T18:02:23.327747"
+    },
+    {
+      "english": "Your Czech, is sounding natural.",
+      "czech": "Vaše čeština, zní přirozeně.",
+      "transliteration": "Vaše čeština, zni přirozeně.",
+      "category": "Success",
+      "generated_at": "2026-07-26T18:02:23.327748"
     }
   ],
-  "last_updated": "2026-07-26T15:00:57.810380"
+  "last_updated": "2026-07-26T18:02:23.327750"
 }
