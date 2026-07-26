@@ -6299,7 +6299,42 @@
       "transliteration": "Spolupráce, podněcuye tvořivost.",
       "category": "Work",
       "generated_at": "2026-07-25T20:52:40.129343"
+    },
+    {
+      "english": "Warm bread, still baking.",
+      "czech": "Teplý chléb, ještě se peče.",
+      "transliteration": "Tep-lee hleb, yesh-teh se peh-cheh.",
+      "category": "Food",
+      "generated_at": "2026-07-26T02:00:55.898890"
+    },
+    {
+      "english": "This soup, needs salt.",
+      "czech": "Tato polévka, potřebuje sůl.",
+      "transliteration": "Tah-toh poh-lehv-kah, poh-treh-boo-yeh sool.",
+      "category": "Food",
+      "generated_at": "2026-07-26T02:00:55.898898"
+    },
+    {
+      "english": "Sweet dessert, very rich.",
+      "czech": "Sladký dezert, velmi sytý.",
+      "transliteration": "Slad-kee deh-zert, vel-mee sit-ee.",
+      "category": "Food",
+      "generated_at": "2026-07-26T02:00:55.898900"
+    },
+    {
+      "english": "Fiery chilli, handle with care.",
+      "czech": "Pálivé chilli, opatrně s ním.",
+      "transliteration": "Pah-lee-veh chilli, oh-pah-tr-nyeh s neem.",
+      "category": "Food",
+      "generated_at": "2026-07-26T02:00:55.898901"
+    },
+    {
+      "english": "Juicy peach, so refreshing.",
+      "czech": "Šťavnatá broskev, tak osvěžující.",
+      "transliteration": "Shtyahv-nah-tah brohs-kvvekh, tahk oh-svyeh-joo-tsi.",
+      "category": "Food",
+      "generated_at": "2026-07-26T02:00:55.898902"
     }
   ],
-  "last_updated": "2026-07-25T20:52:40.129345"
+  "last_updated": "2026-07-26T02:00:55.898904"
 }
