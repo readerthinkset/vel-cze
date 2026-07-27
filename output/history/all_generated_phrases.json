@@ -6509,7 +6509,42 @@
       "transliteration": "Vrele vztahy, leci dusi.",
       "category": "Happiness",
       "generated_at": "2026-07-27T02:08:38.090005"
+    },
+    {
+      "english": "Mom, could you pass that?",
+      "czech": "Mami, mohla bys podat tamto?",
+      "transliteration": "Mami, mohla bys podat tamto?",
+      "category": "Family Terms",
+      "generated_at": "2026-07-27T14:10:41.613394"
+    },
+    {
+      "english": "Dad, guess what happened!",
+      "czech": "Tati, hádej, co se stalo!",
+      "transliteration": "Tati, hádej, co se stalo!",
+      "category": "Family Terms",
+      "generated_at": "2026-07-27T14:10:41.613407"
+    },
+    {
+      "english": "Brother, this is for you.",
+      "czech": "Bratře, tohle je pro tebe.",
+      "transliteration": "Bratře, tohle je pro tebe.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-27T14:10:41.613409"
+    },
+    {
+      "english": "Sister, let's go shopping.",
+      "czech": "Sestro, jdeme nakupovat.",
+      "transliteration": "Sestro, jdeme nakupovat.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-27T14:10:41.613411"
+    },
+    {
+      "english": "Grandma, your soup, delicious.",
+      "czech": "Babi, tvoje polévka, vynikající.",
+      "transliteration": "Babi, tvoje polévka, vynikající.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-27T14:10:41.613412"
     }
   ],
-  "last_updated": "2026-07-27T02:08:38.090007"
+  "last_updated": "2026-07-27T14:10:41.613414"
 }
