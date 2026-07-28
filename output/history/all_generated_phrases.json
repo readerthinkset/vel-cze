@@ -6579,7 +6579,42 @@
       "transliteration": "Zahradni kvetiny kvetou, zivymi barvami.",
       "category": "Culture",
       "generated_at": "2026-07-27T16:14:02.146850"
+    },
+    {
+      "english": "Hear the vowels, gently. Try.",
+      "czech": "Slyšte samohlásky, zlehka. Zkuste.",
+      "transliteration": "Slysh-tyeh sa-mo-hlass-ky, zleh-ka. Zkuhs-tyeh.",
+      "category": "Directions",
+      "generated_at": "2026-07-28T21:07:05.621004"
+    },
+    {
+      "english": "Let the sound flow, from within. Yes?",
+      "czech": "Nechte zvuk plynout, zevnitř. Ano?",
+      "transliteration": "Neh-cheh zvuk ply-nout, zev-neesh-tr. Ah-no?",
+      "category": "Directions",
+      "generated_at": "2026-07-28T21:07:05.621027"
+    },
+    {
+      "english": "Mimic the melody, of the sentence.",
+      "czech": "Napodobte melodii, věty.",
+      "transliteration": "Na-po-dob-tyeh meh-lo-dy-ee, vy-ehty.",
+      "category": "Directions",
+      "generated_at": "2026-07-28T21:07:05.621030"
+    },
+    {
+      "english": "Feel the shape, of the Czech consonants.",
+      "czech": "Vnímejte tvar, českých souhlásek.",
+      "transliteration": "Vnee-may-tyeh tvar, cheh-skych soh-ou-hlass-k.",
+      "category": "Directions",
+      "generated_at": "2026-07-28T21:07:05.621031"
+    },
+    {
+      "english": "Let your voice rise, like a wave.",
+      "czech": "Ať váš hlas stoupá, jako vlna.",
+      "transliteration": "Aht vash hlass stoh-oo-pah, yah-ko vl-nah.",
+      "category": "Directions",
+      "generated_at": "2026-07-28T21:07:05.621032"
     }
   ],
-  "last_updated": "2026-07-27T16:14:02.146852"
+  "last_updated": "2026-07-28T21:07:05.621034"
 }
