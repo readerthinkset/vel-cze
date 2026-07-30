@@ -6894,7 +6894,42 @@
       "transliteration": "Nah, noh-veh vzpom-een-kee.",
       "category": "Friendship",
       "generated_at": "2026-07-30T15:49:00.440409"
+    },
+    {
+      "english": "Explore Prague, with ease.",
+      "czech": "Prozkoumej Prahu, s lehkostí.",
+      "transliteration": "Prozkoumej Prahuh, s lehkostí.",
+      "category": "Purpose",
+      "generated_at": "2026-07-30T18:15:27.804005"
+    },
+    {
+      "english": "Understand old tales, in Czech.",
+      "czech": "Rozuměj starým pověstem, v češtině.",
+      "transliteration": "Rozuměj starým pověstem, v češtině.",
+      "category": "Purpose",
+      "generated_at": "2026-07-30T18:15:27.804014"
+    },
+    {
+      "english": "Order pivo, like a local.",
+      "czech": "Objednej pivo, jako místní.",
+      "transliteration": "Objednej pivo, jako místní.",
+      "category": "Purpose",
+      "generated_at": "2026-07-30T18:15:27.804016"
+    },
+    {
+      "english": "Hear the city, speak Czech.",
+      "czech": "Slyš město, mluvící česky.",
+      "transliteration": "Slyš město, mluvící česky.",
+      "category": "Purpose",
+      "generated_at": "2026-07-30T18:15:27.804017"
+    },
+    {
+      "english": "Taste the culture, one word.",
+      "czech": "Ochutnej kulturu, jedním slovem.",
+      "transliteration": "Ochutnej kulturu, jedním slovem.",
+      "category": "Purpose",
+      "generated_at": "2026-07-30T18:15:27.804018"
     }
   ],
-  "last_updated": "2026-07-30T15:49:00.440411"
+  "last_updated": "2026-07-30T18:15:27.804020"
 }
