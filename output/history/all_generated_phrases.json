@@ -7139,7 +7139,42 @@
       "transliteration": "Kadh-zhee den, no-ve ches-ke slo-vo.",
       "category": "Inspiration",
       "generated_at": "2026-07-31T21:04:16.417988"
+    },
+    {
+      "english": "Patience, my friend, patience.",
+      "czech": "Trpělivost, příteli, trpělivost.",
+      "transliteration": "Trpyelivost, prrziteeli, trpyelivost.",
+      "category": "Patience",
+      "generated_at": "2026-08-01T02:03:44.579732"
+    },
+    {
+      "english": "Just a little longer, okay?",
+      "czech": "Ještě chvilku, dobře?",
+      "transliteration": "Yeeshte chvilku, dobzhe?",
+      "category": "Patience",
+      "generated_at": "2026-08-01T02:03:44.579741"
+    },
+    {
+      "english": "Don't worry, it's coming.",
+      "czech": "Neboj se, ono to přijde.",
+      "transliteration": "Neboy se, ono to prrzijde.",
+      "category": "Patience",
+      "generated_at": "2026-08-01T02:03:44.579743"
+    },
+    {
+      "english": "We'll get there, eventually.",
+      "czech": "Dostaneme se tam, nakonec.",
+      "transliteration": "Dostaneme se tam, nakonec.",
+      "category": "Patience",
+      "generated_at": "2026-08-01T02:03:44.579744"
+    },
+    {
+      "english": "Just a bit more, keep going.",
+      "czech": "Ještě kousek, pokračuj.",
+      "transliteration": "Yeeshte kousek, pokrachuy.",
+      "category": "Patience",
+      "generated_at": "2026-08-01T02:03:44.579745"
     }
   ],
-  "last_updated": "2026-07-31T21:04:16.417989"
+  "last_updated": "2026-08-01T02:03:44.579747"
 }
