@@ -7209,7 +7209,42 @@
       "transliteration": "Cheske zvuki, stanou se vashimi.",
       "category": "Growth",
       "generated_at": "2026-08-01T12:56:26.986072"
+    },
+    {
+      "english": "Could I have, a glass of wine?",
+      "czech": "Mohu si dát, sklenku vína?",
+      "transliteration": "Moh-hoo si daht, sklen-ko vee-nah?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:56:14.848232"
+    },
+    {
+      "english": "This salad, looks so fresh.",
+      "czech": "Tenhle salát, vypadá tak svěže.",
+      "transliteration": "Ten-hleh sah-laht, vip-ah-dah tahk svyeh-zheh.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:56:14.848243"
+    },
+    {
+      "english": "We'd like, something light.",
+      "czech": "Chtěli bychom, něco lehkého.",
+      "transliteration": "Chteh-lee bih-khom, nyeh-tsoh leh-kh-heh-voh.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:56:14.848245"
+    },
+    {
+      "english": "Is this, a house specialty?",
+      "czech": "Je tohle, naše domácí?",
+      "transliteration": "Yeh toh-hleh, nah-sheh doh-mah-tsee?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:56:14.848246"
+    },
+    {
+      "english": "Where's the restroom, please?",
+      "czech": "Kde je, toaleta, prosím?",
+      "transliteration": "Gdeh yeh, toh-ah-leh-tah, pro-seem?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-01T14:56:14.848247"
     }
   ],
-  "last_updated": "2026-08-01T12:56:26.986073"
+  "last_updated": "2026-08-01T14:56:14.848249"
 }
