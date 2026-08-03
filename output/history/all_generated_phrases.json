@@ -7594,7 +7594,42 @@
       "transliteration": "Cítím se… docela dobře, vlastně.",
       "category": "Feelings",
       "generated_at": "2026-08-03T14:15:32.545863"
+    },
+    {
+      "english": "My new hat, it's very stylish.",
+      "czech": "Můj nový klobouk, je moc elegantní.",
+      "transliteration": "Moy nee-viy kloh-book, yeh mots eh-leh-gant-nee.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T16:19:04.946987"
+    },
+    {
+      "english": "This dress, feels so soft.",
+      "czech": "Tyto šaty, jsou tak jemné.",
+      "transliteration": "Tee-toh sha-tee, sohn tak yemm-neh.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T16:19:04.946998"
+    },
+    {
+      "english": "Looking for a scarf, perhaps silk?",
+      "czech": "Hledám šálu, možná hedvábnou?",
+      "transliteration": "Hleh-dahm sha-loo, mohzh-nah hehd-vab-nov.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T16:19:04.947000"
+    },
+    {
+      "english": "These shoes, are they comfortable?",
+      "czech": "Tyto boty, jsou pohodlné?",
+      "transliteration": "Tee-toh boh-tee, sohn poh-hohd-lin-neh?",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T16:19:04.947001"
+    },
+    {
+      "english": "A stylish jacket, for autumn days.",
+      "czech": "Stylová bunda, na podzimní dny.",
+      "transliteration": "Stih-loh-vah boon-dah, nah pohd-zim-nee dnee.",
+      "category": "Clothes",
+      "generated_at": "2026-08-03T16:19:04.947003"
     }
   ],
-  "last_updated": "2026-08-03T14:15:32.545865"
+  "last_updated": "2026-08-03T16:19:04.947004"
 }
