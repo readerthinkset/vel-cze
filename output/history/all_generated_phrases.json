@@ -7734,7 +7734,42 @@
       "transliteration": "Uzij si klidne, dny.",
       "category": "Holidays",
       "generated_at": "2026-08-04T01:48:12.651447"
+    },
+    {
+      "english": "The rabbit hops, quickly, away.",
+      "czech": "Králík poskočí, rychle, pryč.",
+      "transliteration": "Kralik poskoci, rychle, pryc.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T13:47:47.335371"
+    },
+    {
+      "english": "A squirrel chatters, high, up there.",
+      "czech": "Veverka švitoří, vysoko, nahoře.",
+      "transliteration": "Veverka svitori, vysoko, nahore.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T13:47:47.335382"
+    },
+    {
+      "english": "The horse neighs, a strong, sound.",
+      "czech": "Kůň řehtá, silný, zvuk.",
+      "transliteration": "Kon rehta, silny, zvuk.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T13:47:47.335384"
+    },
+    {
+      "english": "A sheep bleats, softly, for its mother.",
+      "czech": "Ovce bečí, tiše, na svou matku.",
+      "transliteration": "Ovce beci, tise, na svou matku.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T13:47:47.335385"
+    },
+    {
+      "english": "The pig grunts, happily, in the mud.",
+      "czech": "Prase chrochtá, spokojeně, v bahně.",
+      "transliteration": "Prase chrochta, spokojene, v bahne.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T13:47:47.335386"
     }
   ],
-  "last_updated": "2026-08-04T01:48:12.651449"
+  "last_updated": "2026-08-04T13:47:47.335388"
 }
