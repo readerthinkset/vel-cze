@@ -8014,7 +8014,42 @@
       "transliteration": "Kazdy okamzik, je novy zacatek.",
       "category": "Health",
       "generated_at": "2026-08-05T18:21:44.057749"
+    },
+    {
+      "english": "Hey there, let's chat.",
+      "czech": "Ahoj, pokecáme?",
+      "transliteration": "Ahoy, poketsameh?",
+      "category": "Greetings",
+      "generated_at": "2026-08-05T21:08:09.445348"
+    },
+    {
+      "english": "Curious, aren't you? Dobrý den.",
+      "czech": "Jsi zvědavý? Dobrý den.",
+      "transliteration": "Yees tzveh-dah-vee? Doh-bree den.",
+      "category": "Greetings",
+      "generated_at": "2026-08-05T21:08:09.445360"
+    },
+    {
+      "english": "From the heart, a Czech hello.",
+      "czech": "Z hloubi srdce, české 'nazdar'.",
+      "transliteration": "Z hlou-bee srtsuh, chehs-keh 'nahz-dar'.",
+      "category": "Greetings",
+      "generated_at": "2026-08-05T21:08:09.445362"
+    },
+    {
+      "english": "Looking good, my friend.",
+      "czech": "Vypadáš skvěle, příteli.",
+      "transliteration": "Vee-pah-dahsh skvyeh-leh, pzhee-teh-lee.",
+      "category": "Greetings",
+      "generated_at": "2026-08-05T21:08:09.445363"
+    },
+    {
+      "english": "A moment for you, hello.",
+      "czech": "Chvilka pro tebe, ahoj.",
+      "transliteration": "Hveel-kah pro teh-beh, ahoy.",
+      "category": "Greetings",
+      "generated_at": "2026-08-05T21:08:09.445365"
     }
   ],
-  "last_updated": "2026-08-05T18:21:44.057750"
+  "last_updated": "2026-08-05T21:08:09.445367"
 }
