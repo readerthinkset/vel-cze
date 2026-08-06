@@ -8119,7 +8119,42 @@
       "transliteration": "Ryeka, chladnye sheda.",
       "category": "Colors",
       "generated_at": "2026-08-06T13:41:26.248513"
+    },
+    {
+      "english": "Hold on, a bit longer.",
+      "czech": "Vydrž, ještě chvilku.",
+      "transliteration": "Vydrz, jeste chvilku.",
+      "category": "Patience",
+      "generated_at": "2026-08-06T22:49:59.874713"
+    },
+    {
+      "english": "Let it brew, you see.",
+      "czech": "Nech to zrát, víš.",
+      "transliteration": "Nech to zrat, vis.",
+      "category": "Patience",
+      "generated_at": "2026-08-06T22:49:59.874722"
+    },
+    {
+      "english": "Steady does it, friend.",
+      "czech": "Pomalu, kamaráde.",
+      "transliteration": "Pomalu, kamarade.",
+      "category": "Patience",
+      "generated_at": "2026-08-06T22:49:59.874724"
+    },
+    {
+      "english": "Allow it time, to grow.",
+      "czech": "Dej tomu čas, vyrůst.",
+      "transliteration": "Dej tomu cas, vyrust.",
+      "category": "Patience",
+      "generated_at": "2026-08-06T22:49:59.874725"
+    },
+    {
+      "english": "Quiet work, bears fruit.",
+      "czech": "Tichá práce, nese ovoce.",
+      "transliteration": "Ticha prace, nese ovoce.",
+      "category": "Patience",
+      "generated_at": "2026-08-06T22:49:59.874726"
     }
   ],
-  "last_updated": "2026-08-06T13:41:26.248515"
+  "last_updated": "2026-08-06T22:49:59.874728"
 }
