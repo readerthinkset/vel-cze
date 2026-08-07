@@ -8154,7 +8154,42 @@
       "transliteration": "Ticha prace, nese ovoce.",
       "category": "Patience",
       "generated_at": "2026-08-06T22:49:59.874726"
+    },
+    {
+      "english": "A refreshing drink, chilled.",
+      "czech": "Osvěžující nápoj, vychlazený.",
+      "transliteration": "Osveshujytsee nahpoy, vychlazheny.",
+      "category": "Food",
+      "generated_at": "2026-08-07T00:53:14.463681"
+    },
+    {
+      "english": "Hot tea, steams gently.",
+      "czech": "Horký čaj, jemně se paří.",
+      "transliteration": "Horkee chay, yemnyeh seh pahzhee.",
+      "category": "Food",
+      "generated_at": "2026-08-07T00:53:14.463691"
+    },
+    {
+      "english": "Crispy potatoes, golden brown.",
+      "czech": "Křupavé brambory, zlatohnědé.",
+      "transliteration": "Kruhpahveh brambohry, zlatohnyehdeh.",
+      "category": "Food",
+      "generated_at": "2026-08-07T00:53:14.463693"
+    },
+    {
+      "english": "Tart berries, a small bowl.",
+      "czech": "Kyselé bobule, malá miska.",
+      "transliteration": "Kisseleh bohboolyeh, mahla miska.",
+      "category": "Food",
+      "generated_at": "2026-08-07T00:53:14.463694"
+    },
+    {
+      "english": "Savory broth, warms deeply.",
+      "czech": "Chutný vývar, hluboce zahřeje.",
+      "transliteration": "Chootny veevahr, hloobohcheh zahzhehyeh.",
+      "category": "Food",
+      "generated_at": "2026-08-07T00:53:14.463695"
     }
   ],
-  "last_updated": "2026-08-06T22:49:59.874728"
+  "last_updated": "2026-08-07T00:53:14.463697"
 }
