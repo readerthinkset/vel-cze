@@ -8749,7 +8749,42 @@
       "transliteration": "Vzduch voní, nadcházející bouřkou.",
       "category": "Weather",
       "generated_at": "2026-08-10T01:07:02.760294"
+    },
+    {
+      "english": "My favorite sweater, it's cozy.",
+      "czech": "Můj oblíbený svetr, je útulný.",
+      "transliteration": "Moy oblibeny svetr, ye utulny.",
+      "category": "Clothes",
+      "generated_at": "2026-08-10T12:44:31.648847"
+    },
+    {
+      "english": "These gloves, keep hands warm.",
+      "czech": "Tyto rukavice, zahřejí ruce.",
+      "transliteration": "Tyto rukavice, zahreye ruce.",
+      "category": "Clothes",
+      "generated_at": "2026-08-10T12:44:31.648857"
+    },
+    {
+      "english": "A nice blouse, for work.",
+      "czech": "Pěkná halenka, do práce.",
+      "transliteration": "Pekna halenka, do prace.",
+      "category": "Clothes",
+      "generated_at": "2026-08-10T12:44:31.648859"
+    },
+    {
+      "english": "These boots, waterproof.",
+      "czech": "Tyhle boty, nepromokavé.",
+      "transliteration": "Tyhle boty, nepromokave.",
+      "category": "Clothes",
+      "generated_at": "2026-08-10T12:44:31.648860"
+    },
+    {
+      "english": "I need, a simple t-shirt.",
+      "czech": "Potřebuji, obyčejné tričko.",
+      "transliteration": "Potrebuji, obycejne tricko.",
+      "category": "Clothes",
+      "generated_at": "2026-08-10T12:44:31.648861"
     }
   ],
-  "last_updated": "2026-08-10T01:07:02.760296"
+  "last_updated": "2026-08-10T12:44:31.648863"
 }
