@@ -8784,7 +8784,42 @@
       "transliteration": "Potrebuji, obycejne tricko.",
       "category": "Clothes",
       "generated_at": "2026-08-10T12:44:31.648861"
+    },
+    {
+      "english": "My phone, it died.",
+      "czech": "Můj telefon, se vybil.",
+      "transliteration": "Moo-y te-le-fon, se vy-bil.",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T14:53:40.085258"
+    },
+    {
+      "english": "I can't find, my keys.",
+      "czech": "Nemůžu najít, své klíče.",
+      "transliteration": "Ne-moo-zhu na-yeet, sve klee-che.",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T14:53:40.085267"
+    },
+    {
+      "english": "Is this, the right way?",
+      "czech": "Je toto, správná cesta?",
+      "transliteration": "Ye toh-toh, sprav-na yes-ta?",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T14:53:40.085269"
+    },
+    {
+      "english": "I feel, very unwell.",
+      "czech": "Cítím se, velmi špatně.",
+      "transliteration": "Tsee-teem se, vel-mee shpat-nye.",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T14:53:40.085270"
+    },
+    {
+      "english": "Where is, the nearest metro?",
+      "czech": "Kde je, nejbližší metro?",
+      "transliteration": "Gde ye, nay-bleezh-shee met-roh?",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T14:53:40.085271"
     }
   ],
-  "last_updated": "2026-08-10T12:44:31.648863"
+  "last_updated": "2026-08-10T14:53:40.085273"
 }
