@@ -8714,7 +8714,42 @@
       "transliteration": "Jazyk, ten kvete.",
       "category": "Education",
       "generated_at": "2026-08-09T20:32:03.665457"
+    },
+    {
+      "english": "Sky, a canvas, painted blue.",
+      "czech": "Obloha, plátno, namalované modře.",
+      "transliteration": "Obloha, plátno, namalované modře.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T01:07:02.760281"
+    },
+    {
+      "english": "Warm breeze, whispers secrets.",
+      "czech": "Teplý vánek, šeptá tajemství.",
+      "transliteration": "Teplý vánek, šeptá tajemství.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T01:07:02.760290"
+    },
+    {
+      "english": "Heavy clouds, promise rain.",
+      "czech": "Těžké mraky, slibují déšť.",
+      "transliteration": "Těžké mraky, slibují déšť.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T01:07:02.760292"
+    },
+    {
+      "english": "Sunbeams, golden threads, weave light.",
+      "czech": "Sluneční paprsky, zlaté nitky, tkají světlo.",
+      "transliteration": "Sluneční paprsky, zlaté nitky, tkají světlo.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T01:07:02.760293"
+    },
+    {
+      "english": "Air smells, of coming storm.",
+      "czech": "Vzduch voní, nadcházející bouřkou.",
+      "transliteration": "Vzduch voní, nadcházející bouřkou.",
+      "category": "Weather",
+      "generated_at": "2026-08-10T01:07:02.760294"
     }
   ],
-  "last_updated": "2026-08-09T20:32:03.665459"
+  "last_updated": "2026-08-10T01:07:02.760296"
 }
