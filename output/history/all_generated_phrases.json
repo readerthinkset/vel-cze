@@ -8889,7 +8889,42 @@
       "transliteration": "Myakky mekh, pod nohama, zklidnyuye.",
       "category": "Inner Peace",
       "generated_at": "2026-08-10T20:42:14.084204"
+    },
+    {
+      "english": "The mouse scurries, under the floor.",
+      "czech": "Myš se plíží, pod podlahou.",
+      "transliteration": "Mysh se pleezhi, pod podlahou.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T01:05:59.520733"
+    },
+    {
+      "english": "A bear ambles, through the forest.",
+      "czech": "Medvěd se loudá, lesem.",
+      "transliteration": "Medvyed se loudah, lesem.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T01:05:59.520745"
+    },
+    {
+      "english": "The dolphin leaps, from the ocean.",
+      "czech": "Delfín skáče, z oceánu.",
+      "transliteration": "Delfeen skache, z oceanu.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T01:05:59.520747"
+    },
+    {
+      "english": "An eagle soars, above the mountains.",
+      "czech": "Orel se vznáší, nad horami.",
+      "transliteration": "Orel se vznah-shee, nad horami.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T01:05:59.520748"
+    },
+    {
+      "english": "The wolf howls, at the moon.",
+      "czech": "Vlk vyje, na měsíc.",
+      "transliteration": "Vlk vy-yeh, na mesyets.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T01:05:59.520750"
     }
   ],
-  "last_updated": "2026-08-10T20:42:14.084206"
+  "last_updated": "2026-08-11T01:05:59.520753"
 }
