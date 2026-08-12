@@ -9134,7 +9134,42 @@
       "transliteration": "Tvůj virtuální asistent, poslouchá.",
       "category": "Technology",
       "generated_at": "2026-08-12T12:43:46.385456"
+    },
+    {
+      "english": "Try this sound, now.",
+      "czech": "Zkuste tento zvuk, teď.",
+      "transliteration": "Zkuste tento zvuk, teď.",
+      "category": "Directions",
+      "generated_at": "2026-08-12T17:56:52.738252"
+    },
+    {
+      "english": "Let's play with this word, shall we?",
+      "czech": "Zahrajeme si s tímto slovem, ano?",
+      "transliteration": "Zahrajeme si s tímto slovem, ano?",
+      "category": "Directions",
+      "generated_at": "2026-08-12T17:56:52.738262"
+    },
+    {
+      "english": "Breathe in, say it.",
+      "czech": "Nadechněte se, řekněte to.",
+      "transliteration": "Nadechněte se, řekněte to.",
+      "category": "Directions",
+      "generated_at": "2026-08-12T17:56:52.738263"
+    },
+    {
+      "english": "Listen to the flow, gently.",
+      "czech": "Poslouchejte ten tok, jemně.",
+      "transliteration": "Poslouchejte ten tok, jemně.",
+      "category": "Directions",
+      "generated_at": "2026-08-12T17:56:52.738265"
+    },
+    {
+      "english": "Feel the texture, of the sound.",
+      "czech": "Cítíte tu texturu, toho zvuku.",
+      "transliteration": "Cítíte tu texturu, toho zvuku.",
+      "category": "Directions",
+      "generated_at": "2026-08-12T17:56:52.738266"
     }
   ],
-  "last_updated": "2026-08-12T12:43:46.385458"
+  "last_updated": "2026-08-12T17:56:52.738268"
 }
