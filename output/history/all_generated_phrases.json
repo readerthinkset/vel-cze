@@ -9169,7 +9169,42 @@
       "transliteration": "Cítíte tu texturu, toho zvuku.",
       "category": "Directions",
       "generated_at": "2026-08-12T17:56:52.738266"
+    },
+    {
+      "english": "The forehead, felt the sun.",
+      "czech": "Čelo, ucítilo slunce.",
+      "transliteration": "Chelo, ucítilo slunce.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-12T20:43:11.117364"
+    },
+    {
+      "english": "My eyebrow, twitched a little.",
+      "czech": "Mé obočí, lehce cuklo.",
+      "transliteration": "Mé obočí, lehce cuklo.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-12T20:43:11.117376"
+    },
+    {
+      "english": "His eyelashes, fluttered softly.",
+      "czech": "Jeho řasy, se tiše chvěly.",
+      "transliteration": "Jeho řasy, se tiše chvěly.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-12T20:43:11.117378"
+    },
+    {
+      "english": "Her cheekbone, felt the breeze.",
+      "czech": "Její lícní kost, pocítila vánek.",
+      "transliteration": "Její lícní kost, pocítila vánek.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-12T20:43:11.117379"
+    },
+    {
+      "english": "My chin, rested on my hand.",
+      "czech": "Moje brada, spočívala na ruce.",
+      "transliteration": "Moje brada, spočívala na ruce.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-12T20:43:11.117380"
     }
   ],
-  "last_updated": "2026-08-12T17:56:52.738268"
+  "last_updated": "2026-08-12T20:43:11.117382"
 }
