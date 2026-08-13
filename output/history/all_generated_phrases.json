@@ -9239,7 +9239,42 @@
       "transliteration": "Cheh-shtina seh od-vee-yee, s teh-boh.",
       "category": "Confidence",
       "generated_at": "2026-08-13T01:15:35.669465"
+    },
+    {
+      "english": "You found, the right word.",
+      "czech": "Našel jsi, to správné slovo.",
+      "transliteration": "Nah-shel yeess, toh sprahv-neh slo-voh.",
+      "category": "Success",
+      "generated_at": "2026-08-13T12:44:57.368165"
+    },
+    {
+      "english": "That sounded, so fluent.",
+      "czech": "To znělo, tak plynule.",
+      "transliteration": "Toh znye-loh, tahk plih-noo-leh.",
+      "category": "Success",
+      "generated_at": "2026-08-13T12:44:57.368178"
+    },
+    {
+      "english": "Your grammar, is solid.",
+      "czech": "Tvoje gramatika, je pevná.",
+      "transliteration": "Tvo-yeh grah-mah-tih-kah, yeh pev-nah.",
+      "category": "Success",
+      "generated_at": "2026-08-13T12:44:57.368181"
+    },
+    {
+      "english": "A clear, Czech thought.",
+      "czech": "Jasná, česká myšlenka.",
+      "transliteration": "Yahs-nah, chehs-kah mihsh-len-kah.",
+      "category": "Success",
+      "generated_at": "2026-08-13T12:44:57.368182"
+    },
+    {
+      "english": "You understand, this nuance.",
+      "czech": "Rozumíš, tomuto jemnému rozdílu.",
+      "transliteration": "Roh-zoo-meesh, toh-moo-toh yem-neh-moo rozd-ee-loo.",
+      "category": "Success",
+      "generated_at": "2026-08-13T12:44:57.368184"
     }
   ],
-  "last_updated": "2026-08-13T01:15:35.669467"
+  "last_updated": "2026-08-13T12:44:57.368186"
 }
