@@ -9449,7 +9449,42 @@
       "transliteration": "Ml-hah seh vah-lee, pres oo-do-lee.",
       "category": "Nature",
       "generated_at": "2026-08-14T12:41:51.967272"
+    },
+    {
+      "english": "Czech whispers, in the wind.",
+      "czech": "Čeština šeptá, ve větru.",
+      "transliteration": "Chestina shepta, ve vyetru.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-14T14:46:32.366397"
+    },
+    {
+      "english": "Unlock the Czech heart, one word.",
+      "czech": "Odemkni české srdce, slovem.",
+      "transliteration": "Odemkni cheske srdtse, slovem.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-14T14:46:32.366409"
+    },
+    {
+      "english": "Taste the past, speak the present.",
+      "czech": "Ochutnej minulost, mluv o současnosti.",
+      "transliteration": "Ochutnej minulost, mluv o soucasnosti.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-14T14:46:32.366410"
+    },
+    {
+      "english": "Czech sounds, like a song.",
+      "czech": "České zvuky, znějí jako píseň.",
+      "transliteration": "Cheske zvuky, zneji jako pisen.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-14T14:46:32.366412"
+    },
+    {
+      "english": "Czech rivers, of thought.",
+      "czech": "České řeky, myšlenek.",
+      "transliteration": "Cheske reky, myslenek.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-14T14:46:32.366413"
     }
   ],
-  "last_updated": "2026-08-14T12:41:51.967273"
+  "last_updated": "2026-08-14T14:46:32.366415"
 }
