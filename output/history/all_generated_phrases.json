@@ -9659,7 +9659,42 @@
       "transliteration": "Tohle mi připomíná, domov.",
       "category": "Shopping",
       "generated_at": "2026-08-15T14:17:25.499093"
+    },
+    {
+      "english": "This pastry, is it fresh?",
+      "czech": "Je tohle pečivo, čerstvé?",
+      "transliteration": "Ye toh-leh peh-cheh-vo, cherst-veh?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-15T17:20:13.841502"
+    },
+    {
+      "english": "May I order, this drink?",
+      "czech": "Mohu si objednat, tento nápoj?",
+      "transliteration": "Moh-oo sih ob-yeh-dnatt, ten-toh nah-poy?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-15T17:20:13.841513"
+    },
+    {
+      "english": "Your cat, is very fluffy.",
+      "czech": "Vaše kočka, je moc huňatá.",
+      "transliteration": "Vah-sheh koch-kah, ye mots hoo-nyah-tah.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-15T17:20:13.841515"
+    },
+    {
+      "english": "I like this music, very much.",
+      "czech": "Mám rád tuto hudbu, hodně.",
+      "transliteration": "Mahm rahd too-toh hood-boo, hod-nyeh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-15T17:20:13.841517"
+    },
+    {
+      "english": "The train, is arriving soon.",
+      "czech": "Vlak, přijíždí brzy.",
+      "transliteration": "Vlahk, pree-yeezh-dee brz-ee.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-15T17:20:13.841518"
     }
   ],
-  "last_updated": "2026-08-15T14:17:25.499094"
+  "last_updated": "2026-08-15T17:20:13.841521"
 }
