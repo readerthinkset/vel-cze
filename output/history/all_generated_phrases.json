@@ -9624,7 +9624,42 @@
       "transliteration": "Pet rychlych proudu, teklo.",
       "category": "Numbers",
       "generated_at": "2026-08-15T12:17:26.744272"
+    },
+    {
+      "english": "This looks interesting, very.",
+      "czech": "Tohle vypadá zajímavě, moc.",
+      "transliteration": "Tohle vypada zajimave, moc.",
+      "category": "Shopping",
+      "generated_at": "2026-08-15T14:17:25.499078"
+    },
+    {
+      "english": "What's the origin, of this?",
+      "czech": "Jaký je původ, čeho tohle?",
+      "transliteration": "JakY jE pUVOD, čeho tohle?",
+      "category": "Shopping",
+      "generated_at": "2026-08-15T14:17:25.499088"
+    },
+    {
+      "english": "Could I hold, that for a moment?",
+      "czech": "Mohu si to, na chvíli podržet?",
+      "transliteration": "Mohu si to, na chvíli podrzet?",
+      "category": "Shopping",
+      "generated_at": "2026-08-15T14:17:25.499090"
+    },
+    {
+      "english": "Is this, handcrafted, locally?",
+      "czech": "Je tohle, ručně dělané, lokálně?",
+      "transliteration": "Je tohle, ručně dělané, lokálně?",
+      "category": "Shopping",
+      "generated_at": "2026-08-15T14:17:25.499091"
+    },
+    {
+      "english": "This reminds me, of home.",
+      "czech": "Tohle mi připomíná, domov.",
+      "transliteration": "Tohle mi připomíná, domov.",
+      "category": "Shopping",
+      "generated_at": "2026-08-15T14:17:25.499093"
     }
   ],
-  "last_updated": "2026-08-15T12:17:26.744274"
+  "last_updated": "2026-08-15T14:17:25.499094"
 }
