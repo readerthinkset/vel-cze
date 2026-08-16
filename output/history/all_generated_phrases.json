@@ -9799,7 +9799,42 @@
       "transliteration": "Financni cesta, jasna vize.",
       "category": "Finance",
       "generated_at": "2026-08-16T12:18:42.084868"
+    },
+    {
+      "english": "My wallet, vanished. Gone.",
+      "czech": "Peněženka, zmizela. Pryč.",
+      "transliteration": "Pen-zhen-ka, zmee-zi-la. Prich.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:17:36.560637"
+    },
+    {
+      "english": "I need, a quiet place.",
+      "czech": "Potřebuji, klidné místo.",
+      "transliteration": "Pot-shreb-oo-yee, klid-neh mees-toh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:17:36.560646"
+    },
+    {
+      "english": "Fire alarm, is sounding.",
+      "czech": "Požární alarm, zní.",
+      "transliteration": "Poh-zhar-nee a-larm, znee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:17:36.560648"
+    },
+    {
+      "english": "Someone, is following me.",
+      "czech": "Někdo, mě sleduje.",
+      "transliteration": "Nyehk-doh, myeh sle-doo-yeh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:17:36.560650"
+    },
+    {
+      "english": "I lost, my travel documents.",
+      "czech": "Ztratil/a jsem, doklady.",
+      "transliteration": "Ztra-til/a ysem, doh-kla-dee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T14:17:36.560651"
     }
   ],
-  "last_updated": "2026-08-16T12:18:42.084870"
+  "last_updated": "2026-08-16T14:17:36.560652"
 }
