@@ -9834,7 +9834,42 @@
       "transliteration": "Ztra-til/a ysem, doh-kla-dee.",
       "category": "Emergency",
       "generated_at": "2026-08-16T14:17:36.560651"
+    },
+    {
+      "english": "A fleeting glimpse, then gone.",
+      "czech": "Mžik pohledu, pak pryč.",
+      "transliteration": "Mzhik pohledu, pak prych.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:19:34.715682"
+    },
+    {
+      "english": "Today's chance, don't miss it.",
+      "czech": "Dnešní šance, nezmeškáš.",
+      "transliteration": "Dneshni shanse, nezmeshkash.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:19:34.715691"
+    },
+    {
+      "english": "A quiet breath, before action.",
+      "czech": "Tichý nádech, před činem.",
+      "transliteration": "Tichy nadeh, pred chinem.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:19:34.715692"
+    },
+    {
+      "english": "The seasons turn, always.",
+      "czech": "Roční období se střídají, vždy.",
+      "transliteration": "Rocni obdobi se stridaji, vzdy.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:19:34.715693"
+    },
+    {
+      "english": "Just a moment, then back.",
+      "czech": "Jen chvilku, pak zpět.",
+      "transliteration": "Jen chvilku, pak zpet.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:19:34.715694"
     }
   ],
-  "last_updated": "2026-08-16T14:17:36.560652"
+  "last_updated": "2026-08-16T17:19:34.715696"
 }
