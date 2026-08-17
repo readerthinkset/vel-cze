@@ -10044,7 +10044,42 @@
       "transliteration": "Tve srdce, je volne.",
       "category": "Courage",
       "generated_at": "2026-08-17T17:26:53.509949"
+    },
+    {
+      "english": "This pastry, looks delightful.",
+      "czech": "Toto pečivo, vypadá skvěle.",
+      "transliteration": "Toto pechivo, vypada skvele.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-17T20:26:23.239825"
+    },
+    {
+      "english": "May I have, the wine list?",
+      "czech": "Mohu poprosit, o vinný lístek?",
+      "transliteration": "Mohu poprosit, o vinny listek?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-17T20:26:23.239836"
+    },
+    {
+      "english": "Is this, made fresh?",
+      "czech": "Je to, udělané čerstvě?",
+      "transliteration": "Je to, udelane cerstve?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-17T20:26:23.239838"
+    },
+    {
+      "english": "We need, a moment longer.",
+      "czech": "Ještě, chvilku potřebujeme.",
+      "transliteration": "Jeste, chvilku potrebujeme.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-17T20:26:23.239840"
+    },
+    {
+      "english": "That aroma, is intoxicating.",
+      "czech": "Ta vůně, je omamná.",
+      "transliteration": "Ta vune, je omamna.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-17T20:26:23.239841"
     }
   ],
-  "last_updated": "2026-08-17T17:26:53.509951"
+  "last_updated": "2026-08-17T20:26:23.239843"
 }
