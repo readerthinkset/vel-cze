@@ -10814,7 +10814,42 @@
       "transliteration": "Vnitrshny klid, pohany cheen.",
       "category": "Strength",
       "generated_at": "2026-08-22T00:46:01.692689"
+    },
+    {
+      "english": "Sky's a deep blue, clear and vast.",
+      "czech": "Obloha je sytě modrá, jasná a rozlehlá.",
+      "transliteration": "Obloha ye syt-yeh mod-rah, yas-nah ah roz-lyeh-lah.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T12:19:02.583143"
+    },
+    {
+      "english": "Air feels humid, sticky summer.",
+      "czech": "Vzduch je vlhký, lepivé léto.",
+      "transliteration": "Vzduch ye vlh-kee, lep-ee-veh leh-toh.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T12:19:02.583155"
+    },
+    {
+      "english": "Gentle frost, on window panes.",
+      "czech": "Jemný mráz, na okenních tabulkách.",
+      "transliteration": "Jem-nee mrahz, nah oh-ken-neech tah-bool-kahkh.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T12:19:02.583157"
+    },
+    {
+      "english": "Sudden downpour, drenching everything.",
+      "czech": "Náhlý liják, všechno promočí.",
+      "transliteration": "Nah-hlee ly-yahk, vshyekh-noh pro-moh-chee.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T12:19:02.583158"
+    },
+    {
+      "english": "Rainbow arcs, over wet fields.",
+      "czech": "Duha se klenou, nad mokrými poli.",
+      "transliteration": "Doo-hah seh klen-oh, nahd mok-ree-mee pol-ee.",
+      "category": "Weather",
+      "generated_at": "2026-08-22T12:19:02.583159"
     }
   ],
-  "last_updated": "2026-08-22T00:46:01.692691"
+  "last_updated": "2026-08-22T12:19:02.583160"
 }
