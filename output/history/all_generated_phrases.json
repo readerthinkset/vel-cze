@@ -10989,7 +10989,42 @@
       "transliteration": "To ye pro mnye no-veh.",
       "category": "Common Expressions",
       "generated_at": "2026-08-23T00:51:15.912829"
+    },
+    {
+      "english": "We grew up, together.",
+      "czech": "Vyrůstali jsme, spolu.",
+      "transliteration": "Vyroostali jsme, spolu.",
+      "category": "Relationships",
+      "generated_at": "2026-08-23T12:19:17.220829"
+    },
+    {
+      "english": "That's my cousin, the funny one.",
+      "czech": "To je můj bratranec, ten vtipný.",
+      "transliteration": "To je muj bratranec, ten vtipny.",
+      "category": "Relationships",
+      "generated_at": "2026-08-23T12:19:17.220838"
+    },
+    {
+      "english": "My aunt, always baking.",
+      "czech": "Moje teta, pořád peče.",
+      "transliteration": "Moje teta, porád pece.",
+      "category": "Relationships",
+      "generated_at": "2026-08-23T12:19:17.220840"
+    },
+    {
+      "english": "He's my uncle, the wise one.",
+      "czech": "Je to můj strýc, ten moudrý.",
+      "transliteration": "Je to muj stryc, ten moudry.",
+      "category": "Relationships",
+      "generated_at": "2026-08-23T12:19:17.220841"
+    },
+    {
+      "english": "We're like siblings, really.",
+      "czech": "Jsme jako sourozenci, vlastně.",
+      "transliteration": "Jsme jako sourozenci, vlastne.",
+      "category": "Relationships",
+      "generated_at": "2026-08-23T12:19:17.220843"
     }
   ],
-  "last_updated": "2026-08-23T00:51:15.912831"
+  "last_updated": "2026-08-23T12:19:17.220844"
 }
