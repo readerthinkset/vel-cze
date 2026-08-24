@@ -11269,7 +11269,42 @@
       "transliteration": "Objevuj silu, v sobe.",
       "category": "Hope",
       "generated_at": "2026-08-24T17:30:53.140690"
+    },
+    {
+      "english": "Your Czech, it's really growing.",
+      "czech": "Vaše čeština, opravdu roste.",
+      "transliteration": "Vasha cheshtina, opravdu roste.",
+      "category": "Success",
+      "generated_at": "2026-08-24T20:29:38.376089"
+    },
+    {
+      "english": "That phrasing, spot on.",
+      "czech": "To vyjádření, přesně.",
+      "transliteration": "To vyjadreni, presne.",
+      "category": "Success",
+      "generated_at": "2026-08-24T20:29:38.376098"
+    },
+    {
+      "english": "You're shaping, sentences well.",
+      "czech": "Dobře skládáte, věty.",
+      "transliteration": "Dobre skladate, vety.",
+      "category": "Success",
+      "generated_at": "2026-08-24T20:29:38.376099"
+    },
+    {
+      "english": "Hear that? Czech, spoken.",
+      "czech": "Slyšíte to? Čeština, mluvená.",
+      "transliteration": "Slysite to? Chestina, mluvena.",
+      "category": "Success",
+      "generated_at": "2026-08-24T20:29:38.376101"
+    },
+    {
+      "english": "A confident, Czech answer.",
+      "czech": "Sebejistá, česká odpověď.",
+      "transliteration": "Sebeista, cheska odpoved.",
+      "category": "Success",
+      "generated_at": "2026-08-24T20:29:38.376102"
     }
   ],
-  "last_updated": "2026-08-24T17:30:53.140692"
+  "last_updated": "2026-08-24T20:29:38.376103"
 }
