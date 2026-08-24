@@ -11199,7 +11199,42 @@
       "transliteration": "Moy zaludek, kruchel hladen.",
       "category": "Body Parts",
       "generated_at": "2026-08-24T12:31:32.464542"
+    },
+    {
+      "english": "The kitten plays, with string.",
+      "czech": "Kote, si hraje, se stuhou.",
+      "transliteration": "Kot-eh, si hrah-yeh, seh stoo-hoh.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T14:36:16.119911"
+    },
+    {
+      "english": "A puppy wags, its tail.",
+      "czech": "Štěně, vrtí, ocasem.",
+      "transliteration": "Shteh-nyeh, vir-tee, oh-kah-sem.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T14:36:16.119921"
+    },
+    {
+      "english": "Ducks quack, by the lake.",
+      "czech": "Kachny, krákají, u jezera.",
+      "transliteration": "Kah-khny, krah-kah-yee, oo yeh-zeh-rah.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T14:36:16.119922"
+    },
+    {
+      "english": "A goldfish glitters, in the tank.",
+      "czech": "Zlatá rybka, se třpytí, v akváriu.",
+      "transliteration": "Zlah-tah rib-kah, seh trzh-pee-tee, v ah-kvah-ree-oo.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T14:36:16.119924"
+    },
+    {
+      "english": "Busy ants march, in a line.",
+      "czech": "Pilné mravence, pochodují, v řadě.",
+      "transliteration": "Pil-neh mrah-ven-tseh, poh-kho-doo-yee, v zhah-dyeh.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T14:36:16.119925"
     }
   ],
-  "last_updated": "2026-08-24T12:31:32.464544"
+  "last_updated": "2026-08-24T14:36:16.119927"
 }
