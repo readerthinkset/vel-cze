@@ -11234,7 +11234,42 @@
       "transliteration": "Pil-neh mrah-ven-tseh, poh-kho-doo-yee, v zhah-dyeh.",
       "category": "Animals",
       "generated_at": "2026-08-24T14:36:16.119925"
+    },
+    {
+      "english": "A hopeful heart, beats stronger.",
+      "czech": "Nadějné srdce, tluče silněji.",
+      "transliteration": "Nadheyne srdtse, tlutse silneji.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T17:30:53.140677"
+    },
+    {
+      "english": "New beginnings, beckon you.",
+      "czech": "Nové začátky, lákají tě.",
+      "transliteration": "Nove zacatky, lakaji te.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T17:30:53.140686"
+    },
+    {
+      "english": "Small steps, lead to greatness.",
+      "czech": "Malé kroky, vedou k velikosti.",
+      "transliteration": "Male kroky, vedou k velikosti.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T17:30:53.140688"
+    },
+    {
+      "english": "Your spirit, will mend.",
+      "czech": "Tvůj duch, se uzdraví.",
+      "transliteration": "Tvyj duh, se uzdravi.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T17:30:53.140689"
+    },
+    {
+      "english": "Discover strength, within you.",
+      "czech": "Objevuj sílu, v sobě.",
+      "transliteration": "Objevuj silu, v sobe.",
+      "category": "Hope",
+      "generated_at": "2026-08-24T17:30:53.140690"
     }
   ],
-  "last_updated": "2026-08-24T14:36:16.119927"
+  "last_updated": "2026-08-24T17:30:53.140692"
 }
