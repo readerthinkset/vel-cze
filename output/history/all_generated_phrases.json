@@ -11304,7 +11304,42 @@
       "transliteration": "Sebeista, cheska odpoved.",
       "category": "Success",
       "generated_at": "2026-08-24T20:29:38.376102"
+    },
+    {
+      "english": "Unlock Prague's heart, with Czech.",
+      "czech": "Odemkni srdce Prahy, s češtinou.",
+      "transliteration": "Odemkni srdce Prahy, s češtinou.",
+      "category": "Purpose",
+      "generated_at": "2026-08-25T00:47:55.136417"
+    },
+    {
+      "english": "Feel the stories, Czech whispers.",
+      "czech": "Cítit příběhy, české šeptání.",
+      "transliteration": "Cítit příběhy, české šeptání.",
+      "category": "Purpose",
+      "generated_at": "2026-08-25T00:47:55.136424"
+    },
+    {
+      "english": "Order your káva, with a smile.",
+      "czech": "Objednej si kávu, s úsměvem.",
+      "transliteration": "Objednej si kávu, s úsměvem.",
+      "category": "Purpose",
+      "generated_at": "2026-08-25T00:47:55.136426"
+    },
+    {
+      "english": "Navigate the streets, in Czech.",
+      "czech": "Procházej ulicemi, v češtině.",
+      "transliteration": "Procházej ulicemi, v češtině.",
+      "category": "Purpose",
+      "generated_at": "2026-08-25T00:47:55.136427"
+    },
+    {
+      "english": "Hear the laughter, Czech joy.",
+      "czech": "Slyšet smích, česká radost.",
+      "transliteration": "Slyšet smích, česká radost.",
+      "category": "Purpose",
+      "generated_at": "2026-08-25T00:47:55.136428"
     }
   ],
-  "last_updated": "2026-08-24T20:29:38.376103"
+  "last_updated": "2026-08-25T00:47:55.136430"
 }
