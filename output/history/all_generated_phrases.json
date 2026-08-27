@@ -11724,7 +11724,42 @@
       "transliteration": "Zahrada kvete, ó, ten pohled!",
       "category": "Joy",
       "generated_at": "2026-08-27T21:26:18.667511"
+    },
+    {
+      "english": "Roll the 'r', like thunder.",
+      "czech": "Svalte 'ř', jako hrom.",
+      "transliteration": "Svalte 'ř', jako hrom.",
+      "category": "Directions",
+      "generated_at": "2026-08-27T23:30:14.130889"
+    },
+    {
+      "english": "Whisper this softly, now.",
+      "czech": "Zašeptěte tohle tiše, teď.",
+      "transliteration": "Zašeptěte tohle tiše, teď.",
+      "category": "Directions",
+      "generated_at": "2026-08-27T23:30:14.130902"
+    },
+    {
+      "english": "Let the throat vibrate, a bit.",
+      "czech": "Nechte krk vibrovat, trochu.",
+      "transliteration": "Nechte krk vibrovat, trochu.",
+      "category": "Directions",
+      "generated_at": "2026-08-27T23:30:14.130904"
+    },
+    {
+      "english": "Catch the stress, here.",
+      "czech": "Chyťte přízvuk, tady.",
+      "transliteration": "Chyťte přízvuk, tady.",
+      "category": "Directions",
+      "generated_at": "2026-08-27T23:30:14.130905"
+    },
+    {
+      "english": "Glide through the vowels, smoothly.",
+      "czech": "Klouzejte samohláskami, hladce.",
+      "transliteration": "Klouzejte samohláskami, hladce.",
+      "category": "Directions",
+      "generated_at": "2026-08-27T23:30:14.130906"
     }
   ],
-  "last_updated": "2026-08-27T21:26:18.667513"
+  "last_updated": "2026-08-27T23:30:14.130908"
 }
