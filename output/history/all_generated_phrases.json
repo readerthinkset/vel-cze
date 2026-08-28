@@ -11829,7 +11829,42 @@
       "transliteration": "Tiché ráno, nová naděje.",
       "category": "Health",
       "generated_at": "2026-08-28T04:03:55.187969"
+    },
+    {
+      "english": "This apron, for cooking.",
+      "czech": "Tato zástěra, na vaření.",
+      "transliteration": "Tato za-sh-tye-ra, na va-zh-en-ee.",
+      "category": "Clothes",
+      "generated_at": "2026-08-28T08:13:19.803739"
+    },
+    {
+      "english": "A comfortable nightgown.",
+      "czech": "Pohodlné noční košile.",
+      "transliteration": "Po-hod-l-ne noch-nee ko-shee-le.",
+      "category": "Clothes",
+      "generated_at": "2026-08-28T08:13:19.803747"
+    },
+    {
+      "english": "Looking for a swimsuit.",
+      "czech": "Hledám plavky.",
+      "transliteration": "Hled-aam plav-ky.",
+      "category": "Clothes",
+      "generated_at": "2026-08-28T08:13:19.803749"
+    },
+    {
+      "english": "These pyjamas, so soft.",
+      "czech": "Tyto pyžamy, tak hebké.",
+      "transliteration": "Ty-to py-zha-my, tak heb-ke.",
+      "category": "Clothes",
+      "generated_at": "2026-08-28T08:13:19.803750"
+    },
+    {
+      "english": "A sturdy work belt.",
+      "czech": "Pevný pracovní opasek.",
+      "transliteration": "Pev-ny pra-tso-v-nee o-pa-sek.",
+      "category": "Clothes",
+      "generated_at": "2026-08-28T08:13:19.803751"
     }
   ],
-  "last_updated": "2026-08-28T04:03:55.187970"
+  "last_updated": "2026-08-28T08:13:19.803753"
 }
