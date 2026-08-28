@@ -11899,7 +11899,42 @@
       "transliteration": "Ctrnact svicek, na dortu.",
       "category": "Numbers",
       "generated_at": "2026-08-28T21:35:57.686685"
+    },
+    {
+      "english": "This pastry, smells divine.",
+      "czech": "Toto pečivo, voní božsky.",
+      "transliteration": "Toto pechivo, voni bozhsky.",
+      "category": "Travel",
+      "generated_at": "2026-08-28T23:22:20.940541"
+    },
+    {
+      "english": "Could I have, a moment, please?",
+      "czech": "Mohu mít, chvilku, prosím?",
+      "transliteration": "Mohu mit, chvilku, prosim?",
+      "category": "Travel",
+      "generated_at": "2026-08-28T23:22:20.940553"
+    },
+    {
+      "english": "Is this, the correct exit?",
+      "czech": "Je toto, správný východ?",
+      "transliteration": "Ye toto, spravny vychod?",
+      "category": "Travel",
+      "generated_at": "2026-08-28T23:22:20.940555"
+    },
+    {
+      "english": "What a lovely, little shop.",
+      "czech": "Jaký krásný, malý obchůdek.",
+      "transliteration": "Yaky krasny, maly obchudek.",
+      "category": "Travel",
+      "generated_at": "2026-08-28T23:22:20.940557"
+    },
+    {
+      "english": "I’m feeling, very relaxed.",
+      "czech": "Cítím se, velmi uvolněně.",
+      "transliteration": "Citim se, velmi uvolnene.",
+      "category": "Travel",
+      "generated_at": "2026-08-28T23:22:20.940558"
     }
   ],
-  "last_updated": "2026-08-28T21:35:57.686687"
+  "last_updated": "2026-08-28T23:22:20.940560"
 }
