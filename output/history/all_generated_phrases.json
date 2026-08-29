@@ -12144,7 +12144,42 @@
       "transliteration": "Potřebuji si, na chvíli sednout.",
       "category": "Emergency",
       "generated_at": "2026-08-29T19:37:06.100720"
+    },
+    {
+      "english": "My dear mama, hello.",
+      "czech": "Moje milá maminko, ahoj.",
+      "transliteration": "Moyeh milah maminko, ahoy.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-29T22:24:18.225566"
+    },
+    {
+      "english": "Father, are you well?",
+      "czech": "Tati, jsi v pořádku?",
+      "transliteration": "Tati, yeesh v pohrahdku?",
+      "category": "Family Terms",
+      "generated_at": "2026-08-29T22:24:18.225577"
+    },
+    {
+      "english": "Brother, my confidant.",
+      "czech": "Bratře, můj důvěrníku.",
+      "transliteration": "Bratrzheh, mooy dohvyrniku.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-29T22:24:18.225578"
+    },
+    {
+      "english": "Sister, a moment, please?",
+      "czech": "Sestro, chvilku, prosím?",
+      "transliteration": "Sestro, chvileku, proseem?",
+      "category": "Family Terms",
+      "generated_at": "2026-08-29T22:24:18.225579"
+    },
+    {
+      "english": "Grandma, your stories, enchanted.",
+      "czech": "Babičko, tvoje příběhy, kouzelné.",
+      "transliteration": "Babichko, tvoyeh pribyeh-ee, kouzelneh.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-29T22:24:18.225580"
     }
   ],
-  "last_updated": "2026-08-29T19:37:06.100722"
+  "last_updated": "2026-08-29T22:24:18.225581"
 }
