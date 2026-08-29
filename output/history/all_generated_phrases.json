@@ -12074,7 +12074,42 @@
       "transliteration": "Cheske fraze, jako male darky.",
       "category": "Education",
       "generated_at": "2026-08-29T15:56:19.534072"
+    },
+    {
+      "english": "Oh, you're here, finally.",
+      "czech": "Ach, konečně jsi tady.",
+      "transliteration": "Akh, konechne ysi tady.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T17:29:02.315735"
+    },
+    {
+      "english": "This is quite a surprise.",
+      "czech": "To je docela překvapení.",
+      "transliteration": "To yest docela pfeekvapeni.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T17:29:02.315750"
+    },
+    {
+      "english": "It went surprisingly well.",
+      "czech": "Šlo to překvapivě dobře.",
+      "transliteration": "Shlo to pfeekvapive dobre.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T17:29:02.315752"
+    },
+    {
+      "english": "Don't worry, it's fine.",
+      "czech": "Neboj se, je to v pořádku.",
+      "transliteration": "Neboy se, ye to v pora'dku.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T17:29:02.315753"
+    },
+    {
+      "english": "That's a bit much, isn't it?",
+      "czech": "To je trochu moc, ne?",
+      "transliteration": "To yest trochu moc, ne?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T17:29:02.315755"
     }
   ],
-  "last_updated": "2026-08-29T15:56:19.534073"
+  "last_updated": "2026-08-29T17:29:02.315757"
 }
