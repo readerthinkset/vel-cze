@@ -12109,7 +12109,42 @@
       "transliteration": "To yest trochu moc, ne?",
       "category": "Common Expressions",
       "generated_at": "2026-08-29T17:29:02.315755"
+    },
+    {
+      "english": "Excuse me, could you help, for a moment?",
+      "czech": "Promiňte, můžete mi, pomoci?",
+      "transliteration": "Promiňte, můžete mi, pomoci?",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T19:37:06.100704"
+    },
+    {
+      "english": "I don't understand, this language.",
+      "czech": "Nerozumím, tomuto jazyku.",
+      "transliteration": "Nerozumím, tomuto jazyku.",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T19:37:06.100715"
+    },
+    {
+      "english": "Where can I find, some water?",
+      "czech": "Kde najdu, něco k pití?",
+      "transliteration": "Kde najdu, něco k pití?",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T19:37:06.100717"
+    },
+    {
+      "english": "My child, is missing. Small one.",
+      "czech": "Moje dítě, se ztratilo. Malé.",
+      "transliteration": "Moje dítě, se ztratilo. Malé.",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T19:37:06.100719"
+    },
+    {
+      "english": "I need to sit, down for a bit.",
+      "czech": "Potřebuji si, na chvíli sednout.",
+      "transliteration": "Potřebuji si, na chvíli sednout.",
+      "category": "Emergency",
+      "generated_at": "2026-08-29T19:37:06.100720"
     }
   ],
-  "last_updated": "2026-08-29T17:29:02.315757"
+  "last_updated": "2026-08-29T19:37:06.100722"
 }
