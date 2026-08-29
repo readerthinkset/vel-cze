@@ -11934,7 +11934,42 @@
       "transliteration": "Citim se, velmi uvolnene.",
       "category": "Travel",
       "generated_at": "2026-08-28T23:22:20.940558"
+    },
+    {
+      "english": "Explore, the virtual space.",
+      "czech": "Prozkoumej, virtuální prostor.",
+      "transliteration": "Prozkoumej, virtualni prostor.",
+      "category": "Technology",
+      "generated_at": "2026-08-29T00:52:48.953871"
+    },
+    {
+      "english": "Instalace, probíhá hladce.",
+      "czech": "Instalace, probíhá hladce.",
+      "transliteration": "Instalace, probiha hladce.",
+      "category": "Technology",
+      "generated_at": "2026-08-29T00:52:48.953882"
+    },
+    {
+      "english": "Vytvoř, digitální podpis.",
+      "czech": "Vytvoř, digitální podpis.",
+      "transliteration": "Vytvor, digitalni podpis.",
+      "category": "Technology",
+      "generated_at": "2026-08-29T00:52:48.953884"
+    },
+    {
+      "english": "Otevřít, novou složku.",
+      "czech": "Otevřít, novou složku.",
+      "transliteration": "Otevrit, novou slozku.",
+      "category": "Technology",
+      "generated_at": "2026-08-29T00:52:48.953885"
+    },
+    {
+      "english": "Synchronizace, dat, dokončena.",
+      "czech": "Synchronizace, dat, dokončena.",
+      "transliteration": "Synchronizace, dat, dokoncena.",
+      "category": "Technology",
+      "generated_at": "2026-08-29T00:52:48.953886"
     }
   ],
-  "last_updated": "2026-08-28T23:22:20.940560"
+  "last_updated": "2026-08-29T00:52:48.953888"
 }
