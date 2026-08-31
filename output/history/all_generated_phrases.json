@@ -12494,7 +12494,42 @@
       "transliteration": "Budoucnost, skryva laskavost.",
       "category": "Hope",
       "generated_at": "2026-08-31T21:44:47.065784"
+    },
+    {
+      "english": "A quiet evening, unfolds.",
+      "czech": "Tichý večer, se rozprostírá.",
+      "transliteration": "Tichy vecher, se rozprostira.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:38:41.769551"
+    },
+    {
+      "english": "The old clock, chimes.",
+      "czech": "Staré hodiny, zvoní.",
+      "transliteration": "Stare hodiny, zvoni.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:38:41.769561"
+    },
+    {
+      "english": "Wait a little, please.",
+      "czech": "Počkejte chvilku, prosím.",
+      "transliteration": "Pockejte chvilku, prosim.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:38:41.769563"
+    },
+    {
+      "english": "A new beginning, approaches.",
+      "czech": "Nový začátek, se blíží.",
+      "transliteration": "Novy zacatek, se blizi.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:38:41.769564"
+    },
+    {
+      "english": "Just a moment, then gone.",
+      "czech": "Jen okamžik, pak pryč.",
+      "transliteration": "Jen okamzik, pak pryc.",
+      "category": "Time",
+      "generated_at": "2026-08-31T23:38:41.769566"
     }
   ],
-  "last_updated": "2026-08-31T21:44:47.065786"
+  "last_updated": "2026-08-31T23:38:41.769568"
 }
