@@ -12424,7 +12424,42 @@
       "transliteration": "Mluv česky, s hravou náladou.",
       "category": "Growth",
       "generated_at": "2026-08-31T18:25:48.418122"
+    },
+    {
+      "english": "A quiet corner, please.",
+      "czech": "Klidný koutek, prosím.",
+      "transliteration": "Klidny koutek, prosím.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:53:50.625924"
+    },
+    {
+      "english": "What's the soup, of the day?",
+      "czech": "Jaká je polévka, dnešní?",
+      "transliteration": "Jaka je polévka, dnešní?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:53:50.625935"
+    },
+    {
+      "english": "Just a small bite, for me.",
+      "czech": "Jen malý kousek, pro mě.",
+      "transliteration": "Jen malý kousek, pro mě.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:53:50.625937"
+    },
+    {
+      "english": "This wine, is excellent.",
+      "czech": "Toto víno, je vynikající.",
+      "transliteration": "Toto víno, je vynikající.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:53:50.625939"
+    },
+    {
+      "english": "Could we sit, outside?",
+      "czech": "Můžeme sedět, venku?",
+      "transliteration": "Můžeme sedět, venku?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:53:50.625940"
     }
   ],
-  "last_updated": "2026-08-31T18:25:48.418124"
+  "last_updated": "2026-08-31T19:53:50.625942"
 }
