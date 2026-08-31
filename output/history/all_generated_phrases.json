@@ -12354,7 +12354,42 @@
       "transliteration": "Vashe cheske dobrodruzhstvi, zachina.",
       "category": "Greetings",
       "generated_at": "2026-08-30T22:26:22.887052"
+    },
+    {
+      "english": "My thoughtless act, deserves your grace.",
+      "czech": "Můj bezmyšlenkovitý čin, si zaslouží tvou milost.",
+      "transliteration": "Moo-y behz-mee-shlen-ko-veet-ee cheen, see zah-sloo-zhee too-oo mee-lost.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-31T02:38:12.349872"
+    },
+    {
+      "english": "A moment's lapse, a lasting plea.",
+      "czech": "Chvilkové selhání, trvalá prosba.",
+      "transliteration": "Chvil-ko-veh sel-hah-nee, tur-vah-lah pros-bah.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-31T02:38:12.349884"
+    },
+    {
+      "english": "I offer a peace, please accept it.",
+      "czech": "Nabízím mír, prosím, přijmi ho.",
+      "transliteration": "Nah-bee-zeem meer, pros-eem, pree-yee-mee ho.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-31T02:38:12.349885"
+    },
+    {
+      "english": "My words, they caused you pain.",
+      "czech": "Moje slova, způsobila ti bolest.",
+      "transliteration": "Mo-yeh slo-vah, zoo-soo-bee-lee tee bo-lest.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-31T02:38:12.349887"
+    },
+    {
+      "english": "Let's mend this, together.",
+      "czech": "Opravme to, společně.",
+      "transliteration": "O-prav-meh toh, spo-letch-neh.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-31T02:38:12.349888"
     }
   ],
-  "last_updated": "2026-08-30T22:26:22.887053"
+  "last_updated": "2026-08-31T02:38:12.349890"
 }
