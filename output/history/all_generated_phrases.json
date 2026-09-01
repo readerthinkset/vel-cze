@@ -12529,7 +12529,42 @@
       "transliteration": "Jen okamzik, pak pryc.",
       "category": "Time",
       "generated_at": "2026-08-31T23:38:41.769566"
+    },
+    {
+      "english": "That Czech, makes perfect sense.",
+      "czech": "Tato čeština, dává smysl.",
+      "transliteration": "Tato cheh-shee-na, daa-va smysl.",
+      "category": "Success",
+      "generated_at": "2026-09-01T02:51:22.978953"
+    },
+    {
+      "english": "You just said that, beautifully.",
+      "czech": "Právě jsi to řekl, krásně.",
+      "transliteration": "Praav-yeh jess toh rzhek-l, kraas-nyeh.",
+      "category": "Success",
+      "generated_at": "2026-09-01T02:51:22.978966"
+    },
+    {
+      "english": "Your understanding, is deep.",
+      "czech": "Tvé pochopení, je hluboké.",
+      "transliteration": "Tveh po-kho-pen-ee, yeh hloo-boh-keh.",
+      "category": "Success",
+      "generated_at": "2026-09-01T02:51:22.978968"
+    },
+    {
+      "english": "That question, was insightful.",
+      "czech": "Ta otázka, byla pronikavá.",
+      "transliteration": "Ta o-taaz-ka, bee-la pro-nee-ka-vaa.",
+      "category": "Success",
+      "generated_at": "2026-09-01T02:51:22.978969"
+    },
+    {
+      "english": "You shaped that, phrase perfectly.",
+      "czech": "Tu větu, jsi zformoval skvěle.",
+      "transliteration": "Too vyeh-too, jess sfor-mo-val skvyeh-leh.",
+      "category": "Success",
+      "generated_at": "2026-09-01T02:51:22.978971"
     }
   ],
-  "last_updated": "2026-08-31T23:38:41.769568"
+  "last_updated": "2026-09-01T02:51:22.978972"
 }
