@@ -12774,7 +12774,42 @@
       "transliteration": "Kleadnee stred, pohybleevy okray.",
       "category": "Balance",
       "generated_at": "2026-09-02T15:38:06.849028"
+    },
+    {
+      "english": "The little mouse, peeks out.",
+      "czech": "Myška, kouká ven.",
+      "transliteration": "Mee-shka, koh-kah ven.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T17:37:42.059243"
+    },
+    {
+      "english": "A busy ant, carries food.",
+      "czech": "Dělná mravence, nese jídlo.",
+      "transliteration": "Dyehl-nah mrah-ven-tseh, neh-seh yeed-lo.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T17:37:42.059250"
+    },
+    {
+      "english": "The proud peacock, displays feathers.",
+      "czech": "Hrdý páv, ukazuje peří.",
+      "transliteration": "Hrd-ee pahv, oo-kah-zoo-yeh peh-zhee.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T17:37:42.059252"
+    },
+    {
+      "english": "A lazy sloth, hangs upside down.",
+      "czech": "Líná lenochod, visí vzhůru nohama.",
+      "transliteration": "Leen-ah leh-no-khohd, vee-see vzh-oo-roo noh-hah-mah.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T17:37:42.059253"
+    },
+    {
+      "english": "The sly snake, slithers silently.",
+      "czech": "Chytrý had, plíží se tiše.",
+      "transliteration": "Khit-ree hahd, plee-zhee seh tee-sheh.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T17:37:42.059254"
     }
   ],
-  "last_updated": "2026-09-02T15:38:06.849030"
+  "last_updated": "2026-09-02T17:37:42.059256"
 }
