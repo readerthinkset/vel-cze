@@ -13089,7 +13089,42 @@
       "transliteration": "Chesh-ka gra-ma-ti-ka, ye skla-dach-ka.",
       "category": "Perseverance",
       "generated_at": "2026-09-04T15:26:02.898322"
+    },
+    {
+      "english": "That's unexpected, really.",
+      "czech": "To je nečekané, opravdu.",
+      "transliteration": "To yeh neh-cheh-kah-neh, vrap-doo.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-04T17:20:56.950381"
+    },
+    {
+      "english": "What a coincidence, wow.",
+      "czech": "To je náhoda, wow.",
+      "transliteration": "To yeh nah-ho-dah, wow.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-04T17:20:56.950393"
+    },
+    {
+      "english": "Let's take a quick break.",
+      "czech": "Dáme si rychlou pauzu.",
+      "transliteration": "Dah-meh see rzhi-koo paw-zoo.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-04T17:20:56.950395"
+    },
+    {
+      "english": "It's a bit tricky, eh?",
+      "czech": "Je to trochu ošemetné, co?",
+      "transliteration": "Yeh to tro-hoo o-sheh-met-neh, tso?",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-04T17:20:56.950397"
+    },
+    {
+      "english": "I have a slight doubt.",
+      "czech": "Mám drobnou pochybnost.",
+      "transliteration": "Mahm dro-bnoh po-khi-bnost.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-04T17:20:56.950398"
     }
   ],
-  "last_updated": "2026-09-04T15:26:02.898324"
+  "last_updated": "2026-09-04T17:20:56.950400"
 }
