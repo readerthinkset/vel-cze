@@ -13194,7 +13194,42 @@
       "transliteration": "Mou-drost shep-ta, nas-lou-chei dob-re.",
       "category": "Strength",
       "generated_at": "2026-09-04T22:09:02.687693"
+    },
+    {
+      "english": "Move freely, with grace.",
+      "czech": "Pohybuj se volně, s grácií.",
+      "transliteration": "Pohybuy se volnye, s gratsiyey.",
+      "category": "Health",
+      "generated_at": "2026-09-05T02:14:25.077821"
+    },
+    {
+      "english": "Hydrate well, stay strong.",
+      "czech": "Hydratuj dobře, zůstat silný.",
+      "transliteration": "Hydratuy dobro, zustat sylnyy.",
+      "category": "Health",
+      "generated_at": "2026-09-05T02:14:25.077832"
+    },
+    {
+      "english": "Eat mindfully, with joy.",
+      "czech": "Jez vědomě, s radostí.",
+      "transliteration": "Yez vedomye, s radostiy.",
+      "category": "Health",
+      "generated_at": "2026-09-05T02:14:25.077834"
+    },
+    {
+      "english": "Sleep soundly, recharge fully.",
+      "czech": "Spěj klidně, dobít se úplně.",
+      "transliteration": "Spay klidnye, dobit se uplne.",
+      "category": "Health",
+      "generated_at": "2026-09-05T02:14:25.077835"
+    },
+    {
+      "english": "Stretch gently, release tension.",
+      "czech": "Protahuj jemně, uvolni napětí.",
+      "transliteration": "Protahuy yemnye, uvolni napetiye.",
+      "category": "Health",
+      "generated_at": "2026-09-05T02:14:25.077836"
     }
   ],
-  "last_updated": "2026-09-04T22:09:02.687695"
+  "last_updated": "2026-09-05T02:14:25.077838"
 }
