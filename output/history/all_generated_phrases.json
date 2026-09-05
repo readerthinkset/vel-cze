@@ -13229,7 +13229,42 @@
       "transliteration": "Protahuy yemnye, uvolni napetiye.",
       "category": "Health",
       "generated_at": "2026-09-05T02:14:25.077836"
+    },
+    {
+      "english": "Just one, more try.",
+      "czech": "Ještě jeden, pokus.",
+      "transliteration": "Yeshte yedyn, pokus.",
+      "category": "Numbers",
+      "generated_at": "2026-09-05T14:13:08.140706"
+    },
+    {
+      "english": "Two paths, both unknown.",
+      "czech": "Dvě cesty, obě neznámé.",
+      "transliteration": "Dvyetse-sty, obye neznáme.",
+      "category": "Numbers",
+      "generated_at": "2026-09-05T14:13:08.140715"
+    },
+    {
+      "english": "Three stars, in the sky.",
+      "czech": "Tři hvězdy, na nebi.",
+      "transliteration": "Tshee hvyezd-ee, na nebi.",
+      "category": "Numbers",
+      "generated_at": "2026-09-05T14:13:08.140717"
+    },
+    {
+      "english": "Four walls, of my room.",
+      "czech": "Čtyři stěny, mé místnosti.",
+      "transliteration": "Ch-ti-ree stye-ny, me mist-no-sti.",
+      "category": "Numbers",
+      "generated_at": "2026-09-05T14:13:08.140718"
+    },
+    {
+      "english": "Five fingers, on my hand.",
+      "czech": "Pět prstů, na mé ruce.",
+      "transliteration": "Pyet prstu, na me ru-tse.",
+      "category": "Numbers",
+      "generated_at": "2026-09-05T14:13:08.140719"
     }
   ],
-  "last_updated": "2026-09-05T02:14:25.077838"
+  "last_updated": "2026-09-05T14:13:08.140721"
 }
