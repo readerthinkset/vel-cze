@@ -13509,7 +13509,42 @@
       "transliteration": "Chestina shepta, poslouchey.",
       "category": "Greetings",
       "generated_at": "2026-09-06T18:52:30.661338"
+    },
+    {
+      "english": "Soon, the stars appear.",
+      "czech": "Brzy, objeví se hvězdy.",
+      "transliteration": "Brzy, ob-dvi-se hvyěz-dy.",
+      "category": "Time",
+      "generated_at": "2026-09-06T21:58:36.209967"
+    },
+    {
+      "english": "Each instant, holds possibility.",
+      "czech": "Každý okamžik, nese možnost.",
+      "transliteration": "Kach-dy o-kam-zhik, ne-se mozh-nost.",
+      "category": "Time",
+      "generated_at": "2026-09-06T21:58:36.209975"
+    },
+    {
+      "english": "A breath, then onward.",
+      "czech": "Nádech, pak vpřed.",
+      "transliteration": "Naa-dech, pak v-pred.",
+      "category": "Time",
+      "generated_at": "2026-09-06T21:58:36.209977"
+    },
+    {
+      "english": "Now is our chance.",
+      "czech": "Teď je naše šance.",
+      "transliteration": "Tetzh yee na-sheh shahn-tseh.",
+      "category": "Time",
+      "generated_at": "2026-09-06T21:58:36.209978"
+    },
+    {
+      "english": "The moon watches, silent.",
+      "czech": "Měsíc sleduje, tiše.",
+      "transliteration": "Myeh-seets sle-du-yeh, tee-sheh.",
+      "category": "Time",
+      "generated_at": "2026-09-06T21:58:36.209980"
     }
   ],
-  "last_updated": "2026-09-06T18:52:30.661340"
+  "last_updated": "2026-09-06T21:58:36.209981"
 }
