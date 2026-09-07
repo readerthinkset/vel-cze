@@ -13614,7 +13614,42 @@
       "transliteration": "Ches-ka kul-tu-ra, vrzhe-leh o-bje-tee.",
       "category": "Education",
       "generated_at": "2026-09-07T16:51:40.847407"
+    },
+    {
+      "english": "Another beer, perhaps?",
+      "czech": "Ještě jedno pivo, prosím?",
+      "transliteration": "Yeshte yedno pivo, prosim?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-07T18:32:57.227755"
+    },
+    {
+      "english": "This city, I like it.",
+      "czech": "Toto město, líbí se mi.",
+      "transliteration": "Toto me-sto, libi se mi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-07T18:32:57.227767"
+    },
+    {
+      "english": "Could you help me, please?",
+      "czech": "Mohl byste mi pomoci?",
+      "transliteration": "Moh-l by-ste mi po-mo-ci?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-07T18:32:57.227769"
+    },
+    {
+      "english": "What a view, wow!",
+      "czech": "Ten výhled, pane jo!",
+      "transliteration": "Ten vy-hled, pane yo!",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-07T18:32:57.227770"
+    },
+    {
+      "english": "Just looking, thank you.",
+      "czech": "Jen se dívám, děkuji.",
+      "transliteration": "Jen se di-vam, de-ku-ji.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-07T18:32:57.227771"
     }
   ],
-  "last_updated": "2026-09-07T16:51:40.847409"
+  "last_updated": "2026-09-07T18:32:57.227773"
 }
