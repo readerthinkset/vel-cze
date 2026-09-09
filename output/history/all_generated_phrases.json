@@ -13929,7 +13929,42 @@
       "transliteration": "Dech zhlu-bo-ka, vy-dech zvol-na.",
       "category": "Balance",
       "generated_at": "2026-09-09T15:33:12.453062"
+    },
+    {
+      "english": "The guitar, whispers secrets.",
+      "czech": "Kytara, šeptá tajemství.",
+      "transliteration": "Kytara, shepta tayemstvi.",
+      "category": "Music",
+      "generated_at": "2026-09-09T19:37:14.332593"
+    },
+    {
+      "english": "This rhythm, makes me sway.",
+      "czech": "Tenhle rytmus, mě kolébá.",
+      "transliteration": "Tenhle rytmus, me koleba.",
+      "category": "Music",
+      "generated_at": "2026-09-09T19:37:14.332608"
+    },
+    {
+      "english": "A sudden silence, then sound.",
+      "czech": "Náhlé ticho, pak zvuk.",
+      "transliteration": "Nahle ticho, pak zvuk.",
+      "category": "Music",
+      "generated_at": "2026-09-09T19:37:14.332610"
+    },
+    {
+      "english": "The trumpet, calls to me.",
+      "czech": "Trombón, volá po mně.",
+      "transliteration": "Trombon, vola po mne.",
+      "category": "Music",
+      "generated_at": "2026-09-09T19:37:14.332612"
+    },
+    {
+      "english": "Her voice, a gentle river.",
+      "czech": "Její hlas, klidná řeka.",
+      "transliteration": "Yeyí hlas, klidna reka.",
+      "category": "Music",
+      "generated_at": "2026-09-09T19:37:14.332613"
     }
   ],
-  "last_updated": "2026-09-09T15:33:12.453063"
+  "last_updated": "2026-09-09T19:37:14.332616"
 }
