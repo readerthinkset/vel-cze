@@ -14279,7 +14279,42 @@
       "transliteration": "Vnitrni svetlo, sviti dal.",
       "category": "Strength",
       "generated_at": "2026-09-11T17:28:36.376527"
+    },
+    {
+      "english": "Something traditional, perhaps?",
+      "czech": "Něco tradičního, možná?",
+      "transliteration": "Nye-tso tra-dee-tsee-o-vne-go, mozh-na?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-11T19:28:48.534600"
+    },
+    {
+      "english": "A light starter, please.",
+      "czech": "Lehké předkrm, prosím.",
+      "transliteration": "Leh-kye prehd-kerm, pro-seem.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-11T19:28:48.534611"
+    },
+    {
+      "english": "What's popular, tonight?",
+      "czech": "Co je dnes, populární?",
+      "transliteration": "Tso ye dnyez, po-poo-lar-nee?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-11T19:28:48.534613"
+    },
+    {
+      "english": "Can I have, the fish?",
+      "czech": "Můžu mít, tu rybu?",
+      "transliteration": "Moo-zhoo meet, too ri-boo?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-11T19:28:48.534615"
+    },
+    {
+      "english": "We'll share, this one.",
+      "czech": "Podělíme se, o tohle.",
+      "transliteration": "Po-dye-lee-me se, o to-hle.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-11T19:28:48.534616"
     }
   ],
-  "last_updated": "2026-09-11T17:28:36.376528"
+  "last_updated": "2026-09-11T19:28:48.534618"
 }
