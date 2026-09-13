@@ -14629,7 +14629,42 @@
       "transliteration": "Dej tomu prostor, k dychani.",
       "category": "Patience",
       "generated_at": "2026-09-13T17:11:49.561431"
+    },
+    {
+      "english": "Dawn breaks, Czech awakens.",
+      "czech": "Úsvit svítá, Česko se probouzí.",
+      "transliteration": "Usvit svita, Cesko se probouzi.",
+      "category": "Greetings",
+      "generated_at": "2026-09-13T19:13:05.670512"
+    },
+    {
+      "english": "A friendly nod, in Czech.",
+      "czech": "Přátelské kývnutí, v češtině.",
+      "transliteration": "Pratelske kyvnuti, v cestine.",
+      "category": "Greetings",
+      "generated_at": "2026-09-13T19:13:05.670525"
+    },
+    {
+      "english": "Ready for a Czech surprise?",
+      "czech": "Připraveni na české překvapení?",
+      "transliteration": "Pripraveni na ceske prekvapeni?",
+      "category": "Greetings",
+      "generated_at": "2026-09-13T19:13:05.670526"
+    },
+    {
+      "english": "The language calls, answer it.",
+      "czech": "Jazyk volá, odpovězte mu.",
+      "transliteration": "Jazyk vola, odpovedzte mu.",
+      "category": "Greetings",
+      "generated_at": "2026-09-13T19:13:05.670528"
+    },
+    {
+      "english": "A moment, for Czech.",
+      "czech": "Chvilka, pro češtinu.",
+      "transliteration": "Chvilka, pro cestinu.",
+      "category": "Greetings",
+      "generated_at": "2026-09-13T19:13:05.670529"
     }
   ],
-  "last_updated": "2026-09-13T17:11:49.561434"
+  "last_updated": "2026-09-13T19:13:05.670530"
 }
