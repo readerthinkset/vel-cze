@@ -14559,7 +14559,42 @@
       "transliteration": "Moje milá maminko, tvůj úsměv.",
       "category": "Family Terms",
       "generated_at": "2026-09-13T02:21:57.174484"
+    },
+    {
+      "english": "This book, it's interesting.",
+      "czech": "Tato kniha, je zajímavá.",
+      "transliteration": "Ta-to kni-ha, ye za-im-a-va.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-13T15:17:44.859140"
+    },
+    {
+      "english": "Excuse me, where's the toilet?",
+      "czech": "Promiňte, kde je toaleta?",
+      "transliteration": "Pro-meen-te, gde ye to-a-le-ta?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-13T15:17:44.859148"
+    },
+    {
+      "english": "What's this called?",
+      "czech": "Jak se toto jmenuje?",
+      "transliteration": "Yak se to-to yme-nu-ye?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-13T15:17:44.859149"
+    },
+    {
+      "english": "May I sit here?",
+      "czech": "Mohu si sem sednout?",
+      "transliteration": "Mo-hoo si sem sed-noot?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-13T15:17:44.859149"
+    },
+    {
+      "english": "It's a bit cold today.",
+      "czech": "Je dnes trochu zima.",
+      "transliteration": "Ye dnes tro-hoo zi-ma.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-13T15:17:44.859150"
     }
   ],
-  "last_updated": "2026-09-13T02:21:57.174486"
+  "last_updated": "2026-09-13T15:17:44.859151"
 }
