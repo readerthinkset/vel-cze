@@ -14594,7 +14594,42 @@
       "transliteration": "Ye dnes tro-hoo zi-ma.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-13T15:17:44.859150"
+    },
+    {
+      "english": "Steady now, a moment more.",
+      "czech": "Klidně teď, ještě chvíli.",
+      "transliteration": "Klidne ted, jeste chvili.",
+      "category": "Patience",
+      "generated_at": "2026-09-13T17:11:49.561410"
+    },
+    {
+      "english": "Wait a beat, listen in.",
+      "czech": "Počkej chvíli, poslouchej.",
+      "transliteration": "Pockej chvili, poslouchej.",
+      "category": "Patience",
+      "generated_at": "2026-09-13T17:11:49.561424"
+    },
+    {
+      "english": "Let the feeling settle, deep.",
+      "czech": "Nech ten pocit usadit, hluboko.",
+      "transliteration": "Nech ten pocit usadit, hluboko.",
+      "category": "Patience",
+      "generated_at": "2026-09-13T17:11:49.561427"
+    },
+    {
+      "english": "Unfold it gently, with care.",
+      "czech": "Rozbal to jemně, s citem.",
+      "transliteration": "Rozbal to jemne, s citem.",
+      "category": "Patience",
+      "generated_at": "2026-09-13T17:11:49.561429"
+    },
+    {
+      "english": "Give it space, to breathe.",
+      "czech": "Dej tomu prostor, k dýchání.",
+      "transliteration": "Dej tomu prostor, k dychani.",
+      "category": "Patience",
+      "generated_at": "2026-09-13T17:11:49.561431"
     }
   ],
-  "last_updated": "2026-09-13T15:17:44.859151"
+  "last_updated": "2026-09-13T17:11:49.561434"
 }
