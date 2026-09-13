@@ -14664,7 +14664,42 @@
       "transliteration": "Chvilka, pro cestinu.",
       "category": "Greetings",
       "generated_at": "2026-09-13T19:13:05.670529"
+    },
+    {
+      "english": "The clock ticks, it's time.",
+      "czech": "Hodiny tikají, je čas.",
+      "transliteration": "Hodiny tikají, je čas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-13T22:08:58.541263"
+    },
+    {
+      "english": "Eyes flutter open, slowly.",
+      "czech": "Oči se pomalu mrkají.",
+      "transliteration": "Oči se pomalu mrkají.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-13T22:08:58.541273"
+    },
+    {
+      "english": "A deep breath, to start.",
+      "czech": "Hluboký nádech, pro začátek.",
+      "transliteration": "Hluboký nádech, pro začátek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-13T22:08:58.541275"
+    },
+    {
+      "english": "The world waits, for me.",
+      "czech": "Svět čeká, na mě.",
+      "transliteration": "Svět čeká, na mě.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-13T22:08:58.541277"
+    },
+    {
+      "english": "Blanket off, cool air.",
+      "czech": "Dezka pryč, chladný vzduch.",
+      "transliteration": "Dezka pryč, chladný vzduch.",
+      "category": "Daily Routine",
+      "generated_at": "2026-09-13T22:08:58.541278"
     }
   ],
-  "last_updated": "2026-09-13T19:13:05.670530"
+  "last_updated": "2026-09-13T22:08:58.541280"
 }
