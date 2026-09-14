@@ -14769,7 +14769,42 @@
       "transliteration": "Mluvte trochu chesky, objevte vic.",
       "category": "Education",
       "generated_at": "2026-09-14T17:14:37.336739"
+    },
+    {
+      "english": "Quick glance, then gone.",
+      "czech": "Rychlý pohled, a pryč.",
+      "transliteration": "Rikhlee pohled, a prich.",
+      "category": "Time",
+      "generated_at": "2026-09-14T18:59:51.711040"
+    },
+    {
+      "english": "Minutes tick by, slowly.",
+      "czech": "Minuty ubíhají, pomalu.",
+      "transliteration": "Minut-ee ubikhayi, pomalu.",
+      "category": "Time",
+      "generated_at": "2026-09-14T18:59:51.711049"
+    },
+    {
+      "english": "Future beckons, unseen.",
+      "czech": "Budoucnost láká, neviditelná.",
+      "transliteration": "Budouchnost lakha, neviditelnah.",
+      "category": "Time",
+      "generated_at": "2026-09-14T18:59:51.711050"
+    },
+    {
+      "english": "Last light, fades fast.",
+      "czech": "Poslední světlo, rychle mizí.",
+      "transliteration": "Poslednee svetlo, rikhlo mizee.",
+      "category": "Time",
+      "generated_at": "2026-09-14T18:59:51.711052"
+    },
+    {
+      "english": "When will it be, time?",
+      "czech": "Kdy už bude, ten čas?",
+      "transliteration": "Kdee ooz bude, ten chahss?",
+      "category": "Time",
+      "generated_at": "2026-09-14T18:59:51.711053"
     }
   ],
-  "last_updated": "2026-09-14T17:14:37.336741"
+  "last_updated": "2026-09-14T18:59:51.711054"
 }
