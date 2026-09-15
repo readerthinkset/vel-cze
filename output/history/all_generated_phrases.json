@@ -14979,7 +14979,42 @@
       "transliteration": "Vzduch je klidny, čeka na změnu.",
       "category": "Weather",
       "generated_at": "2026-09-15T20:02:59.506747"
+    },
+    {
+      "english": "Brave attempt, brilliant progress.",
+      "czech": "Odvážný pokus, skvělý pokrok.",
+      "transliteration": "Odva-zhny pokus, skvel-ee pokrok.",
+      "category": "Confidence",
+      "generated_at": "2026-09-15T22:44:09.010289"
+    },
+    {
+      "english": "Just say it, I'm listening.",
+      "czech": "Prostě to řekni, poslouchám.",
+      "transliteration": "Prost-e to rek-ni, posloucham.",
+      "category": "Confidence",
+      "generated_at": "2026-09-15T22:44:09.010298"
+    },
+    {
+      "english": "Feel the rhythm, then speak.",
+      "czech": "Cítit rytmus, pak mluv.",
+      "transliteration": "Ceet-it rytmus, pak mluv.",
+      "category": "Confidence",
+      "generated_at": "2026-09-15T22:44:09.010300"
+    },
+    {
+      "english": "You've got this, a little more.",
+      "czech": "Zvládneš to, ještě kousek.",
+      "transliteration": "Zvlad-nesh to, yest-e kousek.",
+      "category": "Confidence",
+      "generated_at": "2026-09-15T22:44:09.010301"
+    },
+    {
+      "english": "Your sound is forming, well done.",
+      "czech": "Tvůj zvuk se tvoří, dobře.",
+      "transliteration": "Tvooy zvuk se tvor-ee, dobre.",
+      "category": "Confidence",
+      "generated_at": "2026-09-15T22:44:09.010302"
     }
   ],
-  "last_updated": "2026-09-15T20:02:59.506748"
+  "last_updated": "2026-09-15T22:44:09.010304"
 }
