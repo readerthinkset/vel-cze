@@ -14944,7 +14944,42 @@
       "transliteration": "Diky, ze jsi, vzdycky ty.",
       "category": "Friendship",
       "generated_at": "2026-09-15T17:53:55.716940"
+    },
+    {
+      "english": "Sky's blushing pink, sunrise magic.",
+      "czech": "Obloha rudne, kouzlo úsvitu.",
+      "transliteration": "Obloha rudne, kouzlo usvitu.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T20:02:59.506731"
+    },
+    {
+      "english": "Gusts tease the trees, playful wind.",
+      "czech": "Nárazový vítr, hraje si se stromy.",
+      "transliteration": "Narazovy vitr, hraje si se stromy.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T20:02:59.506743"
+    },
+    {
+      "english": "Heavy drops fall, earth drinks deeply.",
+      "czech": "Těžké kapky, země pije zhluboka.",
+      "transliteration": "Tezke kapky, zeme pije zhluboka.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T20:02:59.506745"
+    },
+    {
+      "english": "Sun peeks, then hides, shy light.",
+      "czech": "Slunce kouká, pak se schová, plaché světlo.",
+      "transliteration": "Slunce kouka, pak se schova, plache svetlo.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T20:02:59.506746"
+    },
+    {
+      "english": "Air is still, waiting for change.",
+      "czech": "Vzduch je klidný, čeká na změnu.",
+      "transliteration": "Vzduch je klidny, čeka na změnu.",
+      "category": "Weather",
+      "generated_at": "2026-09-15T20:02:59.506747"
     }
   ],
-  "last_updated": "2026-09-15T17:53:55.716941"
+  "last_updated": "2026-09-15T20:02:59.506748"
 }
