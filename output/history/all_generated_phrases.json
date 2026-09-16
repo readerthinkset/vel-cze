@@ -15014,7 +15014,42 @@
       "transliteration": "Tvooy zvuk se tvor-ee, dobre.",
       "category": "Confidence",
       "generated_at": "2026-09-15T22:44:09.010302"
+    },
+    {
+      "english": "Hear this sound, then shape it.",
+      "czech": "Slyš ten zvuk, pak ho vytvaruj.",
+      "transliteration": "Slysh ten zvuk, pak ho vytvaruy.",
+      "category": "Directions",
+      "generated_at": "2026-09-16T02:36:51.425287"
+    },
+    {
+      "english": "Let the consonants rumble, a little.",
+      "czech": "Nech ty souhlásky dunět, trochu.",
+      "transliteration": "Nech ty souhlas-ky dunet, trochu.",
+      "category": "Directions",
+      "generated_at": "2026-09-16T02:36:51.425296"
+    },
+    {
+      "english": "The melody changes, here.",
+      "czech": "Melodie se mění, tady.",
+      "transliteration": "Melodie se meni, tady.",
+      "category": "Directions",
+      "generated_at": "2026-09-16T02:36:51.425298"
+    },
+    {
+      "english": "Feel the breath, as you speak.",
+      "czech": "Cítíš dech, když mluvíš.",
+      "transliteration": "Citish dech, kdyz mluvish.",
+      "category": "Directions",
+      "generated_at": "2026-09-16T02:36:51.425299"
+    },
+    {
+      "english": "Try the soft 'ch', now.",
+      "czech": "Zkus měkké 'ch', teď.",
+      "transliteration": "Zkus mekké 'ch', ted'.",
+      "category": "Directions",
+      "generated_at": "2026-09-16T02:36:51.425300"
     }
   ],
-  "last_updated": "2026-09-15T22:44:09.010304"
+  "last_updated": "2026-09-16T02:36:51.425302"
 }
