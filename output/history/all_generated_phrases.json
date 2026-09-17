@@ -15189,7 +15189,42 @@
       "transliteration": "Rah-dohst-nee moh-teef, m'yeh ro-zeh-smee-vah.",
       "category": "Music",
       "generated_at": "2026-09-16T22:40:22.783143"
+    },
+    {
+      "english": "One, bright idea.",
+      "czech": "Jeden, jasný nápad.",
+      "transliteration": "Yed-en, yas-ny nah-pad.",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T02:41:02.177904"
+    },
+    {
+      "english": "Two, quick steps forward.",
+      "czech": "Dva, rychlé kroky vpřed.",
+      "transliteration": "Dva, rzhee-khleh kro-kee vpred.",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T02:41:02.177915"
+    },
+    {
+      "english": "Three, silent prayers.",
+      "czech": "Tři, tichá přání.",
+      "transliteration": "Trzhee, tee-khah pzha-nee.",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T02:41:02.177917"
+    },
+    {
+      "english": "Around, number four.",
+      "czech": "Kolem, čísla čtyři.",
+      "transliteration": "Koh-lem, chee-s-la ch-ti-rzhee.",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T02:41:02.177918"
+    },
+    {
+      "english": "Almost, quarter past five.",
+      "czech": "Skoro, čtvrt po páté.",
+      "transliteration": "Sko-ro, chvurt po pah-teh.",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T02:41:02.177919"
     }
   ],
-  "last_updated": "2026-09-16T22:40:22.783145"
+  "last_updated": "2026-09-17T02:41:02.177921"
 }
