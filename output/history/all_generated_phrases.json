@@ -15609,7 +15609,42 @@
       "transliteration": "Vaše česká cesta, začina teď.",
       "category": "Greetings",
       "generated_at": "2026-09-19T15:02:09.579929"
+    },
+    {
+      "english": "What's recommended, tonight?",
+      "czech": "Co doporučujete, dnes večer?",
+      "transliteration": "Tso doporuchyete, dnes vecher?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:59:21.832375"
+    },
+    {
+      "english": "This dish, is surprisingly good.",
+      "czech": "Toto jídlo, je překvapivě dobré.",
+      "transliteration": "Toto yidlo, ye prekvapive dobre.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:59:21.832384"
+    },
+    {
+      "english": "Could we have, some bread, please?",
+      "czech": "Můžeme dostat, nějaký chleba, prosím?",
+      "transliteration": "Muzhemo dostat, nejaky chleba, prosím?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:59:21.832385"
+    },
+    {
+      "english": "A table, for two, please.",
+      "czech": "Stůl, pro dva, prosím.",
+      "transliteration": "Stool, pro dva, prosím.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:59:21.832386"
+    },
+    {
+      "english": "Is this, very spicy?",
+      "czech": "Je to, hodně pálivé?",
+      "transliteration": "Ye to, hodne palive?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-19T16:59:21.832387"
     }
   ],
-  "last_updated": "2026-09-19T15:02:09.579931"
+  "last_updated": "2026-09-19T16:59:21.832389"
 }
