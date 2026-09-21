@@ -15924,7 +15924,42 @@
       "transliteration": "Dedicek, moudra slova, klidny hlas.",
       "category": "Family Terms",
       "generated_at": "2026-09-21T17:25:03.489290"
+    },
+    {
+      "english": "Try it out loud, it's okay.",
+      "czech": "Zkus to nahlas, je to v pořádku.",
+      "transliteration": "Zkus to nahlas, je to v poradku.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T19:01:48.707605"
+    },
+    {
+      "english": "Listen to your voice, growing.",
+      "czech": "Poslouchej svůj hlas, jak roste.",
+      "transliteration": "Poslouchej svuj hlas, jak roste.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T19:01:48.707617"
+    },
+    {
+      "english": "That's a good start, keep going.",
+      "czech": "To je dobrý začátek, pokračuj.",
+      "transliteration": "To je dobry zacatek, pokracuj.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T19:01:48.707619"
+    },
+    {
+      "english": "You're making progress, truly.",
+      "czech": "Děláš pokrok, opravdu.",
+      "transliteration": "Delas pokrok, opravdu.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T19:01:48.707620"
+    },
+    {
+      "english": "Feel the Czech words, inside you.",
+      "czech": "Cítíš ta česká slova, uvnitř sebe.",
+      "transliteration": "Citis ta ceska slova, uvitr sebe.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T19:01:48.707621"
     }
   ],
-  "last_updated": "2026-09-21T17:25:03.489292"
+  "last_updated": "2026-09-21T19:01:48.707623"
 }
