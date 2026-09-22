@@ -16169,7 +16169,42 @@
       "transliteration": "Pojďme prozkoumat, tuto skrytou cestu.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-22T20:02:21.824190"
+    },
+    {
+      "english": "Listen close, hear the story.",
+      "czech": "Poslouchej pozorně, slyš ten příběh.",
+      "transliteration": "Poslouchej pozorne, slyš ten pribež.",
+      "category": "Music",
+      "generated_at": "2026-09-22T22:46:01.333202"
+    },
+    {
+      "english": "A soft hum, then a song.",
+      "czech": "Tiché broukání, pak píseň.",
+      "transliteration": "Tiche broukani, pak piseň.",
+      "category": "Music",
+      "generated_at": "2026-09-22T22:46:01.333214"
+    },
+    {
+      "english": "The piano, a gentle rain.",
+      "czech": "Klavír, jemný déšť.",
+      "transliteration": "Klavir, jemny dešt.",
+      "category": "Music",
+      "generated_at": "2026-09-22T22:46:01.333217"
+    },
+    {
+      "english": "Let the music, fill the air.",
+      "czech": "Nech hudbu, naplnit vzduch.",
+      "transliteration": "Nech hudbu, naplnit vzduch.",
+      "category": "Music",
+      "generated_at": "2026-09-22T22:46:01.333218"
+    },
+    {
+      "english": "A sudden flourish, then quiet.",
+      "czech": "Náhlá ozdoba, pak ticho.",
+      "transliteration": "Nahla ozdoba, pak ticho.",
+      "category": "Music",
+      "generated_at": "2026-09-22T22:46:01.333219"
     }
   ],
-  "last_updated": "2026-09-22T20:02:21.824191"
+  "last_updated": "2026-09-22T22:46:01.333221"
 }
