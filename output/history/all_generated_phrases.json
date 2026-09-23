@@ -16239,7 +16239,42 @@
       "transliteration": "Mohl byste doporucit, neco tepleho?",
       "category": "Shopping",
       "generated_at": "2026-09-23T02:38:24.791011"
+    },
+    {
+      "english": "Tiny mushroom, under shade.",
+      "czech": "Drobný hřib, ve stínu.",
+      "transliteration": "Droh-bnee hrzhib, veh shtee-noo.",
+      "category": "Nature",
+      "generated_at": "2026-09-23T15:46:25.160052"
+    },
+    {
+      "english": "Cool stream, trickles by.",
+      "czech": "Chladný potok, protéká kolem.",
+      "transliteration": "Chlad-nee poh-tok, pro-teh-ka koh-lem.",
+      "category": "Nature",
+      "generated_at": "2026-09-23T15:46:25.160061"
+    },
+    {
+      "english": "Green vine, climbs the wall.",
+      "czech": "Zelený břečťan, šplhá po zdi.",
+      "transliteration": "Zeh-leh-nee brzech-tan, shplha poh zdzee.",
+      "category": "Nature",
+      "generated_at": "2026-09-23T15:46:25.160063"
+    },
+    {
+      "english": "Busy bee, collects nectar.",
+      "czech": "Pilná včela, sbírá nektar.",
+      "transliteration": "Pil-na vch-cheh-la, sbee-ra nek-tar.",
+      "category": "Nature",
+      "generated_at": "2026-09-23T15:46:25.160064"
+    },
+    {
+      "english": "Fallen leaf, floats gently.",
+      "czech": "Spadlý list, pluje lehce.",
+      "transliteration": "Spad-lee leest, ploo-yeh leh-tseh.",
+      "category": "Nature",
+      "generated_at": "2026-09-23T15:46:25.160065"
     }
   ],
-  "last_updated": "2026-09-23T02:38:24.791013"
+  "last_updated": "2026-09-23T15:46:25.160067"
 }
