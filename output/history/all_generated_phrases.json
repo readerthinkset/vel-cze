@@ -16484,7 +16484,42 @@
       "transliteration": "Teplé objeti, od přátel.",
       "category": "Happiness",
       "generated_at": "2026-09-24T18:07:04.618294"
+    },
+    {
+      "english": "Morning dew, on the grass.",
+      "czech": "Ranní rosa, na trávě.",
+      "transliteration": "Rahn-nee roh-sah, nah trah-veh.",
+      "category": "Time",
+      "generated_at": "2026-09-24T20:17:32.742491"
+    },
+    {
+      "english": "Sun warms, the earth.",
+      "czech": "Slunce hřeje, zemi.",
+      "transliteration": "Soohn-tseh hrzheh-yeh, zeh-mee.",
+      "category": "Time",
+      "generated_at": "2026-09-24T20:17:32.742500"
+    },
+    {
+      "english": "Midday heat, arrives.",
+      "czech": "Polední horko, přichází.",
+      "transliteration": "Poh-led-nee hor-koh, pree-khah-zee.",
+      "category": "Time",
+      "generated_at": "2026-09-24T20:17:32.742502"
+    },
+    {
+      "english": "Afternoon breeze, whispers.",
+      "czech": "Odpolední vánek, šeptá.",
+      "transliteration": "Odpoh-led-nee vah-nek, shep-tah.",
+      "category": "Time",
+      "generated_at": "2026-09-24T20:17:32.742503"
+    },
+    {
+      "english": "Evening cool, descends.",
+      "czech": "Večerní chlad, sestupuje.",
+      "transliteration": "Veh-chern-ee khlad, ses-too-pyeh.",
+      "category": "Time",
+      "generated_at": "2026-09-24T20:17:32.742504"
     }
   ],
-  "last_updated": "2026-09-24T18:07:04.618296"
+  "last_updated": "2026-09-24T20:17:32.742506"
 }
