@@ -16519,7 +16519,42 @@
       "transliteration": "Veh-chern-ee khlad, ses-too-pyeh.",
       "category": "Time",
       "generated_at": "2026-09-24T20:17:32.742504"
+    },
+    {
+      "english": "This made, my day brighter.",
+      "czech": "Tohle mi, zpříjemnilo den.",
+      "transliteration": "Toh-leh mee, zpree-yem-nee-lo dyen.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-24T23:02:26.798106"
+    },
+    {
+      "english": "Such a thoughtful, gesture.",
+      "czech": "Tak milé, gesto.",
+      "transliteration": "Tak mee-leh, ges-toh.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-24T23:02:26.798114"
+    },
+    {
+      "english": "I truly appreciate, this.",
+      "czech": "Opravdu si, vážím.",
+      "transliteration": "Op-rav-doo see, vah-zheem.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-24T23:02:26.798116"
+    },
+    {
+      "english": "You've been, so kind.",
+      "czech": "Byl jsi, tak hodný.",
+      "transliteration": "Bil yees, tak hod-nee.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-24T23:02:26.798117"
+    },
+    {
+      "english": "A wonderful, surprise.",
+      "czech": "Nádherné, překvapení.",
+      "transliteration": "Nahd-her-neh, preh-kvap-en-ee.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-24T23:02:26.798118"
     }
   ],
-  "last_updated": "2026-09-24T20:17:32.742506"
+  "last_updated": "2026-09-24T23:02:26.798120"
 }
