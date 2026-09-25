@@ -16624,7 +16624,42 @@
       "transliteration": "Pos-lou-chey pshí-zvuk, ney-dzhí-vf.",
       "category": "Directions",
       "generated_at": "2026-09-25T16:08:33.334034"
+    },
+    {
+      "english": "This cobblestone path, beckons me.",
+      "czech": "Tato dlážděná stezka, láká mě.",
+      "transliteration": "Tato dlazhdjena stezka, laka me.",
+      "category": "Travel",
+      "generated_at": "2026-09-25T18:11:33.918053"
+    },
+    {
+      "english": "A river flows, so gently.",
+      "czech": "Řeka teče, tak jemně.",
+      "transliteration": "Rzeka teche, tak jemne.",
+      "category": "Travel",
+      "generated_at": "2026-09-25T18:11:33.918062"
+    },
+    {
+      "english": "The bells are ringing, a sweet sound.",
+      "czech": "Zvoní zvony, sladký zvuk.",
+      "transliteration": "Zvoní zvony, sladky zvuk.",
+      "category": "Travel",
+      "generated_at": "2026-09-25T18:11:33.918064"
+    },
+    {
+      "english": "I'm enjoying, this quiet moment.",
+      "czech": "Užívám si, tento klidný okamžik.",
+      "transliteration": "Uzhivam si, tento klidny okamzhik.",
+      "category": "Travel",
+      "generated_at": "2026-09-25T18:11:33.918065"
+    },
+    {
+      "english": "Where can I buy, a local souvenir?",
+      "czech": "Kde koupím, místní suvenýr?",
+      "transliteration": "Kde koupim, mistni suvenir?",
+      "category": "Travel",
+      "generated_at": "2026-09-25T18:11:33.918066"
     }
   ],
-  "last_updated": "2026-09-25T16:08:33.334036"
+  "last_updated": "2026-09-25T18:11:33.918068"
 }
