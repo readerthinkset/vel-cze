@@ -16694,7 +16694,42 @@
       "transliteration": "Je tohle, oblibena volba?",
       "category": "Restaurant",
       "generated_at": "2026-09-25T20:17:52.006184"
+    },
+    {
+      "english": "Old maps whisper, forgotten routes.",
+      "czech": "Staré mapy šeptají, zapomenuté cesty.",
+      "transliteration": "Star-eh mah-pee shep-tah-yee, zah-pem-eh-too-teh ch-eh-stee.",
+      "category": "Culture",
+      "generated_at": "2026-09-25T23:07:36.745266"
+    },
+    {
+      "english": "Brewery steam rises, a warm embrace.",
+      "czech": "Pivovarská pára stoupá, hřejivé objetí.",
+      "transliteration": "Pee-voh-var-ska pah-ra stoo-pah, hrzh-yeh-vee-eh oh-b-yeh-tee.",
+      "category": "Culture",
+      "generated_at": "2026-09-25T23:07:36.745278"
+    },
+    {
+      "english": "Cobblestone echoes, morning footsteps.",
+      "czech": "Dláždění ozvěnuje, ranní kroky.",
+      "transliteration": "Dlah-zh-deh-nyee oh-z-veh-noo-yeh, rah-nyee kro-kee.",
+      "category": "Culture",
+      "generated_at": "2026-09-25T23:07:36.745279"
+    },
+    {
+      "english": "Bohemian glass sparkles, delicate art.",
+      "czech": "České sklo se třpytí, křehké umění.",
+      "transliteration": "Ch-eh-s-keh sklo seh tr-pee-tee, kr-sheh-kh-keh oo-m-yeh-nyee.",
+      "category": "Culture",
+      "generated_at": "2026-09-25T23:07:36.745281"
+    },
+    {
+      "english": "River mist drifts, a soft veil.",
+      "czech": "Říční mlha pluje, jemný závoj.",
+      "transliteration": "Rzhee-ch-nyee ml-ha ploo-yeh, y-em-ny zah-voy.",
+      "category": "Culture",
+      "generated_at": "2026-09-25T23:07:36.745282"
     }
   ],
-  "last_updated": "2026-09-25T20:17:52.006186"
+  "last_updated": "2026-09-25T23:07:36.745284"
 }
