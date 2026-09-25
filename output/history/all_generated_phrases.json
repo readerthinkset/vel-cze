@@ -16659,7 +16659,42 @@
       "transliteration": "Kde koupim, mistni suvenir?",
       "category": "Travel",
       "generated_at": "2026-09-25T18:11:33.918066"
+    },
+    {
+      "english": "This appetizer, is quite interesting.",
+      "czech": "Tohle předkrm, je docela zajímavý.",
+      "transliteration": "Tohle predkrm, je docela zajimavy.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T20:17:52.006166"
+    },
+    {
+      "english": "I'm curious, about this dish.",
+      "czech": "Jsem zvědavý, na tohle jídlo.",
+      "transliteration": "Jsem zvedavy, na tohle jidlo.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T20:17:52.006179"
+    },
+    {
+      "english": "What's the origin, of these ingredients?",
+      "czech": "Jaký je původ, těchto surovin?",
+      "transliteration": "Jaky je puvod, techto surovin?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T20:17:52.006181"
+    },
+    {
+      "english": "Could you describe, the flavors?",
+      "czech": "Mohl byste popsat, ty chutě?",
+      "transliteration": "Moh byste popsat, ty chute?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T20:17:52.006183"
+    },
+    {
+      "english": "Is this, a popular choice?",
+      "czech": "Je tohle, oblíbená volba?",
+      "transliteration": "Je tohle, oblibena volba?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-25T20:17:52.006184"
     }
   ],
-  "last_updated": "2026-09-25T18:11:33.918068"
+  "last_updated": "2026-09-25T20:17:52.006186"
 }
