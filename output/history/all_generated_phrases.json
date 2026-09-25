@@ -16589,7 +16589,42 @@
       "transliteration": "Moment klidu, prosim.",
       "category": "Common Expressions",
       "generated_at": "2026-09-25T02:44:51.055561"
+    },
+    {
+      "english": "Catch this ending, carefully.",
+      "czech": "Chyť tento konec, pečlivě.",
+      "transliteration": "Chyť ten-tuh kon-ets, pe-chi-v-ye.",
+      "category": "Directions",
+      "generated_at": "2026-09-25T16:08:33.334019"
+    },
+    {
+      "english": "Feel the nasal sound, here.",
+      "czech": "Cítíš nosovku, tady.",
+      "transliteration": "Cí-tish no-sov-ku, ta-di.",
+      "category": "Directions",
+      "generated_at": "2026-09-25T16:08:33.334029"
+    },
+    {
+      "english": "Let the tongue flick, lightly.",
+      "czech": "Jazyk ať poskočí, lehce.",
+      "transliteration": "Ya-zyk at po-sko-chi, leh-tse.",
+      "category": "Directions",
+      "generated_at": "2026-09-25T16:08:33.334031"
+    },
+    {
+      "english": "Connect the words, smoothly.",
+      "czech": "Spoj slova, plynule.",
+      "transliteration": "Spoj slo-va, ply-nu-le.",
+      "category": "Directions",
+      "generated_at": "2026-09-25T16:08:33.334033"
+    },
+    {
+      "english": "Listen for the stress, first.",
+      "czech": "Poslouchej přízvuk, nejdřív.",
+      "transliteration": "Pos-lou-chey pshí-zvuk, ney-dzhí-vf.",
+      "category": "Directions",
+      "generated_at": "2026-09-25T16:08:33.334034"
     }
   ],
-  "last_updated": "2026-09-25T02:44:51.055562"
+  "last_updated": "2026-09-25T16:08:33.334036"
 }
