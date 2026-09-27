@@ -17009,7 +17009,42 @@
       "transliteration": "Mluv chesky, s novou jistotou.",
       "category": "Growth",
       "generated_at": "2026-09-27T18:02:04.316156"
+    },
+    {
+      "english": "A shiver, in the autumn air.",
+      "czech": "Zimnice, v podzimním vzduchu.",
+      "transliteration": "Zimnice, v podzimním vduchu.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T19:59:04.763139"
+    },
+    {
+      "english": "Clouds drift, lazy shapes.",
+      "czech": "Oblaka plují, líné tvary.",
+      "transliteration": "Oblaka plují, líné tvary.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T19:59:04.763151"
+    },
+    {
+      "english": "Rain drums, on the roof.",
+      "czech": "Déšť bubnuje, na střechu.",
+      "transliteration": "Dešť bubnuje, na střechu.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T19:59:04.763153"
+    },
+    {
+      "english": "Sunlight dappled, through leaves.",
+      "czech": "Sluneční světlo stínované, listím.",
+      "transliteration": "Sluneční světlo stínované, listím.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T19:59:04.763155"
+    },
+    {
+      "english": "A sudden chill, summer's end.",
+      "czech": "Náhlý chlad, konec léta.",
+      "transliteration": "Náhlý chlad, konec léta.",
+      "category": "Weather",
+      "generated_at": "2026-09-27T19:59:04.763156"
     }
   ],
-  "last_updated": "2026-09-27T18:02:04.316158"
+  "last_updated": "2026-09-27T19:59:04.763158"
 }
