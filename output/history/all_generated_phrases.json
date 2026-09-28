@@ -17184,7 +17184,42 @@
       "transliteration": "Babičko, tvoje moudrost, září jasně.",
       "category": "Family Terms",
       "generated_at": "2026-09-28T20:21:31.724258"
+    },
+    {
+      "english": "Sun warms, the granite.",
+      "czech": "Slunce hřeje, žulu.",
+      "transliteration": "Slun-tse hrye-ye, zhu-lu.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T22:25:37.449770"
+    },
+    {
+      "english": "River carves, the canyon.",
+      "czech": "Řeka rýpe, kaňon.",
+      "transliteration": "Rzhe-ka rzy-pe, ka-nyon.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T22:25:37.449778"
+    },
+    {
+      "english": "Clouds drift, lazily by.",
+      "czech": "Oblaka plují, líně.",
+      "transliteration": "Ob-la-ka plu-yi, lye-ne.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T22:25:37.449780"
+    },
+    {
+      "english": "Pine scent, fills forest.",
+      "czech": "Vůně borovice, lesem.",
+      "transliteration": "Voo-nye bo-ro-vy-tse, le-sem.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T22:25:37.449781"
+    },
+    {
+      "english": "Mountain peaks, touch sky.",
+      "czech": "Hory vrcholky, nebe.",
+      "transliteration": "Ho-ry vr-kho-lyky, ne-be.",
+      "category": "Nature",
+      "generated_at": "2026-09-28T22:25:37.449782"
     }
   ],
-  "last_updated": "2026-09-28T20:21:31.724260"
+  "last_updated": "2026-09-28T22:25:37.449784"
 }
