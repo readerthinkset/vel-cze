@@ -17394,7 +17394,42 @@
       "transliteration": "Pět ptáků, zpívalo sladce.",
       "category": "Numbers",
       "generated_at": "2026-09-29T21:17:22.865196"
+    },
+    {
+      "english": "This linen shirt, breathes well.",
+      "czech": "Toto lněné tričko, dobře dýchá.",
+      "transliteration": "Toto lnyene tristko, dobre deycha.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T23:27:53.219221"
+    },
+    {
+      "english": "A long coat, for winter's bite.",
+      "czech": "Dlouhý kabát, na zimní kousnutí.",
+      "transliteration": "Dlouhyy kabaat, na zimnii kousnuti.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T23:27:53.219234"
+    },
+    {
+      "english": "These shorts, for the beach.",
+      "czech": "Tyhle kraťasy, na pláž.",
+      "transliteration": "Tyhle kratasy, na plazh.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T23:27:53.219236"
+    },
+    {
+      "english": "A fitted vest, adds polish.",
+      "czech": "Vypasovaná vesta, dodá šmrnc.",
+      "transliteration": "Vypasovana vesta, doda shmrenc.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T23:27:53.219238"
+    },
+    {
+      "english": "My new jacket, quite stylish.",
+      "czech": "Moje nová bunda, docela stylová.",
+      "transliteration": "Moje nova bunda, docela stylova.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T23:27:53.219239"
     }
   ],
-  "last_updated": "2026-09-29T21:17:22.865198"
+  "last_updated": "2026-09-29T23:27:53.219245"
 }
