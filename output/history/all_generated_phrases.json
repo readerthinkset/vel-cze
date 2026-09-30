@@ -17429,7 +17429,42 @@
       "transliteration": "Moje nova bunda, docela stylova.",
       "category": "Clothes",
       "generated_at": "2026-09-29T23:27:53.219239"
+    },
+    {
+      "english": "This, is quite striking.",
+      "czech": "Tohle, je docela výrazné.",
+      "transliteration": "Tohle, ye do-tsa-la vvee-raz-ne.",
+      "category": "Shopping",
+      "generated_at": "2026-09-30T03:15:11.718942"
+    },
+    {
+      "english": "I like, the texture.",
+      "czech": "Líbí se mi, ta struktura.",
+      "transliteration": "Lee-bee se mee, ta struk-too-ra.",
+      "category": "Shopping",
+      "generated_at": "2026-09-30T03:15:11.718951"
+    },
+    {
+      "english": "It has, a good weight.",
+      "czech": "Má, dobrou váhu.",
+      "transliteration": "Maa, dob-roo vaa-hoo.",
+      "category": "Shopping",
+      "generated_at": "2026-09-30T03:15:11.718953"
+    },
+    {
+      "english": "This shade, is perfect.",
+      "czech": "Tenhle odstín, je perfektní.",
+      "transliteration": "Ten-leh od-steen, ye per-fekt-nee.",
+      "category": "Shopping",
+      "generated_at": "2026-09-30T03:15:11.718954"
+    },
+    {
+      "english": "Does it, feel natural?",
+      "czech": "Je to, přírodní materiál?",
+      "transliteration": "Ye toh, pree-rohd-nee ma-te-ree-al?",
+      "category": "Shopping",
+      "generated_at": "2026-09-30T03:15:11.718955"
     }
   ],
-  "last_updated": "2026-09-29T23:27:53.219245"
+  "last_updated": "2026-09-30T03:15:11.718957"
 }
