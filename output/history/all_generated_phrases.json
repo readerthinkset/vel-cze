@@ -17534,7 +17534,42 @@
       "transliteration": "Tato tsesta, nyekam vede.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-30T18:46:53.061975"
+    },
+    {
+      "english": "Let's explore, this new sound.",
+      "czech": "Pojďme prozkoumat, tento nový zvuk.",
+      "transliteration": "Poydme prozkoumat, tento novy zvuk.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:13:44.229399"
+    },
+    {
+      "english": "Listen closely, to the whisper.",
+      "czech": "Poslouchejte pozorně, to zašeptání.",
+      "transliteration": "Poslouchejte pozorne, to zašeptani.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:13:44.229408"
+    },
+    {
+      "english": "Feel the light click, of the tongue.",
+      "czech": "Ucítíte lehké cvaknutí, jazyka.",
+      "transliteration": "Ucítíte lehke cvaknuti, jazyka.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:13:44.229410"
+    },
+    {
+      "english": "Imagine the mountain, then speak it.",
+      "czech": "Představte si horu, pak to řekněte.",
+      "transliteration": "Představte si horu, pak to řekněte.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:13:44.229411"
+    },
+    {
+      "english": "Trace the shape, with your voice.",
+      "czech": "Obkreslete tvar, svým hlasem.",
+      "transliteration": "Obkreslete tvar, svým hlasem.",
+      "category": "Directions",
+      "generated_at": "2026-09-30T21:13:44.229413"
     }
   ],
-  "last_updated": "2026-09-30T18:46:53.061977"
+  "last_updated": "2026-09-30T21:13:44.229414"
 }
