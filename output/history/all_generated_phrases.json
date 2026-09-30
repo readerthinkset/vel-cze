@@ -17464,7 +17464,42 @@
       "transliteration": "Ye toh, pree-rohd-nee ma-te-ree-al?",
       "category": "Shopping",
       "generated_at": "2026-09-30T03:15:11.718955"
+    },
+    {
+      "english": "My leg, it hurts, badly.",
+      "czech": "Noha, bolí, hodně.",
+      "transliteration": "Noha, bolí, hodně.",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T17:32:12.537870"
+    },
+    {
+      "english": "I need, a quiet corner.",
+      "czech": "Potřebuji, klidný koutek.",
+      "transliteration": "Potřebuji, klidný koutek.",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T17:32:12.537881"
+    },
+    {
+      "english": "Is this, a public toilet?",
+      "czech": "Je tohle, veřejné WC?",
+      "transliteration": "Je tohle, veřejné WC?",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T17:32:12.537883"
+    },
+    {
+      "english": "I can't breathe, properly.",
+      "czech": "Nemohu, dýchat, správně.",
+      "transliteration": "Nemohu, dýchat, správně.",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T17:32:12.537884"
+    },
+    {
+      "english": "Where is, the nearest pharmacy?",
+      "czech": "Kde je, nejbližší lékárna?",
+      "transliteration": "Kde je, nejbližší lékárna?",
+      "category": "Emergency",
+      "generated_at": "2026-09-30T17:32:12.537885"
     }
   ],
-  "last_updated": "2026-09-30T03:15:11.718957"
+  "last_updated": "2026-09-30T17:32:12.537887"
 }
