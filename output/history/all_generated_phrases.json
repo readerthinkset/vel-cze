@@ -17569,7 +17569,42 @@
       "transliteration": "Obkreslete tvar, svým hlasem.",
       "category": "Directions",
       "generated_at": "2026-09-30T21:13:44.229413"
+    },
+    {
+      "english": "Hello there, eager learner.",
+      "czech": "Zdravím tě, dychtivý učedníku.",
+      "transliteration": "Zdrah-veem tyeh, deech-tee-vee oo-ched-nee-koo.",
+      "category": "Greetings",
+      "generated_at": "2026-09-30T23:31:28.756085"
+    },
+    {
+      "english": "A warm welcome, to Czech.",
+      "czech": "Vřelé přivítání, do češtiny.",
+      "transliteration": "Vryeh-leh pryee-vee-tah-nee, doh chesh-tee-ny.",
+      "category": "Greetings",
+      "generated_at": "2026-09-30T23:31:28.756097"
+    },
+    {
+      "english": "Let's unlock, the Czech language.",
+      "czech": "Odemkněme, český jazyk.",
+      "transliteration": "Oh-demk-nyeh-meh, ches-kee yah-zik.",
+      "category": "Greetings",
+      "generated_at": "2026-09-30T23:31:28.756099"
+    },
+    {
+      "english": "Ready for your Czech, moment?",
+      "czech": "Připraven na svůj český, okamžik?",
+      "transliteration": "Pryee-prah-ven nah svooy ches-kee, oh-kam-zhik?",
+      "category": "Greetings",
+      "generated_at": "2026-09-30T23:31:28.756100"
+    },
+    {
+      "english": "A friendly greeting, from Bohemia.",
+      "czech": "Přátelské pozdravení, z Čech.",
+      "transliteration": "Pryah-tel-skeh pohz-drah-veh-nee, z Chech.",
+      "category": "Greetings",
+      "generated_at": "2026-09-30T23:31:28.756101"
     }
   ],
-  "last_updated": "2026-09-30T21:13:44.229414"
+  "last_updated": "2026-09-30T23:31:28.756103"
 }
