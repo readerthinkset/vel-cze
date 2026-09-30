@@ -17499,7 +17499,42 @@
       "transliteration": "Kde je, nejbližší lékárna?",
       "category": "Emergency",
       "generated_at": "2026-09-30T17:32:12.537885"
+    },
+    {
+      "english": "Hello there, sunshine.",
+      "czech": "Ahoj, sluníčko.",
+      "transliteration": "Ahoy, sloonichko.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T18:46:53.061958"
+    },
+    {
+      "english": "Such a lovely day.",
+      "czech": "Dnes je ale krásně.",
+      "transliteration": "Dnes je ahle krasne.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T18:46:53.061971"
+    },
+    {
+      "english": "Your smile, is wonderful.",
+      "czech": "Tvůj úsměv, je nádherný.",
+      "transliteration": "Tvooy oosmyev, ye nadhernyy.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T18:46:53.061973"
+    },
+    {
+      "english": "What a surprise, you're here!",
+      "czech": "Cože, ty jsi tady!",
+      "transliteration": "Tsoche, ty ysi tady!",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T18:46:53.061974"
+    },
+    {
+      "english": "This path, it leads somewhere.",
+      "czech": "Tato cesta, někam vede.",
+      "transliteration": "Tato tsesta, nyekam vede.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-30T18:46:53.061975"
     }
   ],
-  "last_updated": "2026-09-30T17:32:12.537887"
+  "last_updated": "2026-09-30T18:46:53.061977"
 }
