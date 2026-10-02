@@ -17744,7 +17744,42 @@
       "transliteration": "Hravé štěně, vrtí ocáskem.",
       "category": "Happiness",
       "generated_at": "2026-10-01T23:42:43.344051"
+    },
+    {
+      "english": "The owl, watches, silently.",
+      "czech": "Sova, hledí, tiše.",
+      "transliteration": "Sova, hlee-dee, tee-she.",
+      "category": "Animals",
+      "generated_at": "2026-10-02T03:22:51.565418"
+    },
+    {
+      "english": "A butterfly, flutters, by.",
+      "czech": "Motýl, poletuje, kolem.",
+      "transliteration": "Mo-teel, po-le-too-yeh, ko-lem.",
+      "category": "Animals",
+      "generated_at": "2026-10-02T03:22:51.565429"
+    },
+    {
+      "english": "The deer, grazes, peacefully.",
+      "czech": "Jelen, spase, v klidu.",
+      "transliteration": "Ye-len, spa-seh, v klee-doo.",
+      "category": "Animals",
+      "generated_at": "2026-10-02T03:22:51.565431"
+    },
+    {
+      "english": "A whale, surfaces, slowly.",
+      "czech": "Velryba, vynořuje se, pomalu.",
+      "transliteration": "Vell-ree-ba, vee-no-roo-yeh seh, po-ma-loo.",
+      "category": "Animals",
+      "generated_at": "2026-10-02T03:22:51.565433"
+    },
+    {
+      "english": "The lion, yawns, widely.",
+      "czech": "Lev, zívá, doširoka.",
+      "transliteration": "Lev, zee-vaah, doh-shee-ro-ka.",
+      "category": "Animals",
+      "generated_at": "2026-10-02T03:22:51.565434"
     }
   ],
-  "last_updated": "2026-10-01T23:42:43.344053"
+  "last_updated": "2026-10-02T03:22:51.565436"
 }
