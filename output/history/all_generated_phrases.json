@@ -18234,7 +18234,42 @@
       "transliteration": "Čeština působí, správně.",
       "category": "Growth",
       "generated_at": "2026-10-04T19:54:59.607137"
+    },
+    {
+      "english": "Morning mist, hangs low.",
+      "czech": "Ranní mlha, visí nízko.",
+      "transliteration": "Rahn-nee ml-hah, vee-see nee-zko.",
+      "category": "Weather",
+      "generated_at": "2026-10-04T22:47:14.083505"
+    },
+    {
+      "english": "Sun melts frost, slowly.",
+      "czech": "Slunce taje mráz, pomalu.",
+      "transliteration": "Sloont-seh tah-yeh mrahz, poh-mah-loo.",
+      "category": "Weather",
+      "generated_at": "2026-10-04T22:47:14.083512"
+    },
+    {
+      "english": "Clouds race, across the sky.",
+      "czech": "Oblaka uhání, po nebi.",
+      "transliteration": "Oh-blah-kah oo-hah-nyee, poh neh-bee.",
+      "category": "Weather",
+      "generated_at": "2026-10-04T22:47:14.083513"
+    },
+    {
+      "english": "Raindrops tap, a gentle rhythm.",
+      "czech": "Kapky deště bubnují, jemný rytmus.",
+      "transliteration": "Kahp-kee desh-teh boob-noo-yee, yeh-mnyee rit-moos.",
+      "category": "Weather",
+      "generated_at": "2026-10-04T22:47:14.083514"
+    },
+    {
+      "english": "Sky turns dark, brooding.",
+      "czech": "Nebe tmavne, zadumaně.",
+      "transliteration": "Neh-beh tmav-neh, zah-doo-mah-nyeh.",
+      "category": "Weather",
+      "generated_at": "2026-10-04T22:47:14.083515"
     }
   ],
-  "last_updated": "2026-10-04T19:54:59.607139"
+  "last_updated": "2026-10-04T22:47:14.083516"
 }
