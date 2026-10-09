@@ -19039,7 +19039,42 @@
       "transliteration": "Oo-smyev, ah che-s-keh pri-vee-ta-nyee.",
       "category": "Greetings",
       "generated_at": "2026-10-09T21:29:26.288917"
+    },
+    {
+      "english": "Rooted deep, reaching high.",
+      "czech": "Kořeny hluboko, ruce vzhůru.",
+      "transliteration": "Korzeny hluboko, ruce vzhuru.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T23:50:29.715609"
+    },
+    {
+      "english": "Steady flow, wears stone.",
+      "czech": "Stálý proud, obrousí kámen.",
+      "transliteration": "Staly proud, obrousi kamen.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T23:50:29.715621"
+    },
+    {
+      "english": "Silent growth, unseen power.",
+      "czech": "Tichý růst, neviditelná síla.",
+      "transliteration": "Tichy rust, neviditelna sila.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T23:50:29.715622"
+    },
+    {
+      "english": "Gentle breeze, moves sails.",
+      "czech": "Jemný vánek, pohne plachtami.",
+      "transliteration": "Jemny vanek, pohne plachtami.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T23:50:29.715624"
+    },
+    {
+      "english": "Stone by stone, a fortress.",
+      "czech": "Kámen po kameni, pevnost.",
+      "transliteration": "Kamen po kameni, pevnost.",
+      "category": "Strength",
+      "generated_at": "2026-10-09T23:50:29.715625"
     }
   ],
-  "last_updated": "2026-10-09T21:29:26.288919"
+  "last_updated": "2026-10-09T23:50:29.715628"
 }
