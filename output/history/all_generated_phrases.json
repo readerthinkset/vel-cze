@@ -18934,7 +18934,42 @@
       "transliteration": "Ohp-yeh-vooy rah-dost, v mah-lee-chko-stehk.",
       "category": "Holidays",
       "generated_at": "2026-10-09T03:52:36.034062"
+    },
+    {
+      "english": "This beer, is perfectly chilled.",
+      "czech": "Tohle pivo, je skvěle vychlazené.",
+      "transliteration": "Tohle pivo, je skvele vychlazene.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T17:43:36.983304"
+    },
+    {
+      "english": "A table, by the window, please.",
+      "czech": "Stůl, u okna, prosím.",
+      "transliteration": "Stul, u okna, prosim.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T17:43:36.983314"
+    },
+    {
+      "english": "What's this, called?",
+      "czech": "Jak se tohle, jmenuje?",
+      "transliteration": "Jak se tohle, jmenuje?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T17:43:36.983316"
+    },
+    {
+      "english": "Could I see, the dessert menu?",
+      "czech": "Mohl bych vidět, jídelní lístek dezertů?",
+      "transliteration": "Mohl bych videt, jidelni listek dezertu?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T17:43:36.983318"
+    },
+    {
+      "english": "This smells, amazing.",
+      "czech": "Tohle voní, úžasně.",
+      "transliteration": "Tohle voni, uzasne.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-09T17:43:36.983319"
     }
   ],
-  "last_updated": "2026-10-09T03:52:36.034064"
+  "last_updated": "2026-10-09T17:43:36.983321"
 }
