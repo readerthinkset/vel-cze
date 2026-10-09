@@ -18864,7 +18864,42 @@
       "transliteration": "Sa-ve-toh-vee plash-t, tmav-ah shvest-kah.",
       "category": "Colors",
       "generated_at": "2026-10-08T21:51:05.384922"
+    },
+    {
+      "english": "Long shadows, stretch.",
+      "czech": "Dlouhé stíny, se natahují.",
+      "transliteration": "Dlougeh shteenee, seh natah-oo-yoo.",
+      "category": "Time",
+      "generated_at": "2026-10-09T00:09:43.040036"
+    },
+    {
+      "english": "Daylight fades, gradually.",
+      "czech": "Denní světlo slábne, postupně.",
+      "transliteration": "Denn-eeh svee-tlo slaab-neh, pos-too-pneh.",
+      "category": "Time",
+      "generated_at": "2026-10-09T00:09:43.040046"
+    },
+    {
+      "english": "Night falls, deep.",
+      "czech": "Noc padá, hluboká.",
+      "transliteration": "Nots pa-daa, hloo-bo-kaa.",
+      "category": "Time",
+      "generated_at": "2026-10-09T00:09:43.040048"
+    },
+    {
+      "english": "Stars emerge, one by one.",
+      "czech": "Hvězdy se objevují, jedna po druhé.",
+      "transliteration": "Hvyěz-dee seh ob-yeh-voo-yoo, yed-na poh droo-heh.",
+      "category": "Time",
+      "generated_at": "2026-10-09T00:09:43.040049"
+    },
+    {
+      "english": "Midnight hour, arrives.",
+      "czech": "Půlnoční hodina, přichází.",
+      "transliteration": "Poo-lno-ch-nee ho-dee-na, przh-ee-khah-zee.",
+      "category": "Time",
+      "generated_at": "2026-10-09T00:09:43.040051"
     }
   ],
-  "last_updated": "2026-10-08T21:51:05.384924"
+  "last_updated": "2026-10-09T00:09:43.040052"
 }
