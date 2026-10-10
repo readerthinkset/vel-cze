@@ -19074,7 +19074,42 @@
       "transliteration": "Kamen po kameni, pevnost.",
       "category": "Strength",
       "generated_at": "2026-10-09T23:50:29.715625"
+    },
+    {
+      "english": "Zero, tolerance for mistakes.",
+      "czech": "Nula, tolerance pro chyby.",
+      "transliteration": "Nool-ah, tol-er-a-ntz pro khib-ee.",
+      "category": "Numbers",
+      "generated_at": "2026-10-10T03:36:50.199051"
+    },
+    {
+      "english": "One, chance is all I need.",
+      "czech": "Jedna, šance je všechno, co potřebuji.",
+      "transliteration": "Yed-nah, shahn-tseh yeh vsheh-kno, tso pot-rzhe-boo-yee.",
+      "category": "Numbers",
+      "generated_at": "2026-10-10T03:36:50.199065"
+    },
+    {
+      "english": "Two, tiny steps, then a leap.",
+      "czech": "Dva, malé kroky, pak skok.",
+      "transliteration": "Dva, mah-leh kro-kee, pak skok.",
+      "category": "Numbers",
+      "generated_at": "2026-10-10T03:36:50.199066"
+    },
+    {
+      "english": "Three, riddles, unsolved, still.",
+      "czech": "Tři, hádanky, nevyřešené, stále.",
+      "transliteration": "Tzhrhee, hah-dan-kee, neh-vee-rzhe-sheh-neh, stah-leh.",
+      "category": "Numbers",
+      "generated_at": "2026-10-10T03:36:50.199068"
+    },
+    {
+      "english": "Four, corners, of the room, met.",
+      "czech": "Čtyři, rohy, místnosti, se sešly.",
+      "transliteration": "Ch-tih-rzhee, ro-hee, mees-tno-stee, seh sheh-shlee.",
+      "category": "Numbers",
+      "generated_at": "2026-10-10T03:36:50.199069"
     }
   ],
-  "last_updated": "2026-10-09T23:50:29.715628"
+  "last_updated": "2026-10-10T03:36:50.199071"
 }
