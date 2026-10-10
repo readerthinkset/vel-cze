@@ -19109,7 +19109,42 @@
       "transliteration": "Ch-tih-rzhee, ro-hee, mees-tno-stee, seh sheh-shlee.",
       "category": "Numbers",
       "generated_at": "2026-10-10T03:36:50.199069"
+    },
+    {
+      "english": "The rhythm, calls to dance.",
+      "czech": "Rytmus, láká k tanci.",
+      "transliteration": "RIT-mus, LA-ka k TAN-tsee.",
+      "category": "Music",
+      "generated_at": "2026-10-10T16:35:52.604138"
+    },
+    {
+      "english": "A gentle strum, begins.",
+      "czech": "Jemné brnkání, začíná.",
+      "transliteration": "YEM-ne BRNK-an-ee, za-CHEE-naa.",
+      "category": "Music",
+      "generated_at": "2026-10-10T16:35:52.604149"
+    },
+    {
+      "english": "Listen, to the melody.",
+      "czech": "Poslouchej, melodii.",
+      "transliteration": "POS-loy-khai, me-LO-dee-ee.",
+      "category": "Music",
+      "generated_at": "2026-10-10T16:35:52.604150"
+    },
+    {
+      "english": "A voice, rises up.",
+      "czech": "Hlas, stoupá vzhůru.",
+      "transliteration": "Hlas, STOO-paa VZHOOR-oo.",
+      "category": "Music",
+      "generated_at": "2026-10-10T16:35:52.604151"
+    },
+    {
+      "english": "This chord, feels warm.",
+      "czech": "Tenhle akord, hřeje.",
+      "transliteration": "TEN-hle ak-ORD, HRZHEE-ye.",
+      "category": "Music",
+      "generated_at": "2026-10-10T16:35:52.604151"
     }
   ],
-  "last_updated": "2026-10-10T03:36:50.199071"
+  "last_updated": "2026-10-10T16:35:52.604152"
 }
