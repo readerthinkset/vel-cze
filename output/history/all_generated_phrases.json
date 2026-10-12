@@ -19459,7 +19459,42 @@
       "transliteration": "Ti-ché brou-ká-ni, čis-té po-tě-še-ni.",
       "category": "Joy",
       "generated_at": "2026-10-12T03:32:30.647688"
+    },
+    {
+      "english": "Help, please, I'm lost.",
+      "czech": "Pomoc, prosím, jsem ztracen/ztracená.",
+      "transliteration": "Pomoc, prosim, jsem ztracen/ztracena.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T20:35:48.436989"
+    },
+    {
+      "english": "I need, a doctor, urgently.",
+      "czech": "Potřebuji, lékaře, naléhavě.",
+      "transliteration": "Potrebuji, lekare, naléhavě.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T20:35:48.437000"
+    },
+    {
+      "english": "Someone, took my, belongings.",
+      "czech": "Někdo, vzal mé, věci.",
+      "transliteration": "Někdo, vzal mé, věci.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T20:35:48.437003"
+    },
+    {
+      "english": "My passport, is missing.",
+      "czech": "Můj pas, chybí.",
+      "transliteration": "Můj pas, chybí.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T20:35:48.437004"
+    },
+    {
+      "english": "This is, an emergency.",
+      "czech": "Toto je, nouzová situace.",
+      "transliteration": "Toto je, nouzová situace.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T20:35:48.437006"
     }
   ],
-  "last_updated": "2026-10-12T03:32:30.647690"
+  "last_updated": "2026-10-12T20:35:48.437007"
 }
