@@ -19844,7 +19844,42 @@
       "transliteration": "Daruj, chvilku povzbuzeni.",
       "category": "Kindness",
       "generated_at": "2026-10-14T18:16:39.064228"
+    },
+    {
+      "english": "Dawn breaks, soft light, new day.",
+      "czech": "Úsvit svítá, jemné světlo, nový den.",
+      "transliteration": "Usvit svita, jemne svetlo, novy den.",
+      "category": "Time",
+      "generated_at": "2026-10-14T20:29:35.154848"
+    },
+    {
+      "english": "Clock hands move, slowly, always.",
+      "czech": "Ručičky jdou, pomalu, stále.",
+      "transliteration": "Ruchicky jdou, pomalu, stale.",
+      "category": "Time",
+      "generated_at": "2026-10-14T20:29:35.154859"
+    },
+    {
+      "english": "A quick second, then past.",
+      "czech": "Rychlá vteřina, pak minulost.",
+      "transliteration": "Rychla vterina, pak minulost.",
+      "category": "Time",
+      "generated_at": "2026-10-14T20:29:35.154861"
+    },
+    {
+      "english": "Remember this, for later.",
+      "czech": "Pamatuj si tohle, na později.",
+      "transliteration": "Pamatuj si tohle, na pozdeji.",
+      "category": "Time",
+      "generated_at": "2026-10-14T20:29:35.154862"
+    },
+    {
+      "english": "Wait for me, just a bit.",
+      "czech": "Počkej na mě, jen chviličku.",
+      "transliteration": "Pockej na me, jen chvilicku.",
+      "category": "Time",
+      "generated_at": "2026-10-14T20:29:35.154864"
     }
   ],
-  "last_updated": "2026-10-14T18:16:39.064229"
+  "last_updated": "2026-10-14T20:29:35.154866"
 }
