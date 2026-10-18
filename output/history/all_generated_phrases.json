@@ -20509,7 +20509,42 @@
       "transliteration": "Prozkoumej historii, české ozvěny.",
       "category": "Purpose",
       "generated_at": "2026-10-18T15:05:19.146926"
+    },
+    {
+      "english": "Find that tight spot, here.",
+      "czech": "Najděte to těsné místo, zde.",
+      "transliteration": "Naydite to tesne misto, zde.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T17:03:08.688278"
+    },
+    {
+      "english": "Let the sound rise, up.",
+      "czech": "Nechte zvuk stoupat, nahoru.",
+      "transliteration": "Nechte zvuk stoupat, nahoru.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T17:03:08.688291"
+    },
+    {
+      "english": "A quick tap, of the tongue.",
+      "czech": "Rychlé klepnutí, jazykem.",
+      "transliteration": "Rychle klepnuti, jazykem.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T17:03:08.688293"
+    },
+    {
+      "english": "Feel the chest resonate, now.",
+      "czech": "Cítíte, jak rezonuje hrudník.",
+      "transliteration": "Citite, jak rezonuje hrudnik.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T17:03:08.688295"
+    },
+    {
+      "english": "Slightly open, the back.",
+      "czech": "Mírně otevřete, zadní část.",
+      "transliteration": "Mirne otevrete, zadni cast.",
+      "category": "Directions",
+      "generated_at": "2026-10-18T17:03:08.688296"
     }
   ],
-  "last_updated": "2026-10-18T15:05:19.146927"
+  "last_updated": "2026-10-18T17:03:08.688298"
 }
