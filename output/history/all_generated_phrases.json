@@ -20439,7 +20439,42 @@
       "transliteration": "Kde je, nejbližší ambasáda?",
       "category": "Emergency",
       "generated_at": "2026-10-17T21:59:10.545299"
+    },
+    {
+      "english": "My nose, itches slightly.",
+      "czech": "Můj nos, trochu svědí.",
+      "transliteration": "Moy nos, trokhu sve-dee.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-18T02:21:57.747879"
+    },
+    {
+      "english": "Her tongue, tasted something sweet.",
+      "czech": "Její jazyk, chutnal něco sladkého.",
+      "transliteration": "Ye-ee yazyk, khoot-nal nye-cho sla-tkeh-ho.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-18T02:21:57.747893"
+    },
+    {
+      "english": "His teeth, gleamed in the sun.",
+      "czech": "Jeho zuby, se leskly na slunci.",
+      "transliteration": "Ye-ho zoo-bee, se lesk-lee na sloon-tsee.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-18T02:21:57.747895"
+    },
+    {
+      "english": "My neck, feels a bit stiff.",
+      "czech": "Můj krk, je trochu ztuhlý.",
+      "transliteration": "Moy krk, ye trokhu stoo-hlee.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-18T02:21:57.747896"
+    },
+    {
+      "english": "Her shoulder, brushed past mine.",
+      "czech": "Její rameno, se otřelo o mé.",
+      "transliteration": "Ye-ee ra-me-no, se o-trye-lo o may.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-18T02:21:57.747897"
     }
   ],
-  "last_updated": "2026-10-17T21:59:10.545301"
+  "last_updated": "2026-10-18T02:21:57.747898"
 }
