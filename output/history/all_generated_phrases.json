@@ -20649,7 +20649,42 @@
       "transliteration": "Okamžik spočine, pak plyne.",
       "category": "Balance",
       "generated_at": "2026-10-19T02:36:28.817532"
+    },
+    {
+      "english": "Snowflakes dance, on the air.",
+      "czech": "Sněhové vločky tančí, ve vzduchu.",
+      "transliteration": "Snye-ho-veh vlo-chkee tan-chee, veh zdookhoo.",
+      "category": "Weather",
+      "generated_at": "2026-10-19T19:54:04.839435"
+    },
+    {
+      "english": "Sun warms, the sleepy earth.",
+      "czech": "Slunce hřeje, spící zemi.",
+      "transliteration": "Sloon-tseh hrzheye, spee-chee zeh-mee.",
+      "category": "Weather",
+      "generated_at": "2026-10-19T19:54:04.839443"
+    },
+    {
+      "english": "Fog rolls in, a soft blanket.",
+      "czech": "Mlha se valí, měkká pokrývka.",
+      "transliteration": "Ml-hah seh vah-lee, myek-kah po-kreev-kah.",
+      "category": "Weather",
+      "generated_at": "2026-10-19T19:54:04.839444"
+    },
+    {
+      "english": "Thunder rumbles, distant drums.",
+      "czech": "Hrom duní, vzdálené bubny.",
+      "transliteration": "Hrom doo-nee, vzdah-leh-neh boo-bny.",
+      "category": "Weather",
+      "generated_at": "2026-10-19T19:54:04.839444"
+    },
+    {
+      "english": "Lightning flashes, a quick wink.",
+      "czech": "Blesk blýská, rychlé mrknutí.",
+      "transliteration": "Blesk blee-skah, reekh-leh mrk-noo-tee.",
+      "category": "Weather",
+      "generated_at": "2026-10-19T19:54:04.839445"
     }
   ],
-  "last_updated": "2026-10-19T02:36:28.817533"
+  "last_updated": "2026-10-19T19:54:04.839446"
 }
