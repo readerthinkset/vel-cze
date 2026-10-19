@@ -20719,7 +20719,42 @@
       "transliteration": "Dobry pocit, rozkveta.",
       "category": "Joy",
       "generated_at": "2026-10-19T21:28:52.666167"
+    },
+    {
+      "english": "Your voice, Czech ready.",
+      "czech": "Tvůj hlas, čeština připravená.",
+      "transliteration": "Tvooy hlass, chestina pripravena.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T23:34:44.803609"
+    },
+    {
+      "english": "Try this sound, yes.",
+      "czech": "Zkus ten zvuk, ano.",
+      "transliteration": "Tskooz ten zvoook, ano.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T23:34:44.803620"
+    },
+    {
+      "english": "Czech words, take flight.",
+      "czech": "Česká slova, vzlétni.",
+      "transliteration": "Chesska slova, vzletni.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T23:34:44.803622"
+    },
+    {
+      "english": "Feel the rhythm, speak.",
+      "czech": "Cítíš rytmus, mluv.",
+      "transliteration": "Ceetish ritmoos, mloov.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T23:34:44.803624"
+    },
+    {
+      "english": "You speak Czech, wonderfully.",
+      "czech": "Mluvíš česky, úžasně.",
+      "transliteration": "Mloovish chessky, oozhashne.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T23:34:44.803626"
     }
   ],
-  "last_updated": "2026-10-19T21:28:52.666169"
+  "last_updated": "2026-10-19T23:34:44.803627"
 }
