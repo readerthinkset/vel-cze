@@ -20824,7 +20824,42 @@
       "transliteration": "Ten khlehb, khoot-nah tahk cherst-vyeh.",
       "category": "Food",
       "generated_at": "2026-10-20T16:55:14.234632"
+    },
+    {
+      "english": "The frog croaks, by the pond.",
+      "czech": "Žába kváká, u rybníka.",
+      "transliteration": "Zhaba kvaka, u rybnika.",
+      "category": "Animals",
+      "generated_at": "2026-10-20T18:27:51.673528"
+    },
+    {
+      "english": "A cat purrs, on the mat.",
+      "czech": "Kočka vrní, na rohožce.",
+      "transliteration": "Kocka vrni, na rohozce.",
+      "category": "Animals",
+      "generated_at": "2026-10-20T18:27:51.673538"
+    },
+    {
+      "english": "The dog barks, at the mailman.",
+      "czech": "Pes štěká, na pošťáka.",
+      "transliteration": "Pes steka, na postaka.",
+      "category": "Animals",
+      "generated_at": "2026-10-20T18:27:51.673540"
+    },
+    {
+      "english": "Birds chirp, in the branches.",
+      "czech": "Ptáci zpívají, na větvích.",
+      "transliteration": "Ptaci zpeivaji, na vetvich.",
+      "category": "Animals",
+      "generated_at": "2026-10-20T18:27:51.673541"
+    },
+    {
+      "english": "The cow moos, in the meadow.",
+      "czech": "Kráva bučí, na louce.",
+      "transliteration": "Krava buci, na louce.",
+      "category": "Animals",
+      "generated_at": "2026-10-20T18:27:51.673542"
     }
   ],
-  "last_updated": "2026-10-20T16:55:14.234634"
+  "last_updated": "2026-10-20T18:27:51.673544"
 }
