@@ -20754,7 +20754,42 @@
       "transliteration": "Mloovish chessky, oozhashne.",
       "category": "Confidence",
       "generated_at": "2026-10-19T23:34:44.803626"
+    },
+    {
+      "english": "Cobbles gleam, after rain.",
+      "czech": "Kočičí hlavy se lesknou, po dešti.",
+      "transliteration": "Koci-chee hla-vi se les-knou, po desh-ti.",
+      "category": "Culture",
+      "generated_at": "2026-10-20T04:43:48.631110"
+    },
+    {
+      "english": "Old gates creak, open slowly.",
+      "czech": "Staré brány vrzají, otevírají se pomalu.",
+      "transliteration": "Sta-re bra-ny vrz-a-ji, o-te-vi-ra-ji se po-ma-lu.",
+      "category": "Culture",
+      "generated_at": "2026-10-20T04:43:48.631124"
+    },
+    {
+      "english": "Gardens bloom, hidden away.",
+      "czech": "Zahrady kvetou, ukryté stranou.",
+      "transliteration": "Za-hra-dy kve-tou, u-kry-te stra-nou.",
+      "category": "Culture",
+      "generated_at": "2026-10-20T04:43:48.631125"
+    },
+    {
+      "english": "Rivers flow, through ancient towns.",
+      "czech": "Řeky plynou, skrze starobylá města.",
+      "transliteration": "Re-ky ply-nou, skrze sta-ro-by-la mes-ta.",
+      "category": "Culture",
+      "generated_at": "2026-10-20T04:43:48.631126"
+    },
+    {
+      "english": "Tapestries tell, forgotten stories.",
+      "czech": "Tapiserie vypráví, zapomenuté příběhy.",
+      "transliteration": "Ta-pi-se-ri-e vy-pra-vi, za-po-me-nu-te pribe-hy.",
+      "category": "Culture",
+      "generated_at": "2026-10-20T04:43:48.631128"
     }
   ],
-  "last_updated": "2026-10-19T23:34:44.803627"
+  "last_updated": "2026-10-20T04:43:48.631129"
 }
