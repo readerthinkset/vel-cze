@@ -21244,7 +21244,42 @@
       "transliteration": "Tato fontana, ye moc hezka.",
       "category": "Basic Phrases",
       "generated_at": "2026-10-22T23:16:33.548834"
+    },
+    {
+      "english": "This plate, is a work of art.",
+      "czech": "Tenhle talíř, je umělecké dílo.",
+      "transliteration": "Ten-hleh tal-eer, yeh oom-et-s-ket-ay de-lo.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T04:42:25.068814"
+    },
+    {
+      "english": "Could we, try a local specialty?",
+      "czech": "Mohli bychom, ochutnat místní specialitu?",
+      "transliteration": "Moh-lee bykh-om, okh-oot-nat mees-tnee spe-tsee-a-lee-too?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T04:42:25.068824"
+    },
+    {
+      "english": "I'll take, whatever you recommend.",
+      "czech": "Dám si, na co doporučíte.",
+      "transliteration": "Dam see, na tso do-po-roo-chee-teh.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T04:42:25.068826"
+    },
+    {
+      "english": "This sauce, is surprisingly complex.",
+      "czech": "Tahle omáčka, je překvapivě složitá.",
+      "transliteration": "Tah-leh o-maach-ka, yeh pzhe-kra-pee-vyeh slo-zhee-ta.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T04:42:25.068828"
+    },
+    {
+      "english": "Are there, any vegetarian options?",
+      "czech": "Máte, nějaké vegetariánské možnosti?",
+      "transliteration": "Maa-teh, ny-a-keh ve-ge-ta-ree-aahn-skeh mozh-no-stee?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-23T04:42:25.068829"
     }
   ],
-  "last_updated": "2026-10-22T23:16:33.548835"
+  "last_updated": "2026-10-23T04:42:25.068830"
 }
