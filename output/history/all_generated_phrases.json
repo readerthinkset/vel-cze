@@ -21594,7 +21594,42 @@
       "transliteration": "Myek-kah zah-rzheh, vneet-shnee svet-loh.",
       "category": "Inner Peace",
       "generated_at": "2026-10-25T04:35:23.434026"
+    },
+    {
+      "english": "That jacket, it’s quite the statement.",
+      "czech": "Ta bunda, to je vážně výrazná.",
+      "transliteration": "Ta bunda, to je vazhne vyznamna.",
+      "category": "Clothes",
+      "generated_at": "2026-10-25T16:06:35.108590"
+    },
+    {
+      "english": "These boots, perfect for hiking.",
+      "czech": "Tyhle boty, ideální na turistiku.",
+      "transliteration": "Tyhle boty, idealni na turistiku.",
+      "category": "Clothes",
+      "generated_at": "2026-10-25T16:06:35.108601"
+    },
+    {
+      "english": "A light cardigan, for the breeze.",
+      "czech": "Lehký svetr, do vánku.",
+      "transliteration": "Lehky svetr, do vanku.",
+      "category": "Clothes",
+      "generated_at": "2026-10-25T16:06:35.108603"
+    },
+    {
+      "english": "That silk tie, very elegant.",
+      "czech": "Ta hedvábná kravata, velmi elegantní.",
+      "transliteration": "Ta hedvabna kravata, velmi elegantni.",
+      "category": "Clothes",
+      "generated_at": "2026-10-25T16:06:35.108604"
+    },
+    {
+      "english": "These pajamas, so soft.",
+      "czech": "Tyhle pyžama, tak hebká.",
+      "transliteration": "Tyhle pyzama, tak hebka.",
+      "category": "Clothes",
+      "generated_at": "2026-10-25T16:06:35.108606"
     }
   ],
-  "last_updated": "2026-10-25T04:35:23.434027"
+  "last_updated": "2026-10-25T16:06:35.108607"
 }
