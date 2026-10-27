@@ -21979,7 +21979,42 @@
       "transliteration": "Ta gramatika, sedi.",
       "category": "Success",
       "generated_at": "2026-10-27T17:56:48.615601"
+    },
+    {
+      "english": "Golden wheat fields, waving gently.",
+      "czech": "Zlatá pole pšenice, jemně se vlní.",
+      "transliteration": "Zlata pole pshenice, jemne se vlni.",
+      "category": "Culture",
+      "generated_at": "2026-10-27T19:25:53.212893"
+    },
+    {
+      "english": "A lone violinist, plays a sad tune.",
+      "czech": "Osamělý houslista, hraje smutnou melodii.",
+      "transliteration": "Osamely houslista, hraje smutnou melodii.",
+      "category": "Culture",
+      "generated_at": "2026-10-27T19:25:53.212908"
+    },
+    {
+      "english": "The smell of pine, forest air.",
+      "czech": "Vůně borovice, lesní vzduch.",
+      "transliteration": "Vune borovice, lesni vzduch.",
+      "category": "Culture",
+      "generated_at": "2026-10-27T19:25:53.212909"
+    },
+    {
+      "english": "Stone bridge arches, over the stream.",
+      "czech": "Kamenný mostní oblouk, nad potokem.",
+      "transliteration": "Kamenni mostni oblouk, nad potokem.",
+      "category": "Culture",
+      "generated_at": "2026-10-27T19:25:53.212910"
+    },
+    {
+      "english": "Chalk drawings, on the pavement.",
+      "czech": "Křídové kresby, na chodníku.",
+      "transliteration": "Kridove kresby, na chodniku.",
+      "category": "Culture",
+      "generated_at": "2026-10-27T19:25:53.212911"
     }
   ],
-  "last_updated": "2026-10-27T17:56:48.615602"
+  "last_updated": "2026-10-27T19:25:53.212913"
 }
