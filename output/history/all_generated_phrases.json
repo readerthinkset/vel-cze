@@ -21944,7 +21944,42 @@
       "transliteration": "Pos-tav-me, mos-ti zno-voo.",
       "category": "Forgiveness",
       "generated_at": "2026-10-27T04:58:07.591825"
+    },
+    {
+      "english": "That Czech, it sings.",
+      "czech": "Ta čeština, ta zpívá.",
+      "transliteration": "Ta cheshtina, ta zpiva.",
+      "category": "Success",
+      "generated_at": "2026-10-27T17:56:48.615585"
+    },
+    {
+      "english": "You hear that nuance?",
+      "czech": "Slyšíš tu nuanci?",
+      "transliteration": "Slyshish tu nuantsi?",
+      "category": "Success",
+      "generated_at": "2026-10-27T17:56:48.615596"
+    },
+    {
+      "english": "A perfect, Czech detail.",
+      "czech": "Dokonalý, český detail.",
+      "transliteration": "Dokonalý, chesky detail.",
+      "category": "Success",
+      "generated_at": "2026-10-27T17:56:48.615598"
+    },
+    {
+      "english": "Your Czech, it clicks now.",
+      "czech": "Tvoje čeština, teď cvaká.",
+      "transliteration": "Tvoje cheshtina, ted cvaka.",
+      "category": "Success",
+      "generated_at": "2026-10-27T17:56:48.615599"
+    },
+    {
+      "english": "That grammar, feels right.",
+      "czech": "Ta gramatika, sedí.",
+      "transliteration": "Ta gramatika, sedi.",
+      "category": "Success",
+      "generated_at": "2026-10-27T17:56:48.615601"
     }
   ],
-  "last_updated": "2026-10-27T04:58:07.591827"
+  "last_updated": "2026-10-27T17:56:48.615602"
 }
