@@ -22644,7 +22644,42 @@
       "transliteration": "Pokrok je tichý, dál tlačte.",
       "category": "Perseverance",
       "generated_at": "2026-10-31T17:14:30.517521"
+    },
+    {
+      "english": "The fox, trots, through the brush.",
+      "czech": "Liška, klusem, křovím.",
+      "transliteration": "Lishka, klusem, kshovim.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:30:21.748260"
+    },
+    {
+      "english": "A squirrel, chatters, on the branch.",
+      "czech": "Veverka, štěbetá, na větvi.",
+      "transliteration": "Veverka, shtebeta, na vetvi.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:30:21.748273"
+    },
+    {
+      "english": "The owl, blinks, slowly.",
+      "czech": "Sova, mrká, pomalu.",
+      "transliteration": "Sova, mrka, pomalu.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:30:21.748276"
+    },
+    {
+      "english": "A rabbit, twitches, its nose.",
+      "czech": "Králík, škube, čumáčkem.",
+      "transliteration": "Kralik, skube, chumachekem.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:30:21.748277"
+    },
+    {
+      "english": "The badger, digs, for grubs.",
+      "czech": "Jezevec, kope, za larvami.",
+      "transliteration": "Jezevec, kope, za larvami.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:30:21.748278"
     }
   ],
-  "last_updated": "2026-10-31T17:14:30.517522"
+  "last_updated": "2026-10-31T18:30:21.748281"
 }
