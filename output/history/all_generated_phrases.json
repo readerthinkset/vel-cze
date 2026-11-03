@@ -23169,7 +23169,42 @@
       "transliteration": "Srdce se mi rozleva teplem, bez duvodu",
       "category": "Happiness",
       "generated_at": "2026-11-03T19:28:11.217437"
+    },
+    {
+      "english": "A table, please, near the window.",
+      "czech": "Stolek, prosím, u okna.",
+      "transliteration": "Stolek, prosím, u okna.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-03T20:29:58.936660"
+    },
+    {
+      "english": "We'd like menus, please, as soon as possible.",
+      "czech": "Dali byste nám jídelní lístky, prosím, hned?",
+      "transliteration": "Dali byste nám jídelní lístky, prosím, hned?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-03T20:29:58.936670"
+    },
+    {
+      "english": "Could we order now, please, no rush.",
+      "czech": "Můžeme objednat hned, prosím, bez spěchu?",
+      "transliteration": "Můžeme objednat hned, prosím, bez spěchu?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-03T20:29:58.936672"
+    },
+    {
+      "english": "Do you have gluten-free options, please?",
+      "czech": "Máte, prosím, bezlepkové varianty?",
+      "transliteration": "Máte, prosím, bezlepkové varianty?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-03T20:29:58.936674"
+    },
+    {
+      "english": "Is there a dish, without pork?",
+      "czech": "Je tady jídlo, bez vepřového?",
+      "transliteration": "Je tady jídlo, bez vepřového?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-03T20:29:58.936675"
     }
   ],
-  "last_updated": "2026-11-03T19:28:11.217439"
+  "last_updated": "2026-11-03T20:29:58.936677"
 }
