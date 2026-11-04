@@ -23344,7 +23344,42 @@
       "transliteration": "Preměň bolest v praxi, potichu a jiste.",
       "category": "Strength",
       "generated_at": "2026-11-04T20:50:06.018745"
+    },
+    {
+      "english": "Warm sunshine, softens the morning cold.",
+      "czech": "Teplé slunce, zjemní ranní chlad.",
+      "transliteration": "Teple slunce, zjemni ranni chlad.",
+      "category": "Weather",
+      "generated_at": "2026-11-04T22:35:25.951642"
+    },
+    {
+      "english": "The wind swirls, then calms down.",
+      "czech": "Vítr se zatočí, a pak zklidní.",
+      "transliteration": "Vitr se zatočí, a pak zklidní.",
+      "category": "Weather",
+      "generated_at": "2026-11-04T22:35:25.951653"
+    },
+    {
+      "english": "Clouds thin out, daylight breaks through.",
+      "czech": "Mraky slábnou, den proráží.",
+      "transliteration": "Mraky slabnou, den prorazi.",
+      "category": "Weather",
+      "generated_at": "2026-11-04T22:35:25.951655"
+    },
+    {
+      "english": "A cool breeze, brushes your cheeks.",
+      "czech": "Chladný vánek, pohladí tváře.",
+      "transliteration": "Chladny vanek, pohladí tvaře.",
+      "category": "Weather",
+      "generated_at": "2026-11-04T22:35:25.951656"
+    },
+    {
+      "english": "Rain starts again, quietly at first.",
+      "czech": "Déšť znovu začne, nejdřív potichu.",
+      "transliteration": "Des' znovu zacne, nejdriv potichu.",
+      "category": "Weather",
+      "generated_at": "2026-11-04T22:35:25.951657"
     }
   ],
-  "last_updated": "2026-11-04T20:50:06.018747"
+  "last_updated": "2026-11-04T22:35:25.951659"
 }
