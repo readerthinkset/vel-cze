@@ -23449,7 +23449,42 @@
       "transliteration": "Pomůžu ti, jen trochu.",
       "category": "Common Expressions",
       "generated_at": "2026-11-05T06:38:19.345349"
+    },
+    {
+      "english": "Restart now, fix the hang, keep going",
+      "czech": "Restartuj teď, oprav zaseknutí, pokračuj dál",
+      "transliteration": "restartuj ted, oprav zaseknuti, pokracuj dal",
+      "category": "Technology",
+      "generated_at": "2026-11-05T19:53:33.417607"
+    },
+    {
+      "english": "Turn on Wi‑Fi, find the signal, relax",
+      "czech": "Zapni Wi-Fi, najdi signál, v klidu",
+      "transliteration": "zapni Wi-Fi, najdi signal, v klidu",
+      "category": "Technology",
+      "generated_at": "2026-11-05T19:53:33.417623"
+    },
+    {
+      "english": "Pair the headset, test the audio, save",
+      "czech": "Spáruj sluchátka, otestuj zvuk, ulož",
+      "transliteration": "sparuj sluchatka, otestuj zvuk, uloz",
+      "category": "Technology",
+      "generated_at": "2026-11-05T19:53:33.417624"
+    },
+    {
+      "english": "Update the system, patch security, breathe easier",
+      "czech": "Aktualizuj systém, oprav bezpečnost, oddechni si",
+      "transliteration": "aktualizuj system, oprav bezpecnost, oddechni si",
+      "category": "Technology",
+      "generated_at": "2026-11-05T19:53:33.417626"
+    },
+    {
+      "english": "Backup your files, sleep well, stay safe",
+      "czech": "Zálohuj soubory, spi klidně, buď v bezpečí",
+      "transliteration": "zalohuj soubory, spi klidne, buď v bezpeci",
+      "category": "Technology",
+      "generated_at": "2026-11-05T19:53:33.417627"
     }
   ],
-  "last_updated": "2026-11-05T06:38:19.345351"
+  "last_updated": "2026-11-05T19:53:33.417629"
 }
