@@ -23764,7 +23764,42 @@
       "transliteration": "jsem vdecny, poslouchal jsi tak pozorne",
       "category": "Gratitude",
       "generated_at": "2026-11-07T05:53:54.966745"
+    },
+    {
+      "english": "Nice work, keep going, you’ve got this.",
+      "czech": "Skvělé, pokračuj, zvládneš to.",
+      "transliteration": "Skvělé, pokračuj, zvládneš to.",
+      "category": "Success",
+      "generated_at": "2026-11-07T17:44:25.544907"
+    },
+    {
+      "english": "Great progress, take a breath, then speak.",
+      "czech": "Skvělý pokrok, nadechni se, pak mluv.",
+      "transliteration": "Skvělý pokrok, nadechni se, pak mluv.",
+      "category": "Success",
+      "generated_at": "2026-11-07T17:44:25.544920"
+    },
+    {
+      "english": "Perfect timing, now try it again, calmly.",
+      "czech": "Přesný timing, zkus to znovu, v klidu.",
+      "transliteration": "Přesný timing, zkus to znovu, v klidu.",
+      "category": "Success",
+      "generated_at": "2026-11-07T17:44:25.544921"
+    },
+    {
+      "english": "You’re building it, one small step at time.",
+      "czech": "Skládáš to, krok po kroku.",
+      "transliteration": "Skládáš to, krok po kroku.",
+      "category": "Success",
+      "generated_at": "2026-11-07T17:44:25.544923"
+    },
+    {
+      "english": "Good choice of words, keep the flow steady.",
+      "czech": "Dobrá volba slov, drž plynulost.",
+      "transliteration": "Dobrá volba slov, drž plynulost.",
+      "category": "Success",
+      "generated_at": "2026-11-07T17:44:25.544923"
     }
   ],
-  "last_updated": "2026-11-07T05:53:54.966747"
+  "last_updated": "2026-11-07T17:44:25.544925"
 }
