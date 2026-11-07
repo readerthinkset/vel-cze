@@ -23834,7 +23834,42 @@
       "transliteration": "Rano laka, vyjdi pomalu, vnimaj to.",
       "category": "Time",
       "generated_at": "2026-11-07T18:44:44.285628"
+    },
+    {
+      "english": "Where’s the nearest tram stop, please,",
+      "czech": "Kde je nejbližší zastávka tramvaje, prosím,",
+      "transliteration": "Kde je nejbližší zastávka tramvaje, prosím,",
+      "category": "Travel",
+      "generated_at": "2026-11-07T20:51:03.253282"
+    },
+    {
+      "english": "How much is a day ticket, here,",
+      "czech": "Kolik stojí celodenní jízdenka, tady,",
+      "transliteration": "Kolik stojí celodenní jízdenka, tady,",
+      "category": "Travel",
+      "generated_at": "2026-11-07T20:51:03.253294"
+    },
+    {
+      "english": "Does this machine accept contactless cards,",
+      "czech": "Bere tenhle automat bezkontaktní karty,",
+      "transliteration": "Bere tenhle automat bezkontaktní karty,",
+      "category": "Travel",
+      "generated_at": "2026-11-07T20:51:03.253296"
+    },
+    {
+      "english": "Which platform is for tram number five,",
+      "czech": "Z kterého nástupiště jezdí tramvaj pět,",
+      "transliteration": "Z kterého nástupiště jezdí tramvaj pět,",
+      "category": "Travel",
+      "generated_at": "2026-11-07T20:51:03.253298"
+    },
+    {
+      "english": "Is the museum open today, please,",
+      "czech": "Je dnes muzeum otevřené, prosím,",
+      "transliteration": "Je dnes muzeum otevřené, prosím,",
+      "category": "Travel",
+      "generated_at": "2026-11-07T20:51:03.253299"
     }
   ],
-  "last_updated": "2026-11-07T18:44:44.285630"
+  "last_updated": "2026-11-07T20:51:03.253301"
 }
