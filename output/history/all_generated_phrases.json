@@ -24044,7 +24044,42 @@
       "transliteration": "Delej chyby, usmej se, oprav, pokračuj",
       "category": "Education",
       "generated_at": "2026-11-08T21:06:40.182260"
+    },
+    {
+      "english": "Rabbits nibble, in the morning grass.",
+      "czech": "Králíci okusují, v ranní trávě.",
+      "transliteration": "Králici okusují, v ranní trávě.",
+      "category": "Animals",
+      "generated_at": "2026-11-08T23:39:35.220851"
+    },
+    {
+      "english": "A hedgehog shuffles, through dry leaves.",
+      "czech": "Ježek cupitá, mezi suchým listím.",
+      "transliteration": "Ježek cupitá, mezi suchým listím.",
+      "category": "Animals",
+      "generated_at": "2026-11-08T23:39:35.220861"
+    },
+    {
+      "english": "A walrus blows, loud bubbles in water.",
+      "czech": "Odobrík funí, do vody hlasné bubliny.",
+      "transliteration": "Odobrík funí, do vody hlasné bubliny.",
+      "category": "Animals",
+      "generated_at": "2026-11-08T23:39:35.220863"
+    },
+    {
+      "english": "Sea turtles glide, beneath the quiet waves.",
+      "czech": "Mořské želvy kloužou, pod tichými vlnami.",
+      "transliteration": "Mořské želvy kloužou, pod tichými vlnami.",
+      "category": "Animals",
+      "generated_at": "2026-11-08T23:39:35.220865"
+    },
+    {
+      "english": "A parrot mimics, every new sound it hears.",
+      "czech": "Papoušek napodobuje, každý nový zvuk, co slyší.",
+      "transliteration": "Papoušek napodobuje, každý nový zvuk, co slyší.",
+      "category": "Animals",
+      "generated_at": "2026-11-08T23:39:35.220867"
     }
   ],
-  "last_updated": "2026-11-08T21:06:40.182262"
+  "last_updated": "2026-11-08T23:39:35.220869"
 }
