@@ -23939,7 +23939,42 @@
       "transliteration": "Každé slovo je moje, jedno po druhém.",
       "category": "Confidence",
       "generated_at": "2026-11-08T05:55:25.455061"
+    },
+    {
+      "english": "Do you have it in my size, please?",
+      "czech": "Můžete mi to najít v mé velikosti, prosím?",
+      "transliteration": "Mozete mi to najit v me velikosti, prosim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T17:54:42.723445"
+    },
+    {
+      "english": "Is there a sale today, by chance?",
+      "czech": "Je dnes nějaká sleva, náhodou?",
+      "transliteration": "Je dnes nejaka sleva, nahodou?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T17:54:42.723457"
+    },
+    {
+      "english": "Where can I find accessories, please?",
+      "czech": "Kde najdu doplňky, prosím?",
+      "transliteration": "Kde najdu doplnky, prosim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T17:54:42.723459"
+    },
+    {
+      "english": "Could I pay by card, here?",
+      "czech": "Můžu tady platit kartou, prosím?",
+      "transliteration": "Muzu tady platit kartou, prosim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T17:54:42.723461"
+    },
+    {
+      "english": "Does this come with a receipt?",
+      "czech": "Je k tomu účtenka, prosím?",
+      "transliteration": "Je k tomu uctenka, prosim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-08T17:54:42.723462"
     }
   ],
-  "last_updated": "2026-11-08T05:55:25.455063"
+  "last_updated": "2026-11-08T17:54:42.723464"
 }
