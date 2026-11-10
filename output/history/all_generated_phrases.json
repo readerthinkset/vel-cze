@@ -24324,7 +24324,42 @@
       "transliteration": "Nech to slovo plynout prirozene, dobre?",
       "category": "Directions",
       "generated_at": "2026-11-10T08:27:05.210151"
+    },
+    {
+      "english": "I’m sorry, for what I said.",
+      "czech": "Omlouvám se, za to, co jsem řekl.",
+      "transliteration": "Omloŭvám se, za to, co jsem řekl.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T19:04:12.398047"
+    },
+    {
+      "english": "Please forgive me, I didn’t mean it.",
+      "czech": "Prosím, odpusť mi, nechtěl jsem to.",
+      "transliteration": "Prosím, odpusť mi, nechtěl jsem to.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T19:04:12.398059"
+    },
+    {
+      "english": "I take blame, and I’m truly sorry.",
+      "czech": "Beru vinu na sebe, a opravdu mě to mrzí.",
+      "transliteration": "Beru vinu na sebe, a opravdu mě to mrzí.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T19:04:12.398061"
+    },
+    {
+      "english": "I messed up, and I’m sorry.",
+      "czech": "Zkazil jsem to, a je mi to líto.",
+      "transliteration": "Zkazil jsem to, a je mi to líto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T19:04:12.398062"
+    },
+    {
+      "english": "I hurt you, I’m sorry, really.",
+      "czech": "Ublížil jsem ti, opravdu se omlouvám.",
+      "transliteration": "Ublížil jsem ti, opravdu se omlouvám.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-10T19:04:12.398064"
     }
   ],
-  "last_updated": "2026-11-10T08:27:05.210154"
+  "last_updated": "2026-11-10T19:04:12.398065"
 }
