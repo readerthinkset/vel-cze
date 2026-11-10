@@ -24289,7 +24289,42 @@
       "transliteration": "Ochutnej kolac, sdilej ho pomalu, s pratelí.",
       "category": "Culture",
       "generated_at": "2026-11-10T07:22:46.382999"
+    },
+    {
+      "english": "Start with the word slowly, please.",
+      "czech": "Začni to slovo pomalu, prosím.",
+      "transliteration": "Zachni to slovo pomalu, prosím.",
+      "category": "Directions",
+      "generated_at": "2026-11-10T08:27:05.210132"
+    },
+    {
+      "english": "Now say it, but a bit faster.",
+      "czech": "Teď to řekni o trochu rychleji.",
+      "transliteration": "Ted to rekni o trochu rychleji.",
+      "category": "Directions",
+      "generated_at": "2026-11-10T08:27:05.210143"
+    },
+    {
+      "english": "Repeat after me, without rushing.",
+      "czech": "Opakuj za mnou, bez spěchu.",
+      "transliteration": "Opakuj za mnou, bez spěchu.",
+      "category": "Directions",
+      "generated_at": "2026-11-10T08:27:05.210145"
+    },
+    {
+      "english": "Keep your lips relaxed while saying it.",
+      "czech": "Při tom nech rty uvolněné.",
+      "transliteration": "Pri tom nech rty uvolněné.",
+      "category": "Directions",
+      "generated_at": "2026-11-10T08:27:05.210147"
+    },
+    {
+      "english": "Let the word flow naturally, okay?",
+      "czech": "Nech to slovo plynout přirozeně, dobře?",
+      "transliteration": "Nech to slovo plynout prirozene, dobre?",
+      "category": "Directions",
+      "generated_at": "2026-11-10T08:27:05.210151"
     }
   ],
-  "last_updated": "2026-11-10T07:22:46.383001"
+  "last_updated": "2026-11-10T08:27:05.210154"
 }
