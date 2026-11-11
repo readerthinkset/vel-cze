@@ -24569,7 +24569,42 @@
       "transliteration": "Dnes se cítím překvapivě sebejistě.",
       "category": "Feelings",
       "generated_at": "2026-11-11T21:02:56.395491"
+    },
+    {
+      "english": "Take the first risk, then breathe.",
+      "czech": "Vezmi první risk, pak se nadechni.",
+      "transliteration": "Vezímı prvorni risk, pak se nadechni.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T23:17:06.484194"
+    },
+    {
+      "english": "Say it anyway, even if shaky.",
+      "czech": "Řekni to tak i tak, i když se třeseš.",
+      "transliteration": "Řekni to tak i tak, i když se tře sež.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T23:17:06.484207"
+    },
+    {
+      "english": "Ask for help, no shame.",
+      "czech": "Požádej o pomoc, bez studu.",
+      "transliteration": "Požádej o pomoc, bez studu.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T23:17:06.484209"
+    },
+    {
+      "english": "Make the call, and move forward.",
+      "czech": "Zavolej, a jdi dál.",
+      "transliteration": "Zavolej, a jdi dál.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T23:17:06.484210"
+    },
+    {
+      "english": "Go ahead, the fear can stay.",
+      "czech": "Jdi dál, strach může zůstat.",
+      "transliteration": "Jdi dál, strach může zustat.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T23:17:06.484210"
     }
   ],
-  "last_updated": "2026-11-11T21:02:56.395493"
+  "last_updated": "2026-11-11T23:17:06.484212"
 }
