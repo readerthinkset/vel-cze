@@ -24744,7 +24744,42 @@
       "transliteration": "jen seh DEE-vam, DI-ky",
       "category": "Common Expressions",
       "generated_at": "2026-11-12T21:17:24.186479"
+    },
+    {
+      "english": "Great job, your sentence sounds natural.",
+      "czech": "Skvělé, tvoje věta zní přirozeně.",
+      "transliteration": "Skvelé, tvoje věta zní přirozeně.",
+      "category": "Success",
+      "generated_at": "2026-11-12T22:33:18.088367"
+    },
+    {
+      "english": "You nailed it, that’s the right word.",
+      "czech": "Povedlo se, tohle je správné slovo.",
+      "transliteration": "Povedlo se, tohle je správné slovo.",
+      "category": "Success",
+      "generated_at": "2026-11-12T22:33:18.088379"
+    },
+    {
+      "english": "Nice work, you’re getting faster now.",
+      "czech": "Výborně, už to jde rychleji.",
+      "transliteration": "Výborně, už to jde rychleji.",
+      "category": "Success",
+      "generated_at": "2026-11-12T22:33:18.088381"
+    },
+    {
+      "english": "Awesome, your Czech sounds confident.",
+      "czech": "Super, tvoje čeština zní sebevědomě.",
+      "transliteration": "Super, tvoje cěština zní sebevědomě.",
+      "category": "Success",
+      "generated_at": "2026-11-12T22:33:18.088382"
+    },
+    {
+      "english": "Yes, that’s exactly how we say it.",
+      "czech": "Ano, přesně takhle to říkáme.",
+      "transliteration": "Ano, přesně takhle to říkáme.",
+      "category": "Success",
+      "generated_at": "2026-11-12T22:33:18.088383"
     }
   ],
-  "last_updated": "2026-11-12T21:17:24.186481"
+  "last_updated": "2026-11-12T22:33:18.088384"
 }
