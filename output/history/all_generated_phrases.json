@@ -24604,7 +24604,42 @@
       "transliteration": "Jdi dál, strach může zustat.",
       "category": "Courage",
       "generated_at": "2026-11-11T23:17:06.484210"
+    },
+    {
+      "english": "My head hurts, today feels heavy.",
+      "czech": "Můj bolí hlava, dnes to tíží.",
+      "transliteration": "Můj bolí hlava, dnes to tíží.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T01:48:50.884653"
+    },
+    {
+      "english": "Her back aches after the long drive.",
+      "czech": "Její záda bolí po dlouhé jízdě.",
+      "transliteration": "Její záda bolí po dlouhé jízdě.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T01:48:50.884667"
+    },
+    {
+      "english": "His chest feels tight, for a moment.",
+      "czech": "Jeho hrudník se na chvíli sevřel.",
+      "transliteration": "Jeho hrudník se na chvíli sevřel.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T01:48:50.884668"
+    },
+    {
+      "english": "My stomach growls, I need food.",
+      "czech": "Mám kručivý žaludek, potřebuju jídlo.",
+      "transliteration": "Mám kručivý žaludek, potřebuju jídlo.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T01:48:50.884669"
+    },
+    {
+      "english": "Her belly feels warm, the soup helped.",
+      "czech": "Břicho jí hřeje, polévka pomohla.",
+      "transliteration": "Břicho jí hřeje, polévka pomohla.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-12T01:48:50.884670"
     }
   ],
-  "last_updated": "2026-11-11T23:17:06.484212"
+  "last_updated": "2026-11-12T01:48:50.884671"
 }
