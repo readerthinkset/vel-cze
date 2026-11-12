@@ -24709,7 +24709,42 @@
       "transliteration": "Pokračuj, tvoje snaha má smysl.",
       "category": "Hope",
       "generated_at": "2026-11-12T19:20:18.137556"
+    },
+    {
+      "english": "No worries, it happens sometimes.",
+      "czech": "Nevadí, stává se to někdy.",
+      "transliteration": "ne-VAH-dee, stah-vah se toh NĚK-dee",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T21:17:24.186456"
+    },
+    {
+      "english": "Thanks, that helps a lot.",
+      "czech": "Děkuju, to hodně pomůže.",
+      "transliteration": "JEH-koo-yoo, toh HOD-něh PO-mo-zhEH",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T21:17:24.186474"
+    },
+    {
+      "english": "Could you say that again, please?",
+      "czech": "Můžete to prosím zopakovat?",
+      "transliteration": "MOO-zhuh-teh toh PRO-sim zoh-PA-koh-vat",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T21:17:24.186476"
+    },
+    {
+      "english": "Where is the nearest tram stop?",
+      "czech": "Kde je nejbližší zastávka tramvaje?",
+      "transliteration": "KDE je NEY-bliz-shi zah-stahv-kah tram-vah-ye",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T21:17:24.186477"
+    },
+    {
+      "english": "I’m just browsing, thanks.",
+      "czech": "Jen se dívám, díky.",
+      "transliteration": "jen seh DEE-vam, DI-ky",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T21:17:24.186479"
     }
   ],
-  "last_updated": "2026-11-12T19:20:18.137558"
+  "last_updated": "2026-11-12T21:17:24.186481"
 }
