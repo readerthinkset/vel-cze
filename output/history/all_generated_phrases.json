@@ -24639,7 +24639,42 @@
       "transliteration": "Břicho jí hřeje, polévka pomohla.",
       "category": "Body Parts",
       "generated_at": "2026-11-12T01:48:50.884670"
+    },
+    {
+      "english": "I wake up, and smile a little.",
+      "czech": "Probudím se, a trochu se usměju.",
+      "transliteration": "probu-dim se, a trochu se usmeju",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T04:32:50.628366"
+    },
+    {
+      "english": "I roll out of bed, today.",
+      "czech": "Vylezu z postele, dneska.",
+      "transliteration": "vy-le-zu z pos-te-le, dnes-ka",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T04:32:50.628380"
+    },
+    {
+      "english": "I open the curtains, let light in.",
+      "czech": "Otevřu závěsy, pustím světlo dovnitř.",
+      "transliteration": "otev-řu zá-vě-sy, pustim svě-tlo do-vnitř",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T04:32:50.628382"
+    },
+    {
+      "english": "I drink water, just to start.",
+      "czech": "Dám si vodu, jen tak na začátek.",
+      "transliteration": "daam si vo-du, jen tak na za-čá-tek",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T04:32:50.628383"
+    },
+    {
+      "english": "I put on coffee, while I get ready.",
+      "czech": "Zapnu kávu, než se obleču.",
+      "transliteration": "za pnu ká-vu, než se oble-ču",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T04:32:50.628385"
     }
   ],
-  "last_updated": "2026-11-12T01:48:50.884671"
+  "last_updated": "2026-11-12T04:32:50.628387"
 }
