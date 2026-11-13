@@ -24919,7 +24919,42 @@
       "transliteration": "MUžu si to proHLEdnout TADy?",
       "category": "Shopping",
       "generated_at": "2026-11-13T20:45:22.839733"
+    },
+    {
+      "english": "I'd like the menu, please.",
+      "czech": "Dostal bych jídelní lístek, prosím.",
+      "transliteration": "Dosta l bych yieldelni lik stik, prosim.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T22:22:25.131032"
+    },
+    {
+      "english": "How long will the food take?",
+      "czech": "Jak dlouho bude trvat jídlo?",
+      "transliteration": "Jak dlouho bude trvat yidlo?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T22:22:25.131046"
+    },
+    {
+      "english": "Could we get water, please?",
+      "czech": "Můžeme dostat vodu, prosím?",
+      "transliteration": "Muzhe dostat vodu, prosim?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T22:22:25.131047"
+    },
+    {
+      "english": "Do you have fresh salads today?",
+      "czech": "Máte dnes čerstvé saláty?",
+      "transliteration": "Mate dnes cherstve sala ty?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T22:22:25.131049"
+    },
+    {
+      "english": "I'll have something with chicken.",
+      "czech": "Dám si něco s kuřetem.",
+      "transliteration": "Dam si neco s kuret em.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T22:22:25.131050"
     }
   ],
-  "last_updated": "2026-11-13T20:45:22.839736"
+  "last_updated": "2026-11-13T22:22:25.131052"
 }
