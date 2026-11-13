@@ -24884,7 +24884,42 @@
       "transliteration": "Mraky se trhají, vrací se svétlo.",
       "category": "Weather",
       "generated_at": "2026-11-13T18:57:01.819462"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "czech": "Máte tohle skladem?",
+      "transliteration": "MAte TOhle SKLAdem?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T20:45:22.839713"
+    },
+    {
+      "english": "Is there a discount on this?",
+      "czech": "Je na tohle sleva?",
+      "transliteration": "Je NA TOhle SLEva?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T20:45:22.839727"
+    },
+    {
+      "english": "What sizes do you carry?",
+      "czech": "Jaké velikosti tu máte?",
+      "transliteration": "JAke VELikoSTi tu MAte?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T20:45:22.839729"
+    },
+    {
+      "english": "Does it run small or big?",
+      "czech": "Sedí to spíš menší, nebo větší?",
+      "transliteration": "SEDí to SPIŠ MENší, nebo VĚTŠí?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T20:45:22.839731"
+    },
+    {
+      "english": "Can I see it in person?",
+      "czech": "Můžu si to prohlédnout tady?",
+      "transliteration": "MUžu si to proHLEdnout TADy?",
+      "category": "Shopping",
+      "generated_at": "2026-11-13T20:45:22.839733"
     }
   ],
-  "last_updated": "2026-11-13T18:57:01.819463"
+  "last_updated": "2026-11-13T20:45:22.839736"
 }
