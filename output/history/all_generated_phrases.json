@@ -24849,7 +24849,42 @@
       "transliteration": "rikej to pomalu, usta se uci",
       "category": "Motivation",
       "generated_at": "2026-11-13T03:47:03.305445"
+    },
+    {
+      "english": "Clear skies, a bright blue day.",
+      "czech": "Jasná obloha, krásný modrý den.",
+      "transliteration": "Yasna obloha, krasny modry den.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T18:57:01.819443"
+    },
+    {
+      "english": "Light wind lifts my jacket collar.",
+      "czech": "Lehký vítr zvedá mi límec.",
+      "transliteration": "Lehky vitr zvedá mi límec.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T18:57:01.819455"
+    },
+    {
+      "english": "It’s breezy, feels fresh outside.",
+      "czech": "Je větrno, venku je svěže.",
+      "transliteration": "Je veterno, venku je sveze.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T18:57:01.819459"
+    },
+    {
+      "english": "The sun is out, and warm.",
+      "czech": "Slunce svítí, a hřeje.",
+      "transliteration": "Slunce sviti, a hřeje.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T18:57:01.819460"
+    },
+    {
+      "english": "The clouds break, and light returns.",
+      "czech": "Mraky se trhají, vrací se světlo.",
+      "transliteration": "Mraky se trhají, vrací se svétlo.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T18:57:01.819462"
     }
   ],
-  "last_updated": "2026-11-13T03:47:03.305447"
+  "last_updated": "2026-11-13T18:57:01.819463"
 }
