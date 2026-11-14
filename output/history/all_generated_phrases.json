@@ -24954,7 +24954,42 @@
       "transliteration": "Dam si neco s kuret em.",
       "category": "Restaurant",
       "generated_at": "2026-11-13T22:22:25.131050"
+    },
+    {
+      "english": "Hello, how are you today?",
+      "czech": "Ahoj, jak se dnes máš?",
+      "transliteration": "Ahoj, jak se dnes mas?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:42:53.651827"
+    },
+    {
+      "english": "Good evening, I’m glad to see you.",
+      "czech": "Dobrý večer, těší mě, že vás vidím.",
+      "transliteration": "Dobrý večer, těší mě, že vás vidím",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:42:53.651841"
+    },
+    {
+      "english": "Please, speak a bit more slowly.",
+      "czech": "Prosím, mluv pomaleji, trochu víc.",
+      "transliteration": "Prosím, mluv pomaleji, trochu víc",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:42:53.651842"
+    },
+    {
+      "english": "I would like two tickets, please.",
+      "czech": "Chtěl bych dvě jízdenky, prosím.",
+      "transliteration": "Chtěl bych dvě jízdenky, prosím",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:42:53.651843"
+    },
+    {
+      "english": "Do you have this in a smaller size?",
+      "czech": "Máte tohle v menší velikosti?",
+      "transliteration": "Máte tohle v menší velikosti?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-14T00:42:53.651844"
     }
   ],
-  "last_updated": "2026-11-13T22:22:25.131052"
+  "last_updated": "2026-11-14T00:42:53.651845"
 }
