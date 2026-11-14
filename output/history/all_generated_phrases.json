@@ -25059,7 +25059,42 @@
       "transliteration": "Můžu si prohlédnout jídelní lístek, prosím?",
       "category": "Travel",
       "generated_at": "2026-11-14T17:28:35.465704"
+    },
+    {
+      "english": "Help, I’m having chest pain right now.",
+      "czech": "Pomozte, teď mě bolí na hrudi.",
+      "transliteration": "Pomozte, teď mě bolí na hrudi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T18:56:57.291360"
+    },
+    {
+      "english": "Please call 155, I feel faint.",
+      "czech": "Prosím volejte 155, jsem na omdlení.",
+      "transliteration": "Prosím volejte 155, jsem na omdlení.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T18:56:57.291375"
+    },
+    {
+      "english": "I swallowed something, it feels stuck.",
+      "czech": "Polkl jsem něco, mám to v krku.",
+      "transliteration": "Polkl jsem něco, mám to v krku.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T18:56:57.291376"
+    },
+    {
+      "english": "My hands are burning from chemicals.",
+      "czech": "Mám popálené ruce od chemikálií.",
+      "transliteration": "Mám popálené ruce od chemikálií.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T18:56:57.291378"
+    },
+    {
+      "english": "Someone hit me, I need help fast.",
+      "czech": "Někdo mě udeřil, potřebuji rychle pomoc.",
+      "transliteration": "Někdo mě udeřil, potřebuji rychle pomoc.",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T18:56:57.291379"
     }
   ],
-  "last_updated": "2026-11-14T17:28:35.465705"
+  "last_updated": "2026-11-14T18:56:57.291381"
 }
