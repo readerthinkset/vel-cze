@@ -25024,7 +25024,42 @@
       "transliteration": "Dodrž svuj slib, i když to boli.",
       "category": "Strength",
       "generated_at": "2026-11-14T03:44:50.609086"
+    },
+    {
+      "english": "Where is the train station, please?",
+      "czech": "Kde je nádraží, prosím?",
+      "transliteration": "Kde je nadraží, prosím?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T17:28:35.465684"
+    },
+    {
+      "english": "How do I get to Prague Castle?",
+      "czech": "Jak se dostanu na Pražský hrad?",
+      "transliteration": "Jak se dostanu na Pražský hrad?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T17:28:35.465701"
+    },
+    {
+      "english": "Is there a bus to the center?",
+      "czech": "Jezdí tady autobus do centra?",
+      "transliteration": "Jezdí tady autobus do centra?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T17:28:35.465702"
+    },
+    {
+      "english": "What time does the last tram leave?",
+      "czech": "Kdy odjíždí poslední tramvaj?",
+      "transliteration": "Kdy odjíždí poslední tramvaj?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T17:28:35.465703"
+    },
+    {
+      "english": "Could I see the menu, please?",
+      "czech": "Můžu si prohlédnout jídelní lístek, prosím?",
+      "transliteration": "Můžu si prohlédnout jídelní lístek, prosím?",
+      "category": "Travel",
+      "generated_at": "2026-11-14T17:28:35.465704"
     }
   ],
-  "last_updated": "2026-11-14T03:44:50.609088"
+  "last_updated": "2026-11-14T17:28:35.465705"
 }
