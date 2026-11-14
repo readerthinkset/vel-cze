@@ -25094,7 +25094,42 @@
       "transliteration": "Někdo mě udeřil, potřebuji rychle pomoc.",
       "category": "Emergency",
       "generated_at": "2026-11-14T18:56:57.291379"
+    },
+    {
+      "english": "Turn on Bluetooth, connect quickly.",
+      "czech": "Zapni Bluetooth, rychle se připojíš.",
+      "transliteration": "Zapni Bluetooth, rychle se pripojis.",
+      "category": "Technology",
+      "generated_at": "2026-11-14T21:05:12.445747"
+    },
+    {
+      "english": "Scan the QR code, follow the link.",
+      "czech": "Skenuj QR kód, otevři odkaz.",
+      "transliteration": "Skenuj QR kod, otevri odkaz.",
+      "category": "Technology",
+      "generated_at": "2026-11-14T21:05:12.445763"
+    },
+    {
+      "english": "Enable location, for better recommendations.",
+      "czech": "Zapni polohu, pro lepší doporučení.",
+      "transliteration": "Zapni polohu, pro lepsi doporuceni.",
+      "category": "Technology",
+      "generated_at": "2026-11-14T21:05:12.445764"
+    },
+    {
+      "english": "Adjust brightness, make the screen comfortable.",
+      "czech": "Nastav jas, ať je to příjemné.",
+      "transliteration": "Nastav jas, ať je to prijemne.",
+      "category": "Technology",
+      "generated_at": "2026-11-14T21:05:12.445766"
+    },
+    {
+      "english": "Set a strong password, stay secure.",
+      "czech": "Nastav silné heslo, buď v bezpečí.",
+      "transliteration": "Nastav silne heslo, bud v bezpeci.",
+      "category": "Technology",
+      "generated_at": "2026-11-14T21:05:12.445767"
     }
   ],
-  "last_updated": "2026-11-14T18:56:57.291381"
+  "last_updated": "2026-11-14T21:05:12.445769"
 }
