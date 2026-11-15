@@ -25269,7 +25269,42 @@
       "transliteration": "Tvoje obejmutí spraví celý můj den.",
       "category": "Love",
       "generated_at": "2026-11-15T19:32:20.493718"
+    },
+    {
+      "english": "Can you send the report today?",
+      "czech": "Můžeš dnes poslat tu zprávu?",
+      "transliteration": "Můžeš dnes poslat tu zprávu?",
+      "category": "Work",
+      "generated_at": "2026-11-15T21:27:34.493384"
+    },
+    {
+      "english": "I’ll review it and get back.",
+      "czech": "Projednám to a ozvu se později.",
+      "transliteration": "Projednám to a ozvu se později.",
+      "category": "Work",
+      "generated_at": "2026-11-15T21:27:34.493397"
+    },
+    {
+      "english": "Let’s schedule a quick call.",
+      "czech": "Naplánujme si rychlý hovor.",
+      "transliteration": "Naplánujme si rychlý hovor.",
+      "category": "Work",
+      "generated_at": "2026-11-15T21:27:34.493399"
+    },
+    {
+      "english": "Could you clarify that point, please?",
+      "czech": "Můžeš prosím upřesnit ten bod?",
+      "transliteration": "Můžeš prosím upřesnit ten bod?",
+      "category": "Work",
+      "generated_at": "2026-11-15T21:27:34.493400"
+    },
+    {
+      "english": "I need this by end of day.",
+      "czech": "Potřebuju to do konce dne.",
+      "transliteration": "Potřebuju to do konce dne.",
+      "category": "Work",
+      "generated_at": "2026-11-15T21:27:34.493401"
     }
   ],
-  "last_updated": "2026-11-15T19:32:20.493721"
+  "last_updated": "2026-11-15T21:27:34.493403"
 }
