@@ -25339,7 +25339,42 @@
       "transliteration": "lask-a-vost se shi-ry, ee bez slov",
       "category": "Positive Life",
       "generated_at": "2026-11-15T23:47:36.638850"
+    },
+    {
+      "english": "Could I have a sandwich, please?",
+      "czech": "Mohl bych si dát sendvič, prosím?",
+      "transliteration": "Mo-hl bych si dát send-vič, pro-sím?",
+      "category": "Food",
+      "generated_at": "2026-11-16T03:24:27.278812"
+    },
+    {
+      "english": "Is this soup, still hot?",
+      "czech": "Je ta polévka pořád horká?",
+      "transliteration": "Je ta po-lev-ka po-rád hor-ká?",
+      "category": "Food",
+      "generated_at": "2026-11-16T03:24:27.278824"
+    },
+    {
+      "english": "I’m craving something sweet right now.",
+      "czech": "Mám chuť na něco sladkého.",
+      "transliteration": "Mám chuť na ně-co slad-ké-ho.",
+      "category": "Food",
+      "generated_at": "2026-11-16T03:24:27.278826"
+    },
+    {
+      "english": "Do you have vegetarian options today?",
+      "czech": "Máte dnes něco i pro vegetariány?",
+      "transliteration": "Má-te dnes ně-co i pro ve-ge-ta-ri-á-ny?",
+      "category": "Food",
+      "generated_at": "2026-11-16T03:24:27.278827"
+    },
+    {
+      "english": "Please, make it less salty.",
+      "czech": "Prosím, dejte to méně slané.",
+      "transliteration": "Pro-sím, dej-te to mé-ně slá-né.",
+      "category": "Food",
+      "generated_at": "2026-11-16T03:24:27.278829"
     }
   ],
-  "last_updated": "2026-11-15T23:47:36.638852"
+  "last_updated": "2026-11-16T03:24:27.278830"
 }
