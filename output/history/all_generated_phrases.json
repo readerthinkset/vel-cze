@@ -25409,7 +25409,42 @@
       "transliteration": "Z úsměvu mě bolí tváře.",
       "category": "Joy",
       "generated_at": "2026-11-16T21:26:07.634421"
+    },
+    {
+      "english": "Hi! How are you today?",
+      "czech": "Ahoj! Jak se máš dnes?",
+      "transliteration": "Ahoj! Jak se maš dnes?",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:11:59.380878"
+    },
+    {
+      "english": "Good morning, have a great day!",
+      "czech": "Dobré ráno, ať se ti daří!",
+      "transliteration": "Dobré ráno, ať se ti daří!",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:11:59.380894"
+    },
+    {
+      "english": "Nice to meet you, really!",
+      "czech": "Těší mě, moc rád vás poznávám.",
+      "transliteration": "Těší mě, moc rád vás poznávám.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:11:59.380896"
+    },
+    {
+      "english": "Hey, what’s up? Let’s chat!",
+      "czech": "Čau, co je nového? Pojď si povídat!",
+      "transliteration": "Čau, co je nového? Pojď si povídat!",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:11:59.380897"
+    },
+    {
+      "english": "Hello, welcome in, please!",
+      "czech": "Dobrý den, pojďte dál.",
+      "transliteration": "Dobrý den, pojďte dál.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T23:11:59.380898"
     }
   ],
-  "last_updated": "2026-11-16T21:26:07.634423"
+  "last_updated": "2026-11-16T23:11:59.380900"
 }
