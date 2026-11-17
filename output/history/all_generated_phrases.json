@@ -25549,7 +25549,42 @@
       "transliteration": "Trénuj každý den, jedna věta stačí.",
       "category": "Purpose",
       "generated_at": "2026-11-17T05:25:55.796900"
+    },
+    {
+      "english": "Slow down, and breathe, you’re learning.",
+      "czech": "Zpomal, nadechni se, učíš se.",
+      "transliteration": "Zpomaaaal, nadechni se, ucís se.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:14:28.071868"
+    },
+    {
+      "english": "Say it again, calmly, no pressure.",
+      "czech": "Řekni to znovu, klidně, bez tlaku.",
+      "transliteration": "Rekni to znovu, klidně, bez tlaku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:14:28.071882"
+    },
+    {
+      "english": "Great, keep going, you’re getting closer.",
+      "czech": "Výborně, pokračuj, jsi blíž.",
+      "transliteration": "Vyborně, pokračuj, jsi blíž.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:14:28.071884"
+    },
+    {
+      "english": "Trust yourself, it will sound better.",
+      "czech": "Věř si, bude to znít líp.",
+      "transliteration": "Ver si, bude to znít líp.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:14:28.071886"
+    },
+    {
+      "english": "Good job—now try the next word.",
+      "czech": "Dobře, teď zkus další slovo.",
+      "transliteration": "Dobře, teď zkus další slovo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T20:14:28.071887"
     }
   ],
-  "last_updated": "2026-11-17T05:25:55.796903"
+  "last_updated": "2026-11-17T20:14:28.071890"
 }
