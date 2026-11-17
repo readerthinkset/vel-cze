@@ -25584,7 +25584,42 @@
       "transliteration": "Dobře, teď zkus další slovo.",
       "category": "Confidence",
       "generated_at": "2026-11-17T20:14:28.071887"
+    },
+    {
+      "english": "I bought six apples today.",
+      "czech": "Koupil jsem šest jablek dnes.",
+      "transliteration": "Koupil jsem šest ya-bel-k dnes.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T22:00:48.764886"
+    },
+    {
+      "english": "Can you bring me seven cups?",
+      "czech": "Můžeš mi přinést sedm hrnků?",
+      "transliteration": "Můžeš mi prinesť sedm hrnků?",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T22:00:48.764899"
+    },
+    {
+      "english": "We have eight minutes left.",
+      "czech": "Máme ještě osm minut.",
+      "transliteration": "Máme ještě osm minut.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T22:00:48.764901"
+    },
+    {
+      "english": "I need nine stamps on this form.",
+      "czech": "Potřebuji devět známek na formulář.",
+      "transliteration": "Potřebuju de-vět zna-mek na for-mu-lář.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T22:00:48.764902"
+    },
+    {
+      "english": "Only ten minutes, then we go.",
+      "czech": "Jen deset minut, a pak jdeme.",
+      "transliteration": "Jen deset minut, a pak jde-me.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T22:00:48.764903"
     }
   ],
-  "last_updated": "2026-11-17T20:14:28.071890"
+  "last_updated": "2026-11-17T22:00:48.764906"
 }
