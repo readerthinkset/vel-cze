@@ -25689,7 +25689,42 @@
       "transliteration": "Tyhle dziny mi dobre sedi.",
       "category": "Clothes",
       "generated_at": "2026-11-18T02:10:38.654847"
+    },
+    {
+      "english": "Birds wake up, singing from the trees.",
+      "czech": "Ptáci se probouzejí, zpívají ze stromů.",
+      "transliteration": "Ptáki se probouzejí, zpivají ze stromů.",
+      "category": "Nature",
+      "generated_at": "2026-11-18T04:51:56.492857"
+    },
+    {
+      "english": "The lake is still, like glass.",
+      "czech": "Jezero je klidné, jako sklo.",
+      "transliteration": "Jezero je klidné, jako sklo.",
+      "category": "Nature",
+      "generated_at": "2026-11-18T04:51:56.492869"
+    },
+    {
+      "english": "Rain falls softly, on the roof.",
+      "czech": "Déšť padá tiše, na střechu.",
+      "transliteration": "Déšť padá tiše, na střechu.",
+      "category": "Nature",
+      "generated_at": "2026-11-18T04:51:56.492871"
+    },
+    {
+      "english": "The wind cools us, in the alley.",
+      "czech": "Vítr nás ochlazuje, v uličce.",
+      "transliteration": "Vítr nás ochlazuje, v uličce.",
+      "category": "Nature",
+      "generated_at": "2026-11-18T04:51:56.492873"
+    },
+    {
+      "english": "I follow the trail, through tall grass.",
+      "czech": "Jdu po stezce, mezi vysokou trávou.",
+      "transliteration": "Jdu po stezce, mezi vysokou travou.",
+      "category": "Nature",
+      "generated_at": "2026-11-18T04:51:56.492874"
     }
   ],
-  "last_updated": "2026-11-18T02:10:38.654849"
+  "last_updated": "2026-11-18T04:51:56.492876"
 }
