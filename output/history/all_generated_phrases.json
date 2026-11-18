@@ -25654,7 +25654,42 @@
       "transliteration": "Učím se, tak buď trpělivý.",
       "category": "Education",
       "generated_at": "2026-11-17T23:43:44.304021"
+    },
+    {
+      "english": "I’m looking for a smaller size.",
+      "czech": "Hledám menší velikost.",
+      "transliteration": "Hledam mensi velikost.",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T02:10:38.654830"
+    },
+    {
+      "english": "This T-shirt feels so soft.",
+      "czech": "Tahle tričko je tak příjemné.",
+      "transliteration": "Tahle tricko je tak prijemne.",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T02:10:38.654842"
+    },
+    {
+      "english": "Do you have it in black?",
+      "czech": "Máte to v černé barvě?",
+      "transliteration": "Mate to v cerne barve?",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T02:10:38.654844"
+    },
+    {
+      "english": "Can I check the material?",
+      "czech": "Můžu si prohlédnout materiál?",
+      "transliteration": "Muzhu si prohlednout material?",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T02:10:38.654845"
+    },
+    {
+      "english": "These jeans fit my legs.",
+      "czech": "Tyhle džíny mi dobře sedí.",
+      "transliteration": "Tyhle dziny mi dobre sedi.",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T02:10:38.654847"
     }
   ],
-  "last_updated": "2026-11-17T23:43:44.304022"
+  "last_updated": "2026-11-18T02:10:38.654849"
 }
