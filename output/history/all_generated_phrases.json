@@ -25724,7 +25724,42 @@
       "transliteration": "Jdu po stezce, mezi vysokou travou.",
       "category": "Nature",
       "generated_at": "2026-11-18T04:51:56.492874"
+    },
+    {
+      "english": "I’m sorry, for hurting you.",
+      "czech": "Omlouvám se, že jsem ti ublížil.",
+      "transliteration": "Omlouvám se, že jsem ti ublížil.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T20:10:16.968475"
+    },
+    {
+      "english": "I take responsibility, and I’m sorry.",
+      "czech": "Beru to na sebe, a je mi to líto.",
+      "transliteration": "Beru to na sebe, a je mi to líto.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T20:10:16.968491"
+    },
+    {
+      "english": "I said it wrong, please forgive me.",
+      "czech": "Řekl jsem to špatně, promiň mi.",
+      "transliteration": "Řekl jsem to špatně, promiň mi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T20:10:16.968493"
+    },
+    {
+      "english": "I understand it hurt you deeply.",
+      "czech": "Chápu, že ses toho hodně dotkl.",
+      "transliteration": "Chápu, že ses toho hodně dotkl.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T20:10:16.968495"
+    },
+    {
+      "english": "I’m sorry, I’ll do better next time.",
+      "czech": "Omlouvám se, příště to udělám líp.",
+      "transliteration": "Omlouvám se, příště to udělám líp.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-18T20:10:16.968496"
     }
   ],
-  "last_updated": "2026-11-18T04:51:56.492876"
+  "last_updated": "2026-11-18T20:10:16.968498"
 }
