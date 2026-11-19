@@ -25934,7 +25934,42 @@
       "transliteration": "Smějeme se spolu i ve zlých dnech.",
       "category": "Relationships",
       "generated_at": "2026-11-19T19:45:25.900372"
+    },
+    {
+      "english": "Just a sec, stay with it.",
+      "czech": "Jen chvilku, zůstaň u toho.",
+      "transliteration": "Jen chvIlku, zůstAn u toho.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T21:58:11.362203"
+    },
+    {
+      "english": "Hold on, it will pass.",
+      "czech": "Vydrž, brzy to přejde.",
+      "transliteration": "Vydrž, brzy to przejde.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T21:58:11.362218"
+    },
+    {
+      "english": "Wait, it clicks into place.",
+      "czech": "Počkej, ono to zapadne.",
+      "transliteration": "Počkej, ono to zapadne.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T21:58:11.362220"
+    },
+    {
+      "english": "Be patient, you’ll figure it out.",
+      "czech": "Buď trpělivý, zjistíš to.",
+      "transliteration": "Buď trpělivý, zjistíš to.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T21:58:11.362222"
+    },
+    {
+      "english": "Slow down, don’t rush things.",
+      "czech": "Zpomal, nespěchej.",
+      "transliteration": "ZpomAl, nespěchej.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T21:58:11.362223"
     }
   ],
-  "last_updated": "2026-11-19T19:45:25.900373"
+  "last_updated": "2026-11-19T21:58:11.362225"
 }
