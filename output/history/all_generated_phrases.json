@@ -26074,7 +26074,42 @@
       "transliteration": "Muzete mi prosim pomoct?",
       "category": "Common Expressions",
       "generated_at": "2026-11-20T04:34:00.136075"
+    },
+    {
+      "english": "Thank you, I really needed this.",
+      "czech": "Děkuji, opravdu jsem to potřeboval.",
+      "transliteration": "De-koo-ji, or-zve-ly ma si o-tre-bo-val.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:27:49.004059"
+    },
+    {
+      "english": "I’m grateful for your support today.",
+      "czech": "Jsem vděčný za tvou podporu dnes.",
+      "transliteration": "Jsem vděč-ný za tvo-u pod-po-ru dnes.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:27:49.004075"
+    },
+    {
+      "english": "Thank you for being so patient.",
+      "czech": "Děkuji, že jsi tak trpělivý.",
+      "transliteration": "De-koo-ji, že jsi tak trpě-li-vý.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:27:49.004077"
+    },
+    {
+      "english": "Thanks for helping me figure it out.",
+      "czech": "Díky, pomohl jsi mi to pochopit.",
+      "transliteration": "Di-ky, po-mohl jsi mi to po-cho-pit.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:27:49.004079"
+    },
+    {
+      "english": "I appreciate your time and effort.",
+      "czech": "Oceňuji tvůj čas i úsilí.",
+      "transliteration": "O-ce-ňu-ji tvůj čas i u-si-lí.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:27:49.004080"
     }
   ],
-  "last_updated": "2026-11-20T04:34:00.136077"
+  "last_updated": "2026-11-20T19:27:49.004082"
 }
