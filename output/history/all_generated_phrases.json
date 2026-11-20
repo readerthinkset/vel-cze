@@ -26039,7 +26039,42 @@
       "transliteration": "Vyčistím si zuby, opláchnu, a usměju se.",
       "category": "Daily Routine",
       "generated_at": "2026-11-20T01:41:37.584915"
+    },
+    {
+      "english": "I’m on my way now.",
+      "czech": "Už teď jdu, hned tam budu.",
+      "transliteration": "Uz ted jdu, hned tam budu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T04:34:00.136052"
+    },
+    {
+      "english": "Sorry, I didn’t catch that.",
+      "czech": "Promiň, neslyšel jsem to dobře.",
+      "transliteration": "Promin, neslysel jsem to dobre.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T04:34:00.136067"
+    },
+    {
+      "english": "What does that mean in Czech?",
+      "czech": "Co to znamená česky?",
+      "transliteration": "Co to znamena cesky?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T04:34:00.136069"
+    },
+    {
+      "english": "Where is the bathroom, please?",
+      "czech": "Kde je, prosím, toaleta?",
+      "transliteration": "Kde je, prosim, toaleta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T04:34:00.136073"
+    },
+    {
+      "english": "Can you help me, please?",
+      "czech": "Můžete mi prosím pomoct?",
+      "transliteration": "Muzete mi prosim pomoct?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-20T04:34:00.136075"
     }
   ],
-  "last_updated": "2026-11-20T01:41:37.584917"
+  "last_updated": "2026-11-20T04:34:00.136077"
 }
