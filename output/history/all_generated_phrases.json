@@ -26109,7 +26109,42 @@
       "transliteration": "O-ce-ňu-ji tvůj čas i u-si-lí.",
       "category": "Gratitude",
       "generated_at": "2026-11-20T19:27:49.004080"
+    },
+    {
+      "english": "How much does this cost today?",
+      "czech": "Kolik to dnes stojí?",
+      "transliteration": "KOLik to dnes STOH-yee",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T21:40:31.941991"
+    },
+    {
+      "english": "Where can I try it on?",
+      "czech": "Kde si to můžu vyzkoušet?",
+      "transliteration": "Gdeh see to moo-zhu vyz-KOU-shet",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T21:40:31.942011"
+    },
+    {
+      "english": "Is there a matching belt available?",
+      "czech": "Máte k tomu i pásek?",
+      "transliteration": "MAH-teh k TOH-moo ee PAH-sek",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T21:40:31.942013"
+    },
+    {
+      "english": "Do you sell gift wrapping?",
+      "czech": "Děláte zabalení dárku?",
+      "transliteration": "DYELah-teh za-BA-nee dahr-koo",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T21:40:31.942015"
+    },
+    {
+      "english": "Can I get a different size?",
+      "czech": "Můžu dostat jinou velikost?",
+      "transliteration": "MOO-zhu DOS-tat YIN-oh VE-lee-kost",
+      "category": "Shopping",
+      "generated_at": "2026-11-20T21:40:31.942017"
     }
   ],
-  "last_updated": "2026-11-20T19:27:49.004082"
+  "last_updated": "2026-11-20T21:40:31.942019"
 }
