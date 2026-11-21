@@ -26319,7 +26319,42 @@
       "transliteration": "Vydechni pomalu, pusť napětí.",
       "category": "Balance",
       "generated_at": "2026-11-21T20:22:09.107961"
+    },
+    {
+      "english": "My ear hurts a little today.",
+      "czech": "Bolí mě trochu ucho, dnes.",
+      "transliteration": "bolí mě trošku ucho, dnes",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T22:00:31.077279"
+    },
+    {
+      "english": "His hand is cold, all morning.",
+      "czech": "Jeho ruka je studená, celé ráno.",
+      "transliteration": "jeho ruka je studená, celé ráno",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T22:00:31.077292"
+    },
+    {
+      "english": "I scratched my cheek by accident.",
+      "czech": "Škrábl jsem si tvář omylem.",
+      "transliteration": "škrábl jsem si tvář omylem",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T22:00:31.077293"
+    },
+    {
+      "english": "Her hair smells like fresh shampoo.",
+      "czech": "Její vlasy voní jako nové šamponu.",
+      "transliteration": "její vlasy voní jako nové šamponu",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T22:00:31.077295"
+    },
+    {
+      "english": "My eye is watery from dust.",
+      "czech": "Mám slzavé oko od prachu.",
+      "transliteration": "mám slzavé oko od prachu",
+      "category": "Body Parts",
+      "generated_at": "2026-11-21T22:00:31.077296"
     }
   ],
-  "last_updated": "2026-11-21T20:22:09.107963"
+  "last_updated": "2026-11-21T22:00:31.077298"
 }
