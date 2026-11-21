@@ -26249,7 +26249,42 @@
       "transliteration": "Ten kytarovy riff me roze smeje.",
       "category": "Music",
       "generated_at": "2026-11-21T04:28:33.691858"
+    },
+    {
+      "english": "Can you send me the files, please?",
+      "czech": "Můžete mi poslat ty soubory, prosím?",
+      "transliteration": "Můžete mi poslat ty soubory, prosím?",
+      "category": "Work",
+      "generated_at": "2026-11-21T18:27:51.381538"
+    },
+    {
+      "english": "I’ll handle the email first thing.",
+      "czech": "Nejdřív zpracují ten e-mail.",
+      "transliteration": "Nejdřív zpracujou ten ej-mail.",
+      "category": "Work",
+      "generated_at": "2026-11-21T18:27:51.381553"
+    },
+    {
+      "english": "What time works best for you?",
+      "czech": "Kdy se vám nejvíc hodí?",
+      "transliteration": "Kdy se vám nejvíc hodí?",
+      "category": "Work",
+      "generated_at": "2026-11-21T18:27:51.381554"
+    },
+    {
+      "english": "Please confirm the meeting location.",
+      "czech": "Prosím, potvrďte místo schůzky.",
+      "transliteration": "Prosím, potvrďte místo schůzky.",
+      "category": "Work",
+      "generated_at": "2026-11-21T18:27:51.381555"
+    },
+    {
+      "english": "Could we discuss this briefly now?",
+      "czech": "Můžeme to teď krátce probrat?",
+      "transliteration": "Můžeme to teď krátce probrat?",
+      "category": "Work",
+      "generated_at": "2026-11-21T18:27:51.381556"
     }
   ],
-  "last_updated": "2026-11-21T04:28:33.691861"
+  "last_updated": "2026-11-21T18:27:51.381559"
 }
