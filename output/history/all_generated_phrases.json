@@ -26459,7 +26459,42 @@
       "transliteration": "Můžu vyměnit pří lohu, prosím?",
       "category": "Restaurant",
       "generated_at": "2026-11-22T18:51:12.069054"
+    },
+    {
+      "english": "I’m smiling, and it feels great.",
+      "czech": "Usmívám se, a je mi skvěle.",
+      "transliteration": "Usmívám se, a je mi skvěle.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T20:34:57.457882"
+    },
+    {
+      "english": "What a lovely surprise, really.",
+      "czech": "To je krásné překvapení, vážně.",
+      "transliteration": "To je krásné prekvapení, vážně.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T20:34:57.457900"
+    },
+    {
+      "english": "I feel calm, and happy too.",
+      "czech": "Cítím se klidně, a také šťastně.",
+      "transliteration": "Cítím se klidně, a táké š̌ťastně.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T20:34:57.457901"
+    },
+    {
+      "english": "My day got better, so fast.",
+      "czech": "Můj den se zlepšil, tak rychle.",
+      "transliteration": "Můj den se zlepšil, tak rychle.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T20:34:57.457903"
+    },
+    {
+      "english": "I’m really glad I came here.",
+      "czech": "Opravdu jsem rád(a), že jsem tady.",
+      "transliteration": "Opravdu jsem rád(a), že jsem tady.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T20:34:57.457905"
     }
   ],
-  "last_updated": "2026-11-22T18:51:12.069056"
+  "last_updated": "2026-11-22T20:34:57.457907"
 }
