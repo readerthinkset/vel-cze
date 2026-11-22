@@ -26389,7 +26389,42 @@
       "transliteration": "Slunce se schovává za tenké mraky.",
       "category": "Weather",
       "generated_at": "2026-11-22T00:07:55.205770"
+    },
+    {
+      "english": "Point your tongue, just a little forward.",
+      "czech": "Nasměruj jazyk, trochu dopředu.",
+      "transliteration": "nasměruj jazyk, trochu dopředu",
+      "category": "Directions",
+      "generated_at": "2026-11-22T03:41:34.938202"
+    },
+    {
+      "english": "Start softly, then build the sound.",
+      "czech": "Začni tiše, pak přidej hlas.",
+      "transliteration": "zajni tiše, pak přidej hlas",
+      "category": "Directions",
+      "generated_at": "2026-11-22T03:41:34.938220"
+    },
+    {
+      "english": "Keep your jaw relaxed while you say it.",
+      "czech": "Měj uvolněnou čelist, když to říkáš.",
+      "transliteration": "měj uvolněnou čelist, když to říkáš",
+      "category": "Directions",
+      "generated_at": "2026-11-22T03:41:34.938222"
+    },
+    {
+      "english": "Make it shorter, like in a rush.",
+      "czech": "Řekni to kratší, jako když pospícháš.",
+      "transliteration": "řekni to kratší, jako když pospícháš",
+      "category": "Directions",
+      "generated_at": "2026-11-22T03:41:34.938224"
+    },
+    {
+      "english": "Breathe in, then speak the next word.",
+      "czech": "Vdechni, a pak řekni další slovo.",
+      "transliteration": "vdechni, a pak řekni další slovo",
+      "category": "Directions",
+      "generated_at": "2026-11-22T03:41:34.938225"
     }
   ],
-  "last_updated": "2026-11-22T00:07:55.205773"
+  "last_updated": "2026-11-22T03:41:34.938227"
 }
