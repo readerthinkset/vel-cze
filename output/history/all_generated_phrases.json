@@ -26354,7 +26354,42 @@
       "transliteration": "mám slzavé oko od prachu",
       "category": "Body Parts",
       "generated_at": "2026-11-21T22:00:31.077296"
+    },
+    {
+      "english": "The sky is bright today, finally.",
+      "czech": "Obloha je dnes konečně jasná.",
+      "transliteration": "Obloha je dnes konečně jasná.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T00:07:55.205746"
+    },
+    {
+      "english": "The wind picks up, then shifts direction.",
+      "czech": "Vítr zesílí, pak změní směr.",
+      "transliteration": "Vítr zesílí, pak změní směr.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T00:07:55.205764"
+    },
+    {
+      "english": "Clouds are low, it feels heavy.",
+      "czech": "Mraky jsou nízko, je to tíživé.",
+      "transliteration": "Mraky jsou nízko, je to tíživé.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T00:07:55.205767"
+    },
+    {
+      "english": "I can smell rain in the air.",
+      "czech": "Vůně deště je ve vzduchu.",
+      "transliteration": "Vůně deště je ve vzduchu.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T00:07:55.205769"
+    },
+    {
+      "english": "The sun is hidden behind thin clouds.",
+      "czech": "Slunce se schovává za tenké mraky.",
+      "transliteration": "Slunce se schovává za tenké mraky.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T00:07:55.205770"
     }
   ],
-  "last_updated": "2026-11-21T22:00:31.077298"
+  "last_updated": "2026-11-22T00:07:55.205773"
 }
