@@ -26424,7 +26424,42 @@
       "transliteration": "vdechni, a pak řekni další slovo",
       "category": "Directions",
       "generated_at": "2026-11-22T03:41:34.938225"
+    },
+    {
+      "english": "What soups do you have today?",
+      "czech": "Jaké polévky máte dnes?",
+      "transliteration": "Jaké polévky má te dnes?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T18:51:12.069021"
+    },
+    {
+      "english": "Is there a lunch special today?",
+      "czech": "Máte dnes nějaké polední menu?",
+      "transliteration": "Má te dnes nějaké polední menü?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T18:51:12.069033"
+    },
+    {
+      "english": "Do you offer vegetarian main dishes?",
+      "czech": "Dáváte si i vegetariánská hlavní jídla?",
+      "transliteration": "Dává te si i vegetariánská hlavní jídla?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T18:51:12.069035"
+    },
+    {
+      "english": "I don't eat pork, please.",
+      "czech": "Nekupuji prasečí maso, prosím.",
+      "transliteration": "Nekupuju prasečí maso, prosím.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T18:51:12.069036"
+    },
+    {
+      "english": "Can I substitute something in it?",
+      "czech": "Můžu vyměnit přílohu, prosím?",
+      "transliteration": "Můžu vyměnit pří lohu, prosím?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T18:51:12.069054"
     }
   ],
-  "last_updated": "2026-11-22T03:41:34.938227"
+  "last_updated": "2026-11-22T18:51:12.069056"
 }
