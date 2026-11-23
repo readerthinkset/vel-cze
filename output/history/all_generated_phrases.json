@@ -26529,7 +26529,42 @@
       "transliteration": "dávej si pauzy, jemně se protahni",
       "category": "Health",
       "generated_at": "2026-11-22T22:18:01.331639"
+    },
+    {
+      "english": "A fox hunts at dusk, quietly.",
+      "czech": "Liška loví za soumraku, tiše.",
+      "transliteration": "Liška loví za soumraku, tiše.",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:37:22.737263"
+    },
+    {
+      "english": "The dog runs home, wagging its tail.",
+      "czech": "Pes běží domů, vrtí ocasem.",
+      "transliteration": "Pes běží domů, vrtí ocasem.",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:37:22.737274"
+    },
+    {
+      "english": "A cat jumps onto the warm chair.",
+      "czech": "Kočka skáče na teplou židli.",
+      "transliteration": "Kočka skáče na teplou židli.",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:37:22.737276"
+    },
+    {
+      "english": "The horse snorts, and shakes its mane.",
+      "czech": "Kůň funí a protřásá hřívu.",
+      "transliteration": "Kůň funí a protřásá hřívu.",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:37:22.737278"
+    },
+    {
+      "english": "A goat climbs the rocky path, slowly.",
+      "czech": "Koza leze po kamenité cestě, pomalu.",
+      "transliteration": "Koza leze po kamenité cestě, pomalu.",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:37:22.737279"
     }
   ],
-  "last_updated": "2026-11-22T22:18:01.331641"
+  "last_updated": "2026-11-23T00:37:22.737281"
 }
