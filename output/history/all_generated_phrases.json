@@ -26564,7 +26564,42 @@
       "transliteration": "Koza leze po kamenité cestě, pomalu.",
       "category": "Animals",
       "generated_at": "2026-11-23T00:37:22.737279"
+    },
+    {
+      "english": "I love you, mom, so much.",
+      "czech": "Miluju tě, mámo, tolik.",
+      "transliteration": "Milujťě, má-mo, tolik.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-23T04:17:27.371177"
+    },
+    {
+      "english": "Dad, can you help me, please?",
+      "czech": "Tati, můžeš mi pomoct, prosím?",
+      "transliteration": "Ta-ti, mů-žeš mi po-moct, pro-sím?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-23T04:17:27.371193"
+    },
+    {
+      "english": "Grandma, tell me another story, please.",
+      "czech": "Babi, řekni mi ještě jeden příběh, prosím.",
+      "transliteration": "Ba-bi, řek-ni mi je-ště je-den pří-běh, pro-sím.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-23T04:17:27.371195"
+    },
+    {
+      "english": "Grandpa, your jokes make me smile.",
+      "czech": "Dědo, tvoje vtípky mě rozesmějou.",
+      "transliteration": "Je-do, tvo-je vtip-ky mě roz-esmě-ju.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-23T04:17:27.371197"
+    },
+    {
+      "english": "Uncle, I brought your favorite cookies.",
+      "czech": "Strýčku, přinesl jsem tvoje oblíbené sušenky.",
+      "transliteration": "Strýčku, přinesl jsem tvo-je o-blí-be-né su-šen-ky.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-23T04:17:27.371199"
     }
   ],
-  "last_updated": "2026-11-23T00:37:22.737281"
+  "last_updated": "2026-11-23T04:17:27.371201"
 }
