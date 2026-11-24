@@ -26669,7 +26669,42 @@
       "transliteration": "Moje hranice chrání můj klid.",
       "category": "Strength",
       "generated_at": "2026-11-24T01:28:45.624295"
+    },
+    {
+      "english": "I want to speak more naturally.",
+      "czech": "Chci mluvit přirozeněji.",
+      "transliteration": "khchi mlo- vit phri- o- zeh-nyeh-shee",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:09:17.686363"
+    },
+    {
+      "english": "I want to understand people quickly.",
+      "czech": "Chci rychle rozumět lidem.",
+      "transliteration": "khchi rych-leh ro- zu- m-yeht lee-dem",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:09:17.686374"
+    },
+    {
+      "english": "I’m ready to make mistakes.",
+      "czech": "Jsem připravený dělat chyby.",
+      "transliteration": "ysem pri-proh-veh-neh deh-lat khi-bi",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:09:17.686376"
+    },
+    {
+      "english": "I want to feel less nervous.",
+      "czech": "Chci být méně nervózní.",
+      "transliteration": "khchi byt mye-neh nerv-ohzni",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:09:17.686377"
+    },
+    {
+      "english": "Help me slow down, please.",
+      "czech": "Prosím, zpomalte.",
+      "transliteration": "pro-sim zpoh-mah-lteh",
+      "category": "Purpose",
+      "generated_at": "2026-11-24T03:09:17.686377"
     }
   ],
-  "last_updated": "2026-11-24T01:28:45.624297"
+  "last_updated": "2026-11-24T03:09:17.686379"
 }
