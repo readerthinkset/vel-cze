@@ -26634,7 +26634,42 @@
       "transliteration": "dobrá zpráva mi rozjasní den.",
       "category": "Happiness",
       "generated_at": "2026-11-23T23:14:08.619801"
+    },
+    {
+      "english": "I can do this, today.",
+      "czech": "Můžu to zvládnout, dnes.",
+      "transliteration": "Mužu to zvládnout, dnes.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T01:28:45.624276"
+    },
+    {
+      "english": "I will try again, calmly.",
+      "czech": "Zkusím to znovu, klidně.",
+      "transliteration": "Zkusím to znovu, klidně.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T01:28:45.624289"
+    },
+    {
+      "english": "Even small progress counts for me.",
+      "czech": "I malý pokrok pro mě platí.",
+      "transliteration": "I malý pokrok pro mě platí.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T01:28:45.624291"
+    },
+    {
+      "english": "I trust myself, step by step.",
+      "czech": "Věřím si, krok za krokem.",
+      "transliteration": "Věřím si, krok za krokem.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T01:28:45.624293"
+    },
+    {
+      "english": "My boundaries protect my peace.",
+      "czech": "Moje hranice chrání můj klid.",
+      "transliteration": "Moje hranice chrání můj klid.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T01:28:45.624295"
     }
   ],
-  "last_updated": "2026-11-23T23:14:08.619803"
+  "last_updated": "2026-11-24T01:28:45.624297"
 }
