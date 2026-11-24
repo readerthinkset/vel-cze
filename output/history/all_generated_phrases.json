@@ -26739,7 +26739,42 @@
       "transliteration": "Ptej se, proc to působi jinak",
       "category": "Creativity",
       "generated_at": "2026-11-24T04:38:42.896030"
+    },
+    {
+      "english": "One more time, please.",
+      "czech": "Ještě jednou, prosím.",
+      "transliteration": "yeshte yednou, pro-sím",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T07:34:45.630936"
+    },
+    {
+      "english": "Two cups, thanks, for both of us.",
+      "czech": "Dvě sklenice, díky, pro nás oba.",
+      "transliteration": "dve sklenitse, diki, pro nas oba",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T07:34:45.630952"
+    },
+    {
+      "english": "Three boys are playing outside.",
+      "czech": "Tři kluci si hrají venku.",
+      "transliteration": "tři klutsi si hraji venku",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T07:34:45.630954"
+    },
+    {
+      "english": "Four seats are still free.",
+      "czech": "Čtyři místa jsou ještě volná.",
+      "transliteration": "čtyři místa jsou yeště volná",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T07:34:45.630955"
+    },
+    {
+      "english": "Five minutes later, we leave.",
+      "czech": "Za pět minut, odcházíme.",
+      "transliteration": "za pět minut, od-cházíme",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T07:34:45.630957"
     }
   ],
-  "last_updated": "2026-11-24T04:38:42.896032"
+  "last_updated": "2026-11-24T07:34:45.630959"
 }
