@@ -26844,7 +26844,42 @@
       "transliteration": "Moc se mi líbí tvoje zelená bunda.",
       "category": "Colors",
       "generated_at": "2026-11-24T23:22:53.858891"
+    },
+    {
+      "english": "I’ll take this soup, please.",
+      "czech": "Dám si tu polévku, prosím.",
+      "transliteration": "Dam si tu polevku, prosim.",
+      "category": "Food",
+      "generated_at": "2026-11-25T01:14:48.854488"
+    },
+    {
+      "english": "Is this bread still warm?",
+      "czech": "Je tohle pečivo ještě teplé?",
+      "transliteration": "Je tohle pecivo jeste teple?",
+      "category": "Food",
+      "generated_at": "2026-11-25T01:14:48.854502"
+    },
+    {
+      "english": "Could I get a coffee, too?",
+      "czech": "Můžu si dát k tomu kávu?",
+      "transliteration": "MuzU si dat k tomu kavu?",
+      "category": "Food",
+      "generated_at": "2026-11-25T01:14:48.854503"
+    },
+    {
+      "english": "That pasta looks delicious, wow.",
+      "czech": "Ta pasta vypadá skvěle, to je ono.",
+      "transliteration": "Ta pasta vypada skvele, to je ono.",
+      "category": "Food",
+      "generated_at": "2026-11-25T01:14:48.854504"
+    },
+    {
+      "english": "Please, add extra cheese to mine.",
+      "czech": "Prosím, dejte mi tam extra sýr.",
+      "transliteration": "Prosím, dejte mi tam extra syr.",
+      "category": "Food",
+      "generated_at": "2026-11-25T01:14:48.854505"
     }
   ],
-  "last_updated": "2026-11-24T23:22:53.858893"
+  "last_updated": "2026-11-25T01:14:48.854506"
 }
