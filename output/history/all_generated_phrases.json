@@ -26879,7 +26879,42 @@
       "transliteration": "Prosím, dejte mi tam extra syr.",
       "category": "Food",
       "generated_at": "2026-11-25T01:14:48.854505"
+    },
+    {
+      "english": "Where is the fitting room, please?",
+      "czech": "Kde je zkušební kabinka, prosím?",
+      "transliteration": "Kde je zkušebni kabinka, prosim?",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:53.027748"
+    },
+    {
+      "english": "I need smaller socks, please.",
+      "czech": "Potřebuji menší ponožky, prosím.",
+      "transliteration": "Potřebuji menší ponožky, prosim.",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:53.027761"
+    },
+    {
+      "english": "These jeans are too long for me.",
+      "czech": "Tyhle džíny jsou pro mě moc dlouhé.",
+      "transliteration": "Tyhle džíny jsou pro mě moc dlouhé.",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:53.027764"
+    },
+    {
+      "english": "Do you have these in my size?",
+      "czech": "Máte tohle v mé velikosti?",
+      "transliteration": "Máte tohle v mé velikosti?",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:53.027765"
+    },
+    {
+      "english": "I like this jacket, it looks warm.",
+      "czech": "Líbí se mi tahle bunda, vypadá teple.",
+      "transliteration": "Libi se mi tahle bunda, vypadá teple.",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:53.027767"
     }
   ],
-  "last_updated": "2026-11-25T01:14:48.854506"
+  "last_updated": "2026-11-25T03:24:53.027769"
 }
