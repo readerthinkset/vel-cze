@@ -27019,7 +27019,42 @@
       "transliteration": "Tsitim se osaměle, i když jsem s lidmi.",
       "category": "Feelings",
       "generated_at": "2026-11-25T22:55:18.507104"
+    },
+    {
+      "english": "Please, call the police right now.",
+      "czech": "Prosím, zavolejte policii hned teď.",
+      "transliteration": "Prosím, zavolejte policii hned teď.",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T00:49:49.183017"
+    },
+    {
+      "english": "I lost my way, please help.",
+      "czech": "Ztratil jsem se, prosím, pomozte.",
+      "transliteration": "Ztratil jsem se, prosím, pomozte.",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T00:49:49.183028"
+    },
+    {
+      "english": "Is there a fire nearby, please?",
+      "czech": "Je tady blízko požár, prosím?",
+      "transliteration": "Je tady blízko požár, prosím?",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T00:49:49.183030"
+    },
+    {
+      "english": "Stop! I think someone is stealing.",
+      "czech": "Zastavte! Myslím, že někdo krade.",
+      "transliteration": "Zastavte! Myslím, že někdo krade.",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T00:49:49.183032"
+    },
+    {
+      "english": "I fell down, my back hurts.",
+      "czech": "Spadl jsem, bolí mě záda.",
+      "transliteration": "Spadl jsem, bolí mě záda.",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T00:49:49.183033"
     }
   ],
-  "last_updated": "2026-11-25T22:55:18.507105"
+  "last_updated": "2026-11-26T00:49:49.183035"
 }
