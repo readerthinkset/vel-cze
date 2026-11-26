@@ -27054,7 +27054,42 @@
       "transliteration": "Spadl jsem, bolí mě záda.",
       "category": "Emergency",
       "generated_at": "2026-11-26T00:49:49.183033"
+    },
+    {
+      "english": "Take your time, you’re doing fine.",
+      "czech": "Dej si čas, vede se ti dobře.",
+      "transliteration": "dej si čas, vede se ti dobře",
+      "category": "Patience",
+      "generated_at": "2026-11-26T02:41:46.559366"
+    },
+    {
+      "english": "Wait a moment, then decide.",
+      "czech": "Počkej chvilku, a pak rozhodni.",
+      "transliteration": "počkej chvilku, a pak rozhodni",
+      "category": "Patience",
+      "generated_at": "2026-11-26T02:41:46.559378"
+    },
+    {
+      "english": "Calm down, it will work out.",
+      "czech": "Uklidni se, ono to vyjde.",
+      "transliteration": "uklidni se, ono to vyjde",
+      "category": "Patience",
+      "generated_at": "2026-11-26T02:41:46.559380"
+    },
+    {
+      "english": "Let it take its time, please.",
+      "czech": "Nech to být, ať si to dojde.",
+      "transliteration": "nech to být, ať si to dojde",
+      "category": "Patience",
+      "generated_at": "2026-11-26T02:41:46.559382"
+    },
+    {
+      "english": "Breathe, slowly. Keep going.",
+      "czech": "Nadechni se, pomalu. Pokračuj.",
+      "transliteration": "nadechni se, pomalu. pokračuj",
+      "category": "Patience",
+      "generated_at": "2026-11-26T02:41:46.559383"
     }
   ],
-  "last_updated": "2026-11-26T00:49:49.183035"
+  "last_updated": "2026-11-26T02:41:46.559386"
 }
