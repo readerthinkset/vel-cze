@@ -27089,7 +27089,42 @@
       "transliteration": "nadechni se, pomalu. pokračuj",
       "category": "Patience",
       "generated_at": "2026-11-26T02:41:46.559383"
+    },
+    {
+      "english": "I’m looking for the main station.",
+      "czech": "Hledám hlavní nádraží.",
+      "transliteration": "Hledám hlavní nádraží.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T05:40:08.128122"
+    },
+    {
+      "english": "Where is the nearest pharmacy, please?",
+      "czech": "Kde je nejbližší lékárna, prosím?",
+      "transliteration": "Kde je nejbližší lékárna, prosím?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T05:40:08.128136"
+    },
+    {
+      "english": "Do you speak English, a little?",
+      "czech": "Mluvíte anglicky, trochu?",
+      "transliteration": "Mluvíte anglicky, trochu?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T05:40:08.128137"
+    },
+    {
+      "english": "Sorry, I don’t understand you.",
+      "czech": "Promiňte, nerozumím vám.",
+      "transliteration": "Promiňte, nerozumím vám.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T05:40:08.128139"
+    },
+    {
+      "english": "Could you show me on the map?",
+      "czech": "Můžete mi to ukázat na mapě?",
+      "transliteration": "Můžete mi to ukázat na mapě?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T05:40:08.128140"
     }
   ],
-  "last_updated": "2026-11-26T02:41:46.559386"
+  "last_updated": "2026-11-26T05:40:08.128142"
 }
