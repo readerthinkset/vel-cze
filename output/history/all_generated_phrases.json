@@ -27194,7 +27194,28 @@
       "transliteration": "Stahni soubor, pomalu.",
       "category": "Technology",
       "generated_at": "2026-11-26T22:46:26.086498"
+    },
+    {
+      "english": "Start with a simple sentence, today.",
+      "czech": "Začni jednoduchou větou, dnes.",
+      "transliteration": "Zay-nni pro-stin-ʒdno-u ve-to-u, dnes.",
+      "category": "Education",
+      "generated_at": "2026-11-27T11:47:31.579685"
+    },
+    {
+      "english": "Repeat it twice, then swap the word.",
+      "czech": "Řekni to dvakrát, pak vyměň slovo.",
+      "transliteration": "Ryehk-nee to dva-kraht, pak vy-meň slo-vo.",
+      "category": "Education",
+      "generated_at": "2026-11-27T11:47:31.579701"
+    },
+    {
+      "english": "Ask, then listen carefully, and answer.",
+      "czech": "Zeptej se, pak pozorně poslouchej, a odpověz.",
+      "transliteration": "Ze-ptej se, pak po-zor-nye pos-lou-chay, a od-po-vy-edz.",
+      "category": "Education",
+      "generated_at": "2026-11-27T11:47:31.579703"
     }
   ],
-  "last_updated": "2026-11-26T22:46:26.086500"
+  "last_updated": "2026-11-27T11:47:31.579705"
 }
