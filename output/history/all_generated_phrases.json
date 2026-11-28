@@ -27236,7 +27236,28 @@
       "transliteration": "Vydechni dlouze, tělo povolí.",
       "category": "Mindfulness",
       "generated_at": "2026-11-27T19:24:30.974330"
+    },
+    {
+      "english": "I’m so happy for you, really.",
+      "czech": "Opravdu se z tebe raduju.",
+      "transliteration": "Opravdu se z tebe raduju.",
+      "category": "Emotions",
+      "generated_at": "2026-11-28T06:57:57.370629"
+    },
+    {
+      "english": "I feel great right now.",
+      "czech": "Teď se mám skvěle.",
+      "transliteration": "Ted se mam skvele.",
+      "category": "Emotions",
+      "generated_at": "2026-11-28T06:57:57.370641"
+    },
+    {
+      "english": "I’m feeling really nervous.",
+      "czech": "Mám z toho hrozný nervy.",
+      "transliteration": "Mam z toho hrozny nervy.",
+      "category": "Emotions",
+      "generated_at": "2026-11-28T06:57:57.370643"
     }
   ],
-  "last_updated": "2026-11-27T19:24:30.974332"
+  "last_updated": "2026-11-28T06:57:57.370645"
 }
