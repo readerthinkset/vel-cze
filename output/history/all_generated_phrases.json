@@ -27257,7 +27257,28 @@
       "transliteration": "Mam z toho hrozny nervy.",
       "category": "Emotions",
       "generated_at": "2026-11-28T06:57:57.370643"
+    },
+    {
+      "english": "Let’s go, time’s running out.",
+      "czech": "Pojďme, už nám dochází čas.",
+      "transliteration": "Pojd'me, už nám dochází čas",
+      "category": "Time",
+      "generated_at": "2026-11-28T16:41:37.338097"
+    },
+    {
+      "english": "Wait, I’ll be right there.",
+      "czech": "Počkej, hned tam budu.",
+      "transliteration": "Počkej, hned tam budu",
+      "category": "Time",
+      "generated_at": "2026-11-28T16:41:37.338112"
+    },
+    {
+      "english": "I’ll text you later, okay?",
+      "czech": "Zavolám ti později, jo?",
+      "transliteration": "Zavolám ti později, jo",
+      "category": "Time",
+      "generated_at": "2026-11-28T16:41:37.338114"
     }
   ],
-  "last_updated": "2026-11-28T06:57:57.370645"
+  "last_updated": "2026-11-28T16:41:37.338116"
 }
